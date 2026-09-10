@@ -1,0 +1,1160 @@
+[2026-09-10 02:58:05] Starting fresh card scrape
+[2026-09-10 02:58:08] Page 1: found 10 cards, 10 new, saved so far: 10
+[2026-09-10 02:58:11] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 02:58:11] Resuming details scrape — 0 jobs already saved
+[2026-09-10 02:58:11] 10 jobs remaining
+[2026-09-10 02:58:17] [1/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Rust, Unity
+[2026-09-10 02:58:20] [2/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, Go, Unity
+[2026-09-10 02:58:23] [3/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Unity
+[2026-09-10 02:58:27] [4/10] Lead Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git
+[2026-09-10 02:58:30] [5/10] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Go, AWS, Azure, SQL, MongoDB, Redis, CI/CD, Git, Unity
+[2026-09-10 02:58:33] [6/10] Senior Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Unity
+[2026-09-10 02:58:35] [7/10] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Go, Rust, AWS, GCP, Docker, Kubernetes, Terraform, Unity
+[2026-09-10 02:58:38] [8/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Machine Learning, Unity
+[2026-09-10 02:58:41] [9/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Unity
+[2026-09-10 02:58:44] [10/10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Rust, Git, Unity
+[2026-09-10 02:58:44] Details scrape finished.
+[2026-09-10 03:05:05] Resuming with 10 cards already saved
+[2026-09-10 03:05:09] Page 1: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:05:11] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:05:11] Resuming details scrape — 10 jobs already saved
+[2026-09-10 03:05:11] 0 jobs remaining
+[2026-09-10 03:05:13] Details scrape finished.
+[2026-09-10 03:05:39] Resuming with 10 cards already saved
+[2026-09-10 03:05:41] Page 1: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:05:43] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:05:43] Resuming details scrape — 10 jobs already saved
+[2026-09-10 03:05:43] 0 jobs remaining
+[2026-09-10 03:05:45] Details scrape finished.
+[2026-09-10 03:07:04] Resuming with 10 cards already saved
+[2026-09-10 03:07:07] Page 1: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:07:09] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:07:09] Resuming details scrape — 0 jobs already saved
+[2026-09-10 03:07:09] 10 jobs remaining
+[2026-09-10 03:07:14] [1/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Rust, Data Structures, Algorithms, System Design, Concurrency, Networking
+[2026-09-10 03:07:17] [2/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, Go
+[2026-09-10 03:07:20] [3/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:07:23] [4/10] Lead Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git
+[2026-09-10 03:07:26] [5/10] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Go, AWS, Azure, SQL, MongoDB, Redis, CI/CD, Git, Data Structures, Algorithms, Postman, Microservices
+[2026-09-10 03:07:28] [6/10] Senior Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Data Structures, Algorithms, Microservices
+[2026-09-10 03:07:32] [7/10] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Go, Rust, AWS, GCP, Docker, Kubernetes, Terraform, OOP, Concurrency, Networking
+[2026-09-10 03:07:34] [8/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Machine Learning
+[2026-09-10 03:07:37] [9/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:07:40] [10/10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Rust, Git, Data Structures, Algorithms
+[2026-09-10 03:07:40] Details scrape finished.
+[2026-09-10 03:18:56] Resuming with 10 cards already saved
+[2026-09-10 03:18:59] Page 1: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:19:02] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:19:02] Resuming details scrape — 10 jobs already saved
+[2026-09-10 03:19:02] 0 jobs remaining
+[2026-09-10 03:19:03] Details scrape finished.
+[2026-09-10 03:20:22] Starting fresh card scrape
+[2026-09-10 03:20:25] Page 1: found 10 cards, 10 new, saved so far: 10
+[2026-09-10 03:20:27] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:20:27] Resuming details scrape — 0 jobs already saved
+[2026-09-10 03:20:27] 10 jobs remaining
+[2026-09-10 03:20:32] [1/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Rust, Data Structures, Algorithms, System Design, Concurrency, Networking
+[2026-09-10 03:20:35] [2/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, Go
+[2026-09-10 03:20:38] [3/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:20:42] [4/10] Lead Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Distributed Systems
+[2026-09-10 03:20:44] [5/10] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Go, AWS, Azure, SQL, MongoDB, Redis, CI/CD, Git, Data Structures, Algorithms, Postman, Microservices
+[2026-09-10 03:20:47] [6/10] Senior Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Data Structures, Algorithms, Distributed Systems, Microservices
+[2026-09-10 03:20:50] [7/10] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Go, Rust, AWS, GCP, Docker, Kubernetes, Terraform, OOP, Distributed Systems, Concurrency, Networking
+[2026-09-10 03:20:53] [8/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Machine Learning
+[2026-09-10 03:20:56] [9/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:20:58] [10/10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Rust, Git, Data Structures, Algorithms, Distributed Systems
+[2026-09-10 03:20:58] Details scrape finished.
+[2026-09-10 03:22:08] Starting fresh card scrape
+[2026-09-10 03:22:11] Page 1: found 10 cards, 10 new, saved so far: 10
+[2026-09-10 03:22:13] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:22:13] Resuming details scrape — 0 jobs already saved
+[2026-09-10 03:22:13] 10 jobs remaining
+[2026-09-10 03:22:20] [1/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Rust, Data Structures, Algorithms, System Design, Concurrency, Networking
+[2026-09-10 03:22:23] [2/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, Go
+[2026-09-10 03:22:26] [3/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:22:28] [4/10] Lead Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Distributed Systems
+[2026-09-10 03:22:31] [5/10] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Go, AWS, Azure, SQL, MongoDB, Redis, CI/CD, Git, Data Structures, Algorithms, Postman, Microservices
+[2026-09-10 03:22:33] [6/10] Senior Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Data Structures, Algorithms, Distributed Systems, Microservices
+[2026-09-10 03:22:36] [7/10] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Go, Rust, AWS, GCP, Docker, Kubernetes, Terraform, OOP, Distributed Systems, Concurrency, Networking
+[2026-09-10 03:22:39] [8/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Machine Learning
+[2026-09-10 03:22:41] [9/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:22:44] [10/10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Rust, Git, Data Structures, Algorithms, Distributed Systems
+[2026-09-10 03:22:44] Details scrape finished.
+[2026-09-10 03:26:44] Starting fresh card scrape
+[2026-09-10 03:26:47] Page 1: found 10 cards, 10 new, saved so far: 10
+[2026-09-10 03:26:49] Card scrape finished. Total unique jobs saved: 10
+[2026-09-10 03:26:49] Resuming details scrape — 0 jobs already saved
+[2026-09-10 03:26:49] 10 jobs remaining
+[2026-09-10 03:26:56] [1/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Rust, Data Structures, Algorithms, System Design, Concurrency, Networking
+[2026-09-10 03:26:59] [2/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, Go
+[2026-09-10 03:27:02] [3/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:27:05] [4/10] Lead Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Distributed Systems
+[2026-09-10 03:27:09] [5/10] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Go, AWS, Azure, SQL, MongoDB, Redis, CI/CD, Git, Data Structures, Algorithms, Postman, Microservices
+[2026-09-10 03:27:13] [6/10] Senior Software Engineer -> skills: OK, keywords: Java, Go, SQL, CI/CD, Git, Data Structures, Algorithms, Distributed Systems, Microservices
+[2026-09-10 03:27:15] [7/10] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Go, Rust, AWS, GCP, Docker, Kubernetes, Terraform, OOP, Distributed Systems, Concurrency, Networking
+[2026-09-10 03:27:18] [8/10] Senior Software Engineer -> skills: OK, keywords: C++, Go, Machine Learning
+[2026-09-10 03:27:21] [9/10] Software Engineer -> skills: OK, keywords: C++, Python, Java, JavaScript, Go, Algorithms
+[2026-09-10 03:27:25] [10/10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Rust, Git, Data Structures, Algorithms, Distributed Systems
+[2026-09-10 03:27:25] Details scrape finished.
+[2026-09-10 03:31:25] Starting fresh card scrape
+[2026-09-10 03:31:28] Page 1: found 10 cards, 10 new, saved so far: 10
+[2026-09-10 03:31:32] Page 2: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:35] Page 3: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:39] Page 4: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:42] Page 5: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:46] Page 6: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:50] Page 7: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:53] Page 8: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:31:57] Page 9: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:01] Page 10: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:05] Page 11: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:09] Page 12: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:12] Page 13: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:16] Page 14: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:19] Page 15: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:23] Page 16: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:27] Page 17: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:31] Page 18: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:34] Page 19: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:37] Page 20: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:41] Page 21: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:45] Page 22: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:49] Page 23: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:52] Page 24: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:32:56] Page 25: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:00] Page 26: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:04] Page 27: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:07] Page 28: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:11] Page 29: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:14] Page 30: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:18] Page 31: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:22] Page 32: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:25] Page 33: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:29] Page 34: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:33] Page 35: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:36] Page 36: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:40] Page 37: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:43] Page 38: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:47] Page 39: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:51] Page 40: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:55] Page 41: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:33:58] Page 42: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:36:23] Resuming with 10 cards already saved
+[2026-09-10 03:36:25] Page 1: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:36:29] Page 2: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:36:32] Page 3: found 1 cards, 0 new, saved so far: 10
+[2026-09-10 03:36:36] Page 4: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:36:41] Page 5: found 10 cards, 0 new, saved so far: 10
+[2026-09-10 03:36:43] Page 6: no cards found (1/3 empty in a row)
+[2026-09-10 03:50:21] === Running in TRIAL mode ===
+[2026-09-10 03:50:23] Starting fresh scrape
+[2026-09-10 03:50:29]   [1] Senior Software Engineer -> skills: OK, keywords: Rust, Concurrency, Networking, Design Patterns, Data Structures, Algorithms, System Design
+[2026-09-10 03:50:31]   [2] Software Engineer -> skills: OK, keywords: Python, Java
+[2026-09-10 03:50:33]   [3] Software Engineer -> skills: OK, keywords: Python, Java, JavaScript, Generative AI, Algorithms
+[2026-09-10 03:50:36]   [4] Lead Software Engineer -> skills: OK, keywords: Java, Spring, Spring Boot, CI/CD, SQL, Distributed Systems, Git, Agile
+[2026-09-10 03:50:38]   [5] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Scala, AWS, Azure, Jenkins, CI/CD, MySQL, MongoDB, Redis, Cassandra, Elasticsearch, NoSQL, Apache Spark, Kafka, Microservices, Agile, Scrum, Data Structures, Algorithms, Postman
+[2026-09-10 03:50:40]   [6] Senior Software Engineer -> skills: OK, keywords: Java, REST API, Spring, Spring Boot, CI/CD, SQL, ETL, Kafka, Distributed Systems, Microservices, Agile, Design Patterns, Data Structures, Algorithms
+[2026-09-10 03:50:42]   [7] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Scala, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, Data Engineering, Apache Spark, Distributed Systems, Concurrency, Networking, TDD
+[2026-09-10 03:50:44]   [8] Senior Software Engineer -> skills: OK, keywords: Machine Learning
+[2026-09-10 03:50:47]   [9] Software Engineer -> skills: OK, keywords: Python, Java, JavaScript, Generative AI, Algorithms
+[2026-09-10 03:50:49]   [10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Distributed Systems, Agile, Scrum, Unit Testing, Design Patterns, Data Structures, Algorithms
+[2026-09-10 03:50:49] Page 1: found 10 cards, 10 newly scraped, total saved: 10
+[2026-09-10 03:50:50] Could not advance to the next page (no button, disabled, or content didn't change) — assuming end of results. Stopping.
+[2026-09-10 03:50:50] Scrape finished. Total jobs saved: 10
+[2026-09-10 03:52:04] === Running in FULL mode ===
+[2026-09-10 03:52:06] Resuming with 10 jobs already fully saved
+[2026-09-10 03:52:09] Page 1: found 10 cards, 0 newly scraped, total saved: 10
+[2026-09-10 03:52:09]   (no new jobs on this page — 1/3 stalled pages in a row)
+[2026-09-10 03:52:10] Could not advance to the next page (no button, disabled, or content didn't change) — assuming end of results. Stopping.
+[2026-09-10 03:52:10] Scrape finished. Total jobs saved: 10
+[2026-09-10 03:52:21] === Running in FULL mode ===
+[2026-09-10 03:52:23] Resuming with 10 jobs already fully saved
+[2026-09-10 03:52:26] Page 1: found 10 cards, 0 newly scraped, total saved: 10
+[2026-09-10 03:52:26]   (no new jobs on this page — 1/3 stalled pages in a row)
+[2026-09-10 03:52:27] Could not advance to the next page (no button, disabled, or content didn't change) — assuming end of results. Stopping.
+[2026-09-10 03:52:27] Scrape finished. Total jobs saved: 10
+[2026-09-10 03:54:13] === Running in FULL mode ===
+[2026-09-10 03:54:15] Resuming with 10 jobs already fully saved
+[2026-09-10 03:54:18] Page 1: found 10 cards, 0 newly scraped, total saved: 10
+[2026-09-10 03:54:18]   (no new jobs on this page — 1/3 stalled pages in a row)
+[2026-09-10 03:54:18]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-google-germany-5-8-years-jobid-F815xTUT3HlzpSvf+uAgZw==&source=srp
+[2026-09-10 03:54:19]   [debug] Clicking pagination-next raised an exception: Message: element click intercepted: Element <button class="pagination-next">...</button> is not clickable at point (787, 629). Other element would receive the click: <div class="p-4 fixed bottom-0 w-full bg-white border-t border-gray-200 z-40 box-border shadow-[0_0_10px_4px_#19171A1A]">...</div>
+  (Session info: chrome=153.0.8010.36); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+0   chromedriver                        0x000000010273e784 chromedriver + 3499908
+1   chromedriver                        0x000000010242cb90 chromedriver + 281488
+2   chromedriver                        0x000000010247afec chromedriver + 602092
+3   chromedriver                        0x00000001024798a0 chromedriver + 596128
+4   chromedriver                        0x0000000102477988 chromedriver + 588168
+5   chromedriver                        0x0000000102476d5c chromedriver + 585052
+6   chromedriver                        0x000000010246c440 chromedriver + 541760
+7   chromedriver                        0x000000010246bed4 chromedriver + 540372
+8   chromedriver                        0x00000001024b5380 chromedriver + 840576
+9   chromedriver                        0x000000010246acac chromedriver + 535724
+10  chromedriver                        0x000000010270dff4 chromedriver + 3301364
+11  chromedriver                        0x0000000102711290 chromedriver + 3314320
+12  chromedriver                        0x00000001026f7bc8 chromedriver + 3210184
+13  chromedriver                        0x0000000102711b50 chromedriver + 3316560
+14  chromedriver                        0x00000001026eb6e4 chromedriver + 3159780
+15  chromedriver                        0x000000010272d52c chromedriver + 3429676
+16  chromedriver                        0x000000010272d68c chromedriver + 3430028
+17  chromedriver                        0x000000010273e438 chromedriver + 3499064
+18  libsystem_pthread.dylib             0x0000000183c5fc54 _pthread_start + 132
+19  libsystem_pthread.dylib             0x0000000183c5ac18 thread_start + 4
+
+[2026-09-10 03:54:19] Could not advance to the next page (no button, disabled, or content didn't change) — assuming end of results. Stopping.
+[2026-09-10 03:54:19] Scrape finished. Total jobs saved: 10
+[2026-09-10 03:59:04] === Running in TRIAL mode ===
+[2026-09-10 03:59:07] Resuming with 10 jobs already fully saved
+[2026-09-10 03:59:10] Page 1: found 10 cards, 0 newly scraped, total saved: 10
+[2026-09-10 03:59:10]   (no new jobs on this page - 1/3 stalled pages in a row)
+[2026-09-10 03:59:10]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-google-germany-5-8-years-jobid-F815xTUT3HlzpSvf+uAgZw==&source=srp
+[2026-09-10 03:59:11]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-google-united-states-of-america-usa-5-8-years-jobid-4gdIbE49mlpzpSvf+uAgZw==&source=srp
+[2026-09-10 03:59:15]   [11] Senior Software Engineer -> skills: OK, keywords: Python, Java, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 03:59:17]   [12] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Kotlin, Machine Learning, LLM
+[2026-09-10 03:59:20]   [13] Staff Software Engineer -> skills: OK, keywords: Python, Java, AWS, Bash, SQL, Agile
+[2026-09-10 03:59:22]   [14] Custom Software Engineer -> skills: OK, keywords: Azure, Agile
+[2026-09-10 03:59:24]   [15] Custom Software Engineer -> skills: OK, keywords: SQL, Agile
+[2026-09-10 03:59:26]   [16] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 03:59:28]   [17] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 03:59:31]   [18] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 03:59:33]   [19] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 03:59:35]   [20] Staff Software Engineer -> skills: OK, keywords: Google Cloud, Distributed Systems, Networking, System Design
+[2026-09-10 03:59:35] Page 2: found 10 cards, 10 newly scraped, total saved: 20
+[2026-09-10 03:59:37] Scrape finished. Total jobs saved: 20
+[2026-09-10 04:03:10] === Running in FULL mode ===
+[2026-09-10 04:03:11] Starting fresh scrape
+[2026-09-10 04:03:17]   [1] Senior Software Engineer -> skills: OK, keywords: Rust, Concurrency, Networking, Design Patterns, Data Structures, Algorithms, System Design
+[2026-09-10 04:03:19]   [2] Software Engineer -> skills: OK, keywords: Python, Java
+[2026-09-10 04:03:21]   [3] Software Engineer -> skills: OK, keywords: Python, Java, JavaScript, Generative AI, Algorithms
+[2026-09-10 04:03:23]   [4] Lead Software Engineer -> skills: OK, keywords: Java, Spring, Spring Boot, CI/CD, SQL, Distributed Systems, Git, Agile
+[2026-09-10 04:03:25]   [5] SOFTWARE ENGINEER -> skills: OK, keywords: Java, Scala, AWS, Azure, Jenkins, CI/CD, MySQL, MongoDB, Redis, Cassandra, Elasticsearch, NoSQL, Apache Spark, Kafka, Microservices, Agile, Scrum, Data Structures, Algorithms, Postman
+[2026-09-10 04:03:28]   [6] Senior Software Engineer -> skills: OK, keywords: Java, REST API, Spring, Spring Boot, CI/CD, SQL, ETL, Kafka, Distributed Systems, Microservices, Agile, Design Patterns, Data Structures, Algorithms
+[2026-09-10 04:03:30]   [7] Software Engineer Or Senior Software Engineer - Da -> skills: OK, keywords: Python, Java, Scala, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, Data Engineering, Apache Spark, Distributed Systems, Concurrency, Networking, TDD
+[2026-09-10 04:03:32]   [8] Senior Software Engineer -> skills: OK, keywords: Machine Learning
+[2026-09-10 04:03:34]   [9] Software Engineer -> skills: OK, keywords: Python, Java, JavaScript, Generative AI, Algorithms
+[2026-09-10 04:03:36]   [10] Staff Software Engineer -> skills: OK, keywords: Python, Java, Distributed Systems, Agile, Scrum, Unit Testing, Design Patterns, Data Structures, Algorithms
+[2026-09-10 04:03:36] Page 1: found 10 cards, 10 newly scraped, total saved: 10
+[2026-09-10 04:03:37]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-google-germany-5-8-years-jobid-F815xTUT3HlzpSvf+uAgZw==&source=srp
+[2026-09-10 04:03:37]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/staff-software-engineer-google-bengaluru-8-11-years-jobid-kHSXwGRSKzBzpSvf+uAgZw==&source=srp
+[2026-09-10 04:03:42]   [11] Staff Software Engineer -> skills: OK, keywords: Google Cloud, Distributed Systems, Networking, System Design
+[2026-09-10 04:03:44]   [12] Lead Software Engineer -> skills: OK, keywords: Go, Agile
+[2026-09-10 04:03:46]   [13] Lead Software Engineer -> skills: OK, keywords: Java, Spring, Spring Boot, AWS, Docker, Kubernetes, CI/CD, Lambda, SQL, PostgreSQL, MySQL, MongoDB, Cassandra, NoSQL, Kafka, Distributed Systems, Microservices, Git, Agile, Scrum, TDD, Design Patterns, System Design
+[2026-09-10 04:03:49]   [14] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:03:51]   [15] Custom Software Engineer -> skills: OK, keywords: Java, Spring, Spring Boot, Agile
+[2026-09-10 04:03:53]   [16] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, TypeScript, React, HTML, CSS, Node.js, REST API, Spring, AWS, Azure, GCP, Docker, CI/CD, SQL, NoSQL, Agile, Postman
+[2026-09-10 04:03:55]   [17] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:03:57]   [18] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:03:59]   [19] Software Engineer, Terraform -> skills: OK, keywords: Go, GCP, Google Cloud, Terraform, Generative AI, Distributed Systems, Networking, System Design
+[2026-09-10 04:04:02]   [20] Principal Software Engineer -> skills: OK, keywords: Java, Spring, Spring Boot, AWS, SQL, NoSQL, Microservices
+[2026-09-10 04:04:02] Page 2: found 10 cards, 10 newly scraped, total saved: 20
+[2026-09-10 04:04:02]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/staff-software-engineer-google-bengaluru-8-11-years-jobid-kHSXwGRSKzBzpSvf+uAgZw==&source=srp
+[2026-09-10 04:04:02]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/title-software-engineer-netapp-bengaluru-3-5-years-jobid-yqywT241vwFzpSvf+uAgZw==&source=srp
+[2026-09-10 04:04:07]   [21] Title: Software Engineer -> skills: OK, keywords: Python, Java, Go, Ruby, AWS, Linux, SQL, Cassandra, NoSQL, Distributed Systems, Agile, TDD
+[2026-09-10 04:04:09]   [22] Custom Software Engineer -> skills: OK, keywords: Spring, Spring Boot, PostgreSQL, MySQL, Microservices, Git, Agile
+[2026-09-10 04:04:11]   [23] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:14]   [24] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:16]   [25] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:18]   [26] Title: Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:04:20]   [27] Custom Software Engineer -> skills: OK, keywords: Microservices, Agile
+[2026-09-10 04:04:23]   [28] Custom Software Engineer -> skills: OK, keywords: Python, Java, JavaScript, TypeScript, React, Angular, Vue, GraphQL, Spring, Spring Boot, CI/CD, SQL, NoSQL, LLM, Agile
+[2026-09-10 04:04:25]   [29] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, TypeScript, React, Spring, Spring Boot, Agile, OAuth, JWT
+[2026-09-10 04:04:27]   [30] Custom Software Engineer -> skills: OK, keywords: Java, Agile
+[2026-09-10 04:04:27] Page 3: found 10 cards, 10 newly scraped, total saved: 30
+[2026-09-10 04:04:27]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/title-software-engineer-netapp-bengaluru-3-5-years-jobid-yqywT241vwFzpSvf+uAgZw==&source=srp
+[2026-09-10 04:04:28]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-engineer-it-infrastructure-google-united-states-of-america-usa-5-8-years-jobid-zteD8rMAcMtzpSvf+uAgZw==&source=srp
+[2026-09-10 04:04:33]   [31] Software Engineer, IT Infrastructure -> skills: OK, keywords: Python, GCP, Google Cloud, Docker, Terraform, SQL, ETL, Networking, System Design
+[2026-09-10 04:04:35]   [32] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:37]   [33] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:39]   [34] Custom Software Engineer -> skills: OK, keywords: Python, Agile, Design Patterns
+[2026-09-10 04:04:42]   [35] Custom Software Engineer -> skills: OK, keywords: Spring, Spring Boot, AWS, Azure, SQL, NoSQL, Microservices, Agile
+[2026-09-10 04:04:44]   [36] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:46]   [37] Custom Software Engineer -> skills: OK, keywords: GCP, Google Cloud, Agile
+[2026-09-10 04:04:48]   [38] Custom Software Engineer -> skills: OK, keywords: JavaScript, HTML, CSS, Agile
+[2026-09-10 04:04:51]   [39] Custom Software Engineer -> skills: OK, keywords: Azure, Agile
+[2026-09-10 04:04:51] Page 4: found 10 cards, 9 newly scraped, total saved: 39
+[2026-09-10 04:04:51]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-it-infrastructure-google-united-states-of-america-usa-5-8-years-jobid-zteD8rMAcMtzpSvf+uAgZw==&source=srp
+[2026-09-10 04:04:51]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-bengaluru-nagpur-5-8-years-jobid-rpjTWR+02YRzpSvf+uAgZw==&source=srp
+[2026-09-10 04:04:56]   [40] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:04:58]   [41] Custom Software Engineer -> skills: OK, keywords: Spring, Spring Boot, AWS, Azure, PostgreSQL, MySQL, Microservices, Agile
+[2026-09-10 04:05:00]   [42] Custom Software Engineer -> skills: OK, keywords: Spring, Spring Boot, PostgreSQL, MySQL, Microservices, Git, Agile, Design Patterns
+[2026-09-10 04:05:03]   [43] Custom Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:05:05]   [44] Custom Software Engineer -> skills: OK, keywords: Linux, SQL, ETL
+[2026-09-10 04:05:07]   [45] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:05:09]   [46] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:05:11]   [47] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:05:13]   [48] Custom Software Engineer -> skills: OK, keywords: Python, Scala, AWS, Kubernetes, Shell Scripting, Agile
+[2026-09-10 04:05:16]   [49] Senior Software Engineer -> skills: OK, keywords: Python, Java, Jenkins, SQL, LLM, Microservices, Git, Agile, Jira
+[2026-09-10 04:05:16] Page 5: found 10 cards, 10 newly scraped, total saved: 49
+[2026-09-10 04:05:16]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-bengaluru-nagpur-5-8-years-jobid-rpjTWR+02YRzpSvf+uAgZw==&source=srp
+[2026-09-10 04:05:17]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-mumbai-7-10-years-jobid-fnUMEbIqWeNzpSvf+uAgZw==&source=srp
+[2026-09-10 04:05:21]   [50] Senior Software Engineer -> skills: OK, keywords: Python, Node.js, AWS, Docker, Kubernetes, PostgreSQL, Redis, DynamoDB, LLM, Generative AI, Distributed Systems, Microservices, System Design
+[2026-09-10 04:05:23]   [51] Custom Software Engineer -> skills: OK, keywords: Java, Agile
+[2026-09-10 04:05:26]   [52] Custom Software Engineer -> skills: OK, keywords: Java, Agile
+[2026-09-10 04:05:28]   [53] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:05:28] Page 6: found 10 cards, 4 newly scraped, total saved: 53
+[2026-09-10 04:05:28]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-mumbai-7-10-years-jobid-fnUMEbIqWeNzpSvf+uAgZw==&source=srp
+[2026-09-10 04:05:29]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-google-united-states-of-america-usa-5-8-years-jobid-4gdIbE49mlpzpSvf+uAgZw==&source=srp
+[2026-09-10 04:05:33]   [54] Senior Software Engineer -> skills: OK, keywords: Python, Java, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:05:35]   [55] Staff Software Engineer -> skills: OK, keywords: Python, Java, Go, Kotlin, Machine Learning, LLM
+[2026-09-10 04:05:38]   [56] Staff Software Engineer -> skills: OK, keywords: Python, Java, AWS, Bash, SQL, Agile
+[2026-09-10 04:05:40]   [57] Custom Software Engineer -> skills: OK, keywords: Azure, Agile
+[2026-09-10 04:05:42]   [58] Custom Software Engineer -> skills: OK, keywords: SQL, Agile
+[2026-09-10 04:05:44]   [59] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:05:46]   [60] Custom Software Engineer -> skills: OK, keywords: Azure, Agile
+[2026-09-10 04:05:48]   [61] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:05:51]   [62] Professional Software Engineer -> skills: OK, keywords: JavaScript, TypeScript, Angular, SQL, Microservices, Git, Agile, Scrum, Unit Testing, OOP
+[2026-09-10 04:05:53]   [63] Lead Software Engineer -> skills: OK, keywords: Java, Spring, Spring Boot, AWS, Docker, Kubernetes, CI/CD, Lambda, SQL, PostgreSQL, MySQL, MongoDB, Cassandra, NoSQL, Kafka, Distributed Systems, Microservices, Git, Agile, Scrum, TDD, Design Patterns, System Design
+[2026-09-10 04:05:53] Page 7: found 10 cards, 10 newly scraped, total saved: 63
+[2026-09-10 04:05:53]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-google-united-states-of-america-usa-5-8-years-jobid-4gdIbE49mlpzpSvf+uAgZw==&source=srp
+[2026-09-10 04:05:54]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-mumbai-7-10-years-jobid-t3M__SLASH__bYK+hwlzpSvf+uAgZw==&source=srp
+[2026-09-10 04:05:58]   [64] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:00]   [65] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:03]   [66] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:05]   [67] Staff Software Engineer -> skills: OK, keywords: Google Cloud, Distributed Systems, Networking, System Design
+[2026-09-10 04:06:07]   [68] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:09]   [69] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:11]   [70] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, TypeScript, Docker, Jenkins, GitHub Actions, SQL, Git, Agile, Scrum, Design Patterns, Jira, Postman
+[2026-09-10 04:06:13]   [71] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, Angular, HTML, CSS, Spring, Spring Boot, MySQL, MongoDB
+[2026-09-10 04:06:16]   [72] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:18]   [73] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:18] Page 8: found 10 cards, 10 newly scraped, total saved: 73
+[2026-09-10 04:06:18]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-mumbai-7-10-years-jobid-t3M__SLASH__bYK+hwlzpSvf+uAgZw==&source=srp
+[2026-09-10 04:06:19]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-hyderabadsecunderabad-1-4-years-jobid-smySuHU+zgJzpSvf+uAgZw==&source=srp
+[2026-09-10 04:06:23]   [74] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:25]   [75] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:28]   [76] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:30]   [77] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:32]   [78] Custom Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:06:34]   [79] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, HTML, CSS, Agile
+[2026-09-10 04:06:36]   [80] Custom Software Engineer -> skills: OK, keywords: Python, Agile
+[2026-09-10 04:06:39]   [81] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:41]   [82] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:06:43]   [83] Custom Software Engineer -> skills: OK, keywords: AWS, Docker, Kubernetes, Terraform, Agile
+[2026-09-10 04:06:43] Page 9: found 10 cards, 10 newly scraped, total saved: 83
+[2026-09-10 04:06:43]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/custom-software-engineer-accenture-hyderabadsecunderabad-1-4-years-jobid-smySuHU+zgJzpSvf+uAgZw==&source=srp
+[2026-09-10 04:06:44]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-google-united-states-of-america-usa-5-8-years-jobid-8VNarhtecqtzpSvf+uAgZw==&source=srp
+[2026-09-10 04:06:48]   [84] Senior Software Engineer -> skills: OK, keywords: Python, Java, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:06:51]   [85] Custom Software Engineer -> skills: OK, keywords: JavaScript, TypeScript, React, Angular, Vue, .NET, ASP.NET, AWS, Azure, Docker, Kubernetes, SQL, Microservices, Git, Agile, Unit Testing
+[2026-09-10 04:06:53]   [86] Custom Software Engineer -> skills: OK, keywords: Spring, Spring Boot, PostgreSQL, MySQL, Microservices, Git, Agile
+[2026-09-10 04:06:55]   [87] Custom Software Engineer -> skills: OK, keywords: Java, SQL, Git, Agile
+[2026-09-10 04:06:57]   [88] Custom Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:06:59]   [89] Custom Software Engineer -> skills: OK, keywords: AWS, Serverless, Distributed Systems, Microservices, Agile, Scrum
+[2026-09-10 04:07:01]   [90] Software Engineer II -> skills: OK, keywords: Java, TypeScript, React, Spring, Spring Boot, AWS, Azure, Data Engineering, Apache Spark, Distributed Systems, Agile, System Design
+[2026-09-10 04:07:04]   [91] Custom Software Engineer -> skills: OK, keywords: Python, Java
+[2026-09-10 04:07:06]   [92] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, TypeScript, Docker, Jenkins, GitHub Actions, SQL, Git, Agile, Scrum, Design Patterns, Jira, Postman
+[2026-09-10 04:07:08]   [93] Custom Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:07:08] Page 10: found 10 cards, 10 newly scraped, total saved: 93
+[2026-09-10 04:07:08]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-google-united-states-of-america-usa-5-8-years-jobid-8VNarhtecqtzpSvf+uAgZw==&source=srp
+[2026-09-10 04:07:09]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-engineer-i-ncr-corporation-india-pvt-ltd-chennai-1-4-years-jobid-bb__SLASH__npNdKKMNzpSvf+uAgZw==&source=srp
+[2026-09-10 04:07:13]   [94] Software Engineer (I) -> skills: OK, keywords: Go, React, CI/CD, PostgreSQL, Microservices
+[2026-09-10 04:07:16]   [95] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:18]   [96] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:20]   [97] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:22]   [98] Custom Software Engineer -> skills: OK, keywords: Git, Agile
+[2026-09-10 04:07:24]   [99] Custom Software Engineer -> skills: OK, keywords: SQL, Agile, Jira, Confluence
+[2026-09-10 04:07:27]   [100] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, TypeScript, React, Spring, Spring Boot, Agile, OAuth, JWT
+[2026-09-10 04:07:29]   [101] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:31]   [102] Principal Software Engineer -> skills: OK, keywords: Distributed Systems, Agile
+[2026-09-10 04:07:33]   [103] Custom Software Engineer -> skills: OK, keywords: Python, Perl, Linux, PostgreSQL, Agile
+[2026-09-10 04:07:33] Page 11: found 10 cards, 10 newly scraped, total saved: 103
+[2026-09-10 04:07:33]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-i-ncr-corporation-india-pvt-ltd-chennai-1-4-years-jobid-bb__SLASH__npNdKKMNzpSvf+uAgZw==&source=srp
+[2026-09-10 04:07:34]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-aiops-nvidia-israel-8-11-years-jobid-YE0oIZ8KNYhzpSvf+uAgZw==&source=srp
+[2026-09-10 04:07:39]   [104] Senior Software Engineer, AIOps -> skills: OK, keywords: Go, Rust, Kubernetes, Data Engineering, Distributed Systems, Algorithms
+[2026-09-10 04:07:41]   [105] Lead Software Engineer - Java/Python/Go -> skills: OK, keywords: Python, Java, Go, NoSQL, Distributed Systems, Design Patterns
+[2026-09-10 04:07:43]   [106] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:45]   [107] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:47]   [108] Custom Software Engineer -> skills: OK, keywords: Java, JavaScript, HTML, CSS, Agile
+[2026-09-10 04:07:50]   [109] Custom Software Engineer -> skills: OK, keywords: Java, Agile
+[2026-09-10 04:07:52]   [110] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:54]   [111] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:57]   [112] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:59]   [113] Custom Software Engineer -> skills: OK, keywords: Agile
+[2026-09-10 04:07:59] Page 12: found 10 cards, 10 newly scraped, total saved: 113
+[2026-09-10 04:07:59]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-aiops-nvidia-israel-8-11-years-jobid-YE0oIZ8KNYhzpSvf+uAgZw==&source=srp
+[2026-09-10 04:08:00]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-cloud-interconnect-google-united-states-of-america-usa-5-7-years-jobid-fjbpHneM3pBzpSvf+uAgZw==&source=srp
+[2026-09-10 04:08:04]   [114] Senior Software Engineer, Cloud Interconnect -> skills: OK, keywords: Python, Java, Go, Google Cloud, Distributed Systems, Networking, System Design
+[2026-09-10 04:08:07]   [115] Software Engineer III, Infrastructure -> skills: OK, keywords: Java, Go, Google Cloud, Generative AI, Distributed Systems, Networking, Agile, Data Structures, Algorithms, System Design
+[2026-09-10 04:08:09]   [116] Staff Software Engineer, Messages -> skills: OK, keywords: Python, Java, JavaScript, TypeScript, HTML, CSS, LLM, Generative AI, Android, iOS, Distributed Systems, Concurrency, Operating Systems, Networking, System Design, Encryption
+[2026-09-10 04:08:11]   [117] AI Native Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:08:13]   [118] OLS Embedded Software Engineer -> skills: OK, keywords: MATLAB, Linux, Embedded Systems, Algorithms
+[2026-09-10 04:08:15]   [119] Software Engineer (Full-Stack, UI-Heavy) -> skills: OK, keywords: Java, TypeScript, Go, React, AWS, Azure, GCP, Kubernetes, Machine Learning, Generative AI, Kafka, Distributed Systems, Encryption
+[2026-09-10 04:08:18]   [120] Senior Software Engineer, Labs -> skills: OK, keywords: Generative AI, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:08:20]   [121] Senior Software Engineer - IOS -> skills: OK, keywords: Swift, Firebase, iOS, Xcode, Unit Testing, Algorithms
+[2026-09-10 04:08:22]   [122] Software Engineer, Cloud Platforms -> skills: OK, keywords: Python, Kubernetes
+[2026-09-10 04:08:24]   [123] Software Engineer III, Embedded/Firmware -> skills: OK, keywords: Linux, Operating Systems, Networking, System Design
+[2026-09-10 04:08:24] Page 13: found 10 cards, 10 newly scraped, total saved: 123
+[2026-09-10 04:08:24]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-cloud-interconnect-google-united-states-of-america-usa-5-7-years-jobid-fjbpHneM3pBzpSvf+uAgZw==&source=srp
+[2026-09-10 04:08:25]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-engineer-iii-infrastructure-google-ireland-2-5-years-jobid-qk4MzEO0+T9zpSvf+uAgZw==&source=srp
+[2026-09-10 04:08:30]   [124] Software Engineer, Safe Coding Team -> skills: OK, keywords: Python, Java, JavaScript, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:08:32]   [125] Software Engineer - Full Stack -> skills: OK, keywords: Java, TypeScript, Angular, HTML, CSS, Spring, Spring Boot, CI/CD, SQL, NoSQL, Kafka, Microservices, Git, Agile
+[2026-09-10 04:08:34]   [126] Senior Software Engineer - Android -> skills: OK, keywords: Java, Kotlin, Android, Concurrency, Unit Testing, Design Patterns, Algorithms
+[2026-09-10 04:08:36]   [127] Software Engineer III, Infrastructure -> skills: OK, keywords: Google Cloud, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:08:38]   [128] Lead Software Engineer Python, AI/Agent -> skills: OK, keywords: Python, REST API, FastAPI, Azure, CI/CD, LLM, Microservices, Git, OAuth
+[2026-09-10 04:08:38] Page 14: found 10 cards, 5 newly scraped, total saved: 128
+[2026-09-10 04:08:38]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-iii-infrastructure-google-ireland-2-5-years-jobid-qk4MzEO0+T9zpSvf+uAgZw==&source=srp
+[2026-09-10 04:08:39]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-engineer-iii-infrastructure-google-israel-2-5-years-jobid-m2Eb6XgMbtpzpSvf+uAgZw==&source=srp
+[2026-09-10 04:08:44]   [129] Software Engineer III, Infrastructure -> skills: OK, keywords: Google Cloud, Machine Learning, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:08:46]   [130] AI Native Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:08:48]   [131] Software Engineer .NET MVC -> skills: OK, keywords: jQuery, .NET, ASP.NET, Azure, SQL
+[2026-09-10 04:08:51]   [132] Staff Software Engineer, Pixel -> skills: OK, keywords: Java, Rust, Kotlin, Android, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:08:53]   [133] Title: Senior Software Engineer -> skills: OK, keywords: Python, Go, GraphQL, CI/CD, PostgreSQL, Redis, Data Engineering
+[2026-09-10 04:08:55]   [134] Senior Software Engineer - Java -> skills: OK, keywords: Distributed Systems, Agile, System Design
+[2026-09-10 04:08:57]   [135] Software Engineer II - Java -> skills: OK, keywords: Java, Agile, Jira, Confluence
+[2026-09-10 04:08:59]   [136] Senior Software Engineer (.NET) -> skills: OK, keywords: Angular, .NET, ASP.NET, Azure, SQL, Agile, Scrum, Design Patterns, System Design
+[2026-09-10 04:08:59] Page 15: found 10 cards, 8 newly scraped, total saved: 136
+[2026-09-10 04:08:59]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-iii-infrastructure-google-israel-2-5-years-jobid-m2Eb6XgMbtpzpSvf+uAgZw==&source=srp
+[2026-09-10 04:09:00]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-safe-coding-google-singapore-switzerland-germany-seattle-5-8-years-jobid-hlch9qnwGZNzpSvf+uAgZw==&source=srp
+[2026-09-10 04:09:05]   [137] Senior Software Engineer, Safe Coding -> skills: OK, keywords: Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:09:07]   [138] Staff, Security Software Engineer - Coupang Play -> skills: OK, keywords: Python, Java, Go, AWS, Azure, GCP, CI/CD, Bash, Machine Learning, Android, Microservices, Encryption, Penetration Testing
+[2026-09-10 04:09:10]   [139] Career Opportunities: Associate Software Engineer  -> skills: OK, keywords: Data Science
+[2026-09-10 04:09:12]   [140] Mobile Software Engineer, Google Pay -> skills: OK, keywords: Python, Java, Dart, Android, iOS, Flutter, Networking, System Design
+[2026-09-10 04:09:14]   [141] Senior Software Engineer, Google Workspace -> skills: OK, keywords: Java, JavaScript, TypeScript, Angular, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:09:16]   [142] Senior Software Engineer II - Confluent -> skills: OK, keywords: Python, Java, Go, Kubernetes, PostgreSQL, MySQL, Machine Learning, Generative AI, Kafka, Distributed Systems, Microservices
+[2026-09-10 04:09:18]   [143] Title: Senior Software Engineer -> skills: OK, keywords: none
+[2026-09-10 04:09:21]   [144] Software Engineer, AI Engineering Productivity -> skills: OK, keywords: Python, Java, JavaScript, TypeScript, Go, Kotlin, PHP, Ruby, Dart, HTML, CSS, Node.js, Machine Learning, Android, iOS, Flutter, Networking, System Design
+[2026-09-10 04:09:23]   [145] Software Engineer II (Escalation Engineer) -> skills: OK, keywords: Python, Java, JavaScript, TypeScript, React, AWS, Docker, CI/CD, Lambda, SQL, PostgreSQL, MySQL, Distributed Systems, Microservices, Git, Cybersecurity
+[2026-09-10 04:09:25]   [146] Senior Software Engineer - Reltio -> skills: OK, keywords: Python, Java, AWS, Azure, GCP, CI/CD, NoSQL, Machine Learning, Kafka, Microservices, Embedded Systems, Agile, Scrum, Algorithms, OOP, Encryption
+[2026-09-10 04:09:25] Page 16: found 10 cards, 10 newly scraped, total saved: 146
+[2026-09-10 04:09:25]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-safe-coding-google-singapore-switzerland-germany-seattle-5-8-years-jobid-hlch9qnwGZNzpSvf+uAgZw==&source=srp
+[2026-09-10 04:09:26]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-engineer-on-device-machine-learning-google-united-states-of-america-usa-2-5-years-jobid-jng8r0ez8flzpSvf+uAgZw==&source=srp
+[2026-09-10 04:09:30]   [147] Software Engineer, On-Device Machine Learning -> skills: OK, keywords: Google Cloud, Machine Learning, TensorFlow, PyTorch, Generative AI, Android, iOS, Networking, Embedded Systems, System Design
+[2026-09-10 04:09:33]   [148] Sr Lead Software Engineer - AI Security Platform -> skills: OK, keywords: Python, JavaScript, TypeScript, React, Azure, Docker, Kubernetes, CI/CD, GitHub Actions, SQL, LLM, Generative AI, Networking, Cybersecurity, OAuth
+[2026-09-10 04:09:35]   [149] Senior Software Engineer, AI/ML, Core -> skills: OK, keywords: Python, Google Cloud, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:09:37]   [150] Career Opportunities: Associate Software Engineer  -> skills: OK, keywords: Data Science
+[2026-09-10 04:09:39]   [151] Career Opportunities: Software Engineer Trainee (4 -> skills: OK, keywords: Data Science
+[2026-09-10 04:09:41]   [152] Career Opportunities: Software Engineer (50437) -> skills: OK, keywords: JavaScript, TypeScript, React, CSS, Tailwind, CI/CD, Data Science, Git, Agile, Scrum, Unit Testing
+[2026-09-10 04:09:44]   [153] Staff Software Engineer, GenAI Gaming -> skills: OK, keywords: Machine Learning, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:09:46]   [154] Career Opportunities: Software Engineer Trainee (4 -> skills: OK, keywords: Data Science
+[2026-09-10 04:09:48]   [155] Career Opportunities: Associate Software Engineer  -> skills: OK, keywords: Data Science
+[2026-09-10 04:09:50]   [156] Senior Software Engineer, Agentic AI And Observabi -> skills: OK, keywords: Python, Docker, Kubernetes, Terraform, CI/CD, LLM, Distributed Systems
+[2026-09-10 04:09:50] Page 17: found 10 cards, 10 newly scraped, total saved: 156
+[2026-09-10 04:09:50]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-on-device-machine-learning-google-united-states-of-america-usa-2-5-years-jobid-jng8r0ez8flzpSvf+uAgZw==&source=srp
+[2026-09-10 04:09:51]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/confluent-senior-software-engineer-ii-ibm-other-citys-in-new-york-5-8-years-jobid-9geIVKLNhytzpSvf+uAgZw==&source=srp
+[2026-09-10 04:09:56]   [157] Confluent - Senior Software Engineer II -> skills: OK, keywords: Python, Java, Go, AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, Linux, Machine Learning, Generative AI, Kafka, Networking
+[2026-09-10 04:09:58]   [158] Senior Software Engineer, Google Cloud -> skills: OK, keywords: Python, Go, Google Cloud, CI/CD, Generative AI, Distributed Systems, Networking, System Design
+[2026-09-10 04:10:00]   [159] Software Engineer, Generative AI, Maps -> skills: OK, keywords: Computer Vision, Generative AI, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:10:02]   [160] Senior Software Engineer, Google EDACloud -> skills: OK, keywords: Google Cloud, Machine Learning, Microservices, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:10:04]   [161] Software Engineer II, Corp Eng -> skills: OK, keywords: Python, Java, JavaScript, Networking, System Design
+[2026-09-10 04:10:07]   [162] SOFTWARE ENGINEER INTERN (SUMMER 2027) -> skills: OK, keywords: NoSQL, Agile
+[2026-09-10 04:10:09]   [163] Staff Software Engineer, Rollouts Sequencing -> skills: OK, keywords: Python, Java, Go, GCP, Google Cloud, Networking, System Design
+[2026-09-10 04:10:11]   [164] Software Engineer III, AI/ML, Search -> skills: OK, keywords: Networking, Data Structures, Algorithms, System Design
+[2026-09-10 04:10:13]   [165] Software Engineer, AI Infrastructure, XR -> skills: OK, keywords: Python, Java, Go, CI/CD, Android, Networking, System Design
+[2026-09-10 04:10:16]   [166] Senior Software Engineer, Infra Spanner -> skills: OK, keywords: Google Cloud, SQL, Multithreading, Concurrency, Networking, Algorithms, System Design
+[2026-09-10 04:10:16] Page 18: found 10 cards, 10 newly scraped, total saved: 166
+[2026-09-10 04:10:16]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/confluent-senior-software-engineer-ii-ibm-other-citys-in-new-york-5-8-years-jobid-9geIVKLNhytzpSvf+uAgZw==&source=srp
+[2026-09-10 04:10:27]   [debug] After click, first card URL still: https://www.timesjobs.com/job-detail/confluent-senior-software-engineer-ii-ibm-other-citys-in-new-york-5-8-years-jobid-9geIVKLNhytzpSvf+uAgZw==&source=srp (unchanged after 10s)
+[2026-09-10 04:10:27] Could not advance to the next page (no button, disabled, or content didn't change) - assuming end of results. Stopping.
+[2026-09-10 04:10:27] Scrape finished. Total jobs saved: 166
+[2026-09-10 17:04:27] === Running in FULL mode ===
+[2026-09-10 17:04:31] Resuming with 166 jobs already fully saved
+[2026-09-10 17:04:38]   [167] Computer Scientist -> skills: OK, keywords: Express, Design Patterns, Data Structures, Algorithms
+[2026-09-10 17:04:40]   [168] 2026 Intern Conversion : Hardware Engineer -> skills: OK, keywords: none
+[2026-09-10 17:04:42]   [169] APPLICATION ARCHITECT -> skills: OK, keywords: Python, Java, AWS, Google Cloud, Machine Learning, Deep Learning, TensorFlow, Computer Vision, OpenCV, Kafka, Algorithms
+[2026-09-10 17:04:44]   [170] Senior Solutions Architect, Automotive & Manufactu -> skills: OK, keywords: AWS, Computer Vision, Networking
+[2026-09-10 17:04:46]   [171] Career Opportunities: Senior Data Engineer (50575) -> skills: OK, keywords: AWS, Azure, Data Science, ETL, Apache Spark, Kafka
+[2026-09-10 17:04:49]   [172] Research Intern: Linear Algebra And Hamiltonian Si -> skills: OK, keywords: Python, Algorithms
+[2026-09-10 17:04:51]   [173] COMPUTER OPERATOR -> skills: OK, keywords: Express
+[2026-09-10 17:04:53]   [174] Computer Scientist I (Full Stack Growth Engineer) -> skills: OK, keywords: Python, JavaScript, TypeScript, React, Express, LLM
+[2026-09-10 17:04:55]   [175] INSTRUMENTATION TECHNICIAN -> skills: OK, keywords: none
+[2026-09-10 17:04:59]   [176] Full Time Job -> skills: OK, keywords: none
+[2026-09-10 17:04:59] Page 1: found 10 cards, 10 newly scraped, total saved: 176
+[2026-09-10 17:04:59]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/computer-scientist-adobe-noidagreater-noida-4-6-years-jobid-WBSFazNu605zpSvf+uAgZw==&source=srp
+[2026-09-10 17:05:00]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/associate-commercial-counsel-english-google-dubai-germany-spain-france-3-6-years-jobid-tA8bzK+G6mNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:05:05]   [177] Associate Commercial Counsel (English) -> skills: OK, keywords: Go
+[2026-09-10 17:05:07]   [178] Senior Software Engineer, AI/ML, Geo Perception -> skills: OK, keywords: Python, Machine Learning, Computer Vision, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:05:09]   [179] Software Development Engineer, Amazon Currency Con -> skills: OK, keywords: Machine Learning, Distributed Systems, Agile, Design Patterns
+[2026-09-10 17:05:11]   [180] Software Development Engineer, Amazon Fulfillment  -> skills: OK, keywords: Machine Learning, Computer Vision, Distributed Systems, Design Patterns
+[2026-09-10 17:05:14]   [181] Sr. Solution Architect, Startups -> skills: OK, keywords: AWS, Generative AI, Networking
+[2026-09-10 17:05:16]   [182] Data Engineer-Data Platforms-SnowFlake -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:05:18]   [183] Software Development Engineer II , Risk And Compli -> skills: OK, keywords: Python, Java, Distributed Systems, Agile
+[2026-09-10 17:05:20]   [184] MFT/CD Developer -> skills: OK, keywords: Python, Java, AWS, Azure, GCP, Docker, Kubernetes, CI/CD, Microservices, Agile
+[2026-09-10 17:05:22]   [185] Senior Solutions Architect Large Scale AI Inferenc -> skills: OK, keywords: LLM
+[2026-09-10 17:05:22] Page 2: found 10 cards, 9 newly scraped, total saved: 185
+[2026-09-10 17:05:22]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/associate-commercial-counsel-english-google-dubai-germany-spain-france-3-6-years-jobid-tA8bzK+G6mNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:05:23]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/associate-application-developer-azure-and-microsoft-2027-ibm-united-states-of-america-usa-0-1-years-jobid-Vcx95o4kixtzpSvf+uAgZw==&source=srp
+[2026-09-10 17:05:28]   [186] Associate Application Developer - Azure And Micros -> skills: OK, keywords: Python, Java, JavaScript, Azure, Git
+[2026-09-10 17:05:30]   [187] Software Developer Intern -Tucson, AZ -> skills: OK, keywords: Python, Java, JavaScript, Go, Docker, Kubernetes, CI/CD, Linux, NoSQL, Distributed Systems, Microservices, Git, Agile, Data Structures, Cybersecurity
+[2026-09-10 17:05:33]   [188] Data Engineer-Data Platforms-SnowFlake -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:05:35]   [189] SMB Account Manager, Gemini Enterprise And Google  -> skills: OK, keywords: Google Cloud
+[2026-09-10 17:05:37]   [190] INFRASTRUCTURE AND PLATFORM ARCHITECT L2 -> skills: OK, keywords: none
+[2026-09-10 17:05:39]   [191] Software Development Engineer, Payroll Tax & Accou -> skills: OK, keywords: AWS, Machine Learning, LLM, Level Design, Agile, Design Patterns, Data Structures, Algorithms
+[2026-09-10 17:05:41]   [192] Senior Solutions Architect, Developer Transformati -> skills: OK, keywords: AWS, CI/CD, Microservices, Networking
+[2026-09-10 17:05:44]   [193] Solution Architect, Startups -> skills: OK, keywords: AWS, Generative AI, Networking
+[2026-09-10 17:05:46]   [194] Recruitment Screening Specialist (RPO) -> skills: OK, keywords: none
+[2026-09-10 17:05:48]   [195] DEVELOPER L2 -> skills: OK, keywords: AWS, Unit Testing
+[2026-09-10 17:05:48] Page 3: found 10 cards, 10 newly scraped, total saved: 195
+[2026-09-10 17:05:48]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/associate-application-developer-azure-and-microsoft-2027-ibm-united-states-of-america-usa-0-1-years-jobid-Vcx95o4kixtzpSvf+uAgZw==&source=srp
+[2026-09-10 17:05:49]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/kubernetes-senior-practice-specialist-azure-devops-hcl-technologies-remote-5-10-years-jobid-02qOAXq2VMNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:05:54]   [196] Kubernetes Senior Practice Specialist - Azure DevO -> skills: OK, keywords: Python, Azure, Kubernetes, CI/CD
+[2026-09-10 17:05:56]   [197] DEVELOPER L3 -> skills: OK, keywords: Azure
+[2026-09-10 17:05:58]   [198] Process Associate -> skills: OK, keywords: none
+[2026-09-10 17:06:00]   [199] Senior Software Engineer, Workspace, Cloud Infrast -> skills: OK, keywords: Kotlin, Google Cloud, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:06:03]   [200] Software Engineer III, Google Cloud Storage, Infra -> skills: OK, keywords: Google Cloud, Distributed Systems, Networking, System Design
+[2026-09-10 17:06:05]   [201] Solutions Architect FSI Fintech, FSI SA -> skills: OK, keywords: AWS, Serverless, Linux, NoSQL, Operating Systems, Networking, Design Patterns
+[2026-09-10 17:06:07]   [202] DEVELOPER L2 -> skills: OK, keywords: AWS, Unit Testing
+[2026-09-10 17:06:09]   [203] DEVELOPER L3 -> skills: OK, keywords: AWS
+[2026-09-10 17:06:11]   [204] Deputy Manager - Digital Product Finance... -> skills: OK, keywords: none
+[2026-09-10 17:06:13]   [205] Senior Software Engineer, AI/ML, Geo Perception -> skills: OK, keywords: Python, Machine Learning, Computer Vision, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:06:13] Page 4: found 10 cards, 10 newly scraped, total saved: 205
+[2026-09-10 17:06:14]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/kubernetes-senior-practice-specialist-azure-devops-hcl-technologies-remote-5-10-years-jobid-02qOAXq2VMNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:06:14]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/research-scientist-ibm-other-citys-in-new-york-5-8-years-jobid-FSzFT__SLASH__jwCxJzpSvf+uAgZw==&source=srp
+[2026-09-10 17:06:19]   [206] Research Scientist -> skills: OK, keywords: Python
+[2026-09-10 17:06:21]   [207] INFRASTRUCTURE DOMAIN ARCHITECT L1 -> skills: OK, keywords: AWS
+[2026-09-10 17:06:23]   [208] Enterprise Architect -> skills: OK, keywords: none
+[2026-09-10 17:06:26]   [209] Senior Software Engineer, AI/TPU Infrastructure Fi -> skills: OK, keywords: Google Cloud, Machine Learning, Operating Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:06:28]   [210] Software Engineer III, TPU Performance, Hardware A -> skills: OK, keywords: Google Cloud, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:06:30]   [211] Data Engineer-Data Platforms-SnowFlake -> skills: OK, keywords: Data Engineering, ETL, Encryption
+[2026-09-10 17:06:32]   [212] Business Transformation Consultant Intern - Data S -> skills: OK, keywords: Python, JavaScript, AWS, Azure, SQL, Data Science, Agile
+[2026-09-10 17:06:35]   [213] Technical Sales Engineer - Spring Co-op Sales Prog -> skills: OK, keywords: Python, Java, JavaScript, Data Science, Cybersecurity
+[2026-09-10 17:06:37]   [214] DEVELOPER L4 -> skills: OK, keywords: R, AWS, Operating Systems
+[2026-09-10 17:06:39]   [215] Federal Associate Platform Specialist 2027 -> skills: OK, keywords: AWS, Azure, Operating Systems
+[2026-09-10 17:06:39] Page 5: found 10 cards, 10 newly scraped, total saved: 215
+[2026-09-10 17:06:39]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/research-scientist-ibm-other-citys-in-new-york-5-8-years-jobid-FSzFT__SLASH__jwCxJzpSvf+uAgZw==&source=srp
+[2026-09-10 17:06:50]   [debug] After click, first card URL still: https://www.timesjobs.com/job-detail/research-scientist-ibm-other-citys-in-new-york-5-8-years-jobid-FSzFT__SLASH__jwCxJzpSvf+uAgZw==&source=srp (unchanged after 10s)
+[2026-09-10 17:06:50] Could not advance to the next page (no button, disabled, or content didn't change) - assuming end of results. Stopping.
+[2026-09-10 17:06:51] Scrape finished. Total jobs saved: 215
+[2026-09-10 17:10:31] === Running in FULL mode ===
+[2026-09-10 17:10:33] Resuming with 215 jobs already fully saved
+[2026-09-10 17:10:39]   [216] Developer -> skills: OK, keywords: Assembly, 3D Modeling
+[2026-09-10 17:10:41]   [217] Spring Boot Technical Specialist -> skills: OK, keywords: Python, Java, Scala, Spring, Spring Boot, AWS, Azure, GCP, CI/CD, SQL, Data Engineering, Microservices
+[2026-09-10 17:10:44]   [218] System Engineer -> skills: OK, keywords: Cybersecurity
+[2026-09-10 17:10:46]   [219] Technical Specialist -> skills: OK, keywords: Cybersecurity
+[2026-09-10 17:10:48]   [220] Principal Engineering Capability Leader -> skills: OK, keywords: none
+[2026-09-10 17:10:50]   [221] Entry Level Hardware Developer - Intern Conversion -> skills: OK, keywords: Python, Java, Networking
+[2026-09-10 17:10:54]   [222] MECHANICAL TECHNICIAN -> skills: OK, keywords: none
+[2026-09-10 17:10:56]   [223] TEAM SUPERVISOR -> skills: OK, keywords: none
+[2026-09-10 17:10:58]   [224] INSTRUMENTATION SUPERVISOR -> skills: OK, keywords: none
+[2026-09-10 17:11:01]   [225] AUTO ELECTRICIAN -> skills: OK, keywords: none
+[2026-09-10 17:11:01] Page 1: found 10 cards, 10 newly scraped, total saved: 225
+[2026-09-10 17:11:01]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/developer-hcl-technologies-remote-1-3-years-jobid-rqzYIo4A7WxzpSvf+uAgZw==&source=srp
+[2026-09-10 17:11:02]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/leadarchitect-data-engineer-microsoft-fabric-wipro-bengaluru-8-10-years-jobid-S6N1VVHnciVzpSvf+uAgZw==&source=srp
+[2026-09-10 17:11:06]   [226] Lead/Architect Data Engineer - Microsoft Fabric -> skills: OK, keywords: Python, SQL, Pandas, Data Engineering
+[2026-09-10 17:11:08]   [227] Technical Program Manager, Colo Infrastructure -> skills: OK, keywords: Google Cloud, Networking
+[2026-09-10 17:11:11]   [228] Senior Civil/Structural Substation Design Engineer -> skills: OK, keywords: AWS
+[2026-09-10 17:11:13]   [229] Data Center Engineering Operations Engineer, HYD-I -> skills: OK, keywords: AWS, Networking
+[2026-09-10 17:11:15]   [230] IT Data Engineering With AI -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:11:17]   [231] IT Data Engineering With AI Foundry -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:11:19]   [232] Senior Staff Software Engineer - Confluent Kafka S -> skills: OK, keywords: Java, Go, Scala, AWS, Azure, GCP, Machine Learning, Generative AI, Kafka, Distributed Systems, Operating Systems
+[2026-09-10 17:11:22]   [233] Senior Group Technical Architect -> skills: OK, keywords: Python, AWS, Azure, CI/CD, LLM
+[2026-09-10 17:11:22] Page 2: found 10 cards, 8 newly scraped, total saved: 233
+[2026-09-10 17:11:22]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/leadarchitect-data-engineer-microsoft-fabric-wipro-bengaluru-8-10-years-jobid-S6N1VVHnciVzpSvf+uAgZw==&source=srp
+[2026-09-10 17:11:23]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-designer-product-design-dfma-hcl-technologies-remote-5-7-years-jobid-GtYGSz+8wSNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:11:27]   [234] Senior Designer - Product Design, DFMA -> skills: OK, keywords: Assembly, 3D Modeling
+[2026-09-10 17:11:30]   [235] Solution Architect - Entry Level Sales Program 202 -> skills: OK, keywords: Python, Java, Data Science, LLM
+[2026-09-10 17:11:32]   [236] Design Lead Mech Design, CAD, Unigraphics -> skills: OK, keywords: none
+[2026-09-10 17:11:34]   [237] Senior Engineering Transformation Leader -> skills: OK, keywords: Python, Java, React, AWS, GCP, CI/CD, SQL, DynamoDB, Microservices
+[2026-09-10 17:11:36]   [238] Senior Technical Lead -> skills: OK, keywords: Python, JavaScript, TypeScript, R, FastAPI, AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, Serverless, Lambda, Bash, SQL, PostgreSQL, MongoDB, Redis, TensorFlow, PyTorch, Scikit-learn, NLP, Hugging Face, LLM, Generative AI, Kafka, Git
+[2026-09-10 17:11:38]   [239] Senior Test Lead -> skills: OK, keywords: Jira
+[2026-09-10 17:11:41]   [240] Manager, Software Engineering Productivity And Rel -> skills: OK, keywords: Python, R, Perl, Docker, Kubernetes, Jenkins, Linux, MySQL, Git, Jira
+[2026-09-10 17:11:49]   [241] Developer -> skills: OK, keywords: Assembly, 3D Modeling
+[2026-09-10 17:11:51]   [242] AVP-Engineering Job In -> skills: OK, keywords: Java, AWS, Azure, GCP, SQL, PostgreSQL, MySQL, MongoDB, Redis, NoSQL, Distributed Systems, Microservices
+[2026-09-10 17:11:51] Page 3: found 10 cards, 9 newly scraped, total saved: 242
+[2026-09-10 17:11:51]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-designer-product-design-dfma-hcl-technologies-remote-5-7-years-jobid-GtYGSz+8wSNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:11:52]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/diesel-mechanic-asmacs-other-citys-in-kuwait-5-10-years-jobid-i+JWHiUc__SLASH__8xzpSvf+uAgZw==&source=srp
+[2026-09-10 17:11:56]   [243] DIESEL MECHANIC -> skills: OK, keywords: none
+[2026-09-10 17:11:59]   [244] PETROL MECHANIC -> skills: OK, keywords: none
+[2026-09-10 17:12:01]   [245] Developer -> skills: OK, keywords: none
+[2026-09-10 17:12:03]   [246] SOLUTION ARCHITECT L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:12:05]   [247] Databricks Architect -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:12:07]   [248] Software Development Manager - FBA - Inventory Aut -> skills: OK, keywords: AWS, Distributed Systems
+[2026-09-10 17:12:09]   [249] Device Characterization Engineer -> skills: OK, keywords: none
+[2026-09-10 17:12:15]   [250] Solution Architect -> skills: OK, keywords: Operating Systems, Networking
+[2026-09-10 17:12:17]   [251] Software Engineering Advisor Java Focused, AI Enab -> skills: OK, keywords: Python, Java, Spring, Spring Boot, AWS, Docker, Kubernetes, CI/CD, SQL, LLM, Git, System Design
+[2026-09-10 17:12:19]   [252] Mechanical & Process Design -> skills: OK, keywords: none
+[2026-09-10 17:12:19] Page 4: found 10 cards, 10 newly scraped, total saved: 252
+[2026-09-10 17:12:19]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/diesel-mechanic-asmacs-other-citys-in-kuwait-5-10-years-jobid-i+JWHiUc__SLASH__8xzpSvf+uAgZw==&source=srp
+[2026-09-10 17:12:20]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/developer-l3-wipro-hyderabadsecunderabad-3-5-years-jobid-LpIfhAt7kQ1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:12:25]   [253] DEVELOPER L3 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:12:27]   [254] Customer Engineer II, Platform, West, Google Cloud -> skills: OK, keywords: Google Cloud, Networking, Encryption
+[2026-09-10 17:12:29]   [255] Career Opportunities: Data Engineer (50195) -> skills: OK, keywords: Data Science
+[2026-09-10 17:12:31]   [256] Career Opportunities: Assistant Manager (50086) -> skills: OK, keywords: Data Science
+[2026-09-10 17:12:34]   [257] Senior RPA Developer - Core -> skills: OK, keywords: Python, React, Node.js, Flask, FastAPI, AWS, Azure, Data Science, NLP, LLM, Generative AI, Git, Agile, Data Structures
+[2026-09-10 17:12:36]   [258] SOLUTION ARCHITECT L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:12:38]   [259] Career Opportunities: Engineer (50540) -> skills: OK, keywords: React, AWS, Azure, CI/CD, Data Science
+[2026-09-10 17:12:40]   [260] Senior Exposure Threat Hunter -> skills: OK, keywords: R, AWS, Azure, Google Cloud, Cybersecurity
+[2026-09-10 17:12:43]   [261] Track Manager - Wireless Networking -> skills: OK, keywords: Python, AWS, Azure, Ansible, Data Engineering, ETL, Networking
+[2026-09-10 17:12:43] Page 5: found 10 cards, 9 newly scraped, total saved: 261
+[2026-09-10 17:12:43]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/developer-l3-wipro-hyderabadsecunderabad-3-5-years-jobid-LpIfhAt7kQ1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:12:44]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-data-lead-azure-data-factory-adf-databricks-hcl-technologies-remote-5-10-years-jobid-3Ps7Nv__SLASH__IbylzpSvf+uAgZw==&source=srp
+[2026-09-10 17:12:49]   [262] Senior Data Lead - Azure Data Factory (ADF), Datab -> skills: OK, keywords: Python, AWS, Azure, Lambda, SQL, Machine Learning, Data Engineering, ETL, Unity, Agile
+[2026-09-10 17:12:51]   [263] Consultant(DPO) -> skills: OK, keywords: Python, Java, Go, Node.js, AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions, Serverless, Lambda, MongoDB, DynamoDB, NoSQL, Microservices, Agile, Encryption
+[2026-09-10 17:12:53]   [264] Senior Technical Lead -> skills: OK, keywords: Python, AWS, Azure, Google Cloud, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions, Bash, LLM, Distributed Systems, Microservices, Networking
+[2026-09-10 17:12:55]   [265] Wireless Network Development Engineer, Corporate N -> skills: OK, keywords: Python, Perl, AWS, Linux, Bash, Blueprint, Operating Systems, Networking
+[2026-09-10 17:12:57]   [266] Career Opportunities: Technical Architect (50237) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:00]   [267] Appian Developer -> skills: OK, keywords: none
+[2026-09-10 17:13:02]   [268] Career Opportunities: Consultant (49839) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:04]   [269] Senior Hardware System Engineer, Home And Health -> skills: OK, keywords: System Design
+[2026-09-10 17:13:04] Page 6: found 10 cards, 8 newly scraped, total saved: 269
+[2026-09-10 17:13:04]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-data-lead-azure-data-factory-adf-databricks-hcl-technologies-remote-5-10-years-jobid-3Ps7Nv__SLASH__IbylzpSvf+uAgZw==&source=srp
+[2026-09-10 17:13:05]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/incident-analyst-change-manager-in-office-wipro-philadelphia-3-5-years-jobid-syUKkZyX9lhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:13:10]   [270] Incident Analyst/ Change Manager - In Office -> skills: OK, keywords: Python, Go, AWS, Azure, GCP, Linux, Bash, Microservices, Networking
+[2026-09-10 17:13:12]   [271] Career Opportunities: Data Engineer (50053) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:14]   [272] Senior Security Engineer, Access Security -> skills: OK, keywords: Distributed Systems
+[2026-09-10 17:13:17]   [273] Career Opportunities: Senior Director & Delivery L -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:19]   [274] Principal, Terraform Engineering -> skills: OK, keywords: AWS, Azure, Terraform
+[2026-09-10 17:13:22]   [275] Career Opportunities: Intern (50370) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:24]   [276] Career Opportunities: Architect (50289) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:26]   [277] INFRASTRUCTURE AND PLATFORM ARCHITECT L2(CONTRACT) -> skills: OK, keywords: none
+[2026-09-10 17:13:28]   [278] Advanced Process Control (APC) Engineer -> skills: OK, keywords: Python, MATLAB, Cybersecurity
+[2026-09-10 17:13:30]   [279] ITS System Admin/Engr II (CIS), Corporate Infrastr -> skills: OK, keywords: Networking
+[2026-09-10 17:13:30] Page 7: found 10 cards, 10 newly scraped, total saved: 279
+[2026-09-10 17:13:30]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/incident-analyst-change-manager-in-office-wipro-philadelphia-3-5-years-jobid-syUKkZyX9lhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:13:31]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/director-engineering-fleet-obtainability-management-and-efficiency-google-united-states-of-america-usa-1-4-years-jobid-8GRy6aGLxIZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:13:36]   [280] Director, Engineering, Fleet Obtainability, Manage -> skills: OK, keywords: Google Cloud
+[2026-09-10 17:13:38]   [281] Track Lead - Process Management, ServiceNow -> skills: OK, keywords: Networking
+[2026-09-10 17:13:40]   [282] Photo/Metro Equipment Engineering Intern - Summer  -> skills: OK, keywords: R
+[2026-09-10 17:13:43]   [283] AI & Automation Engineer -> skills: OK, keywords: Python, LLM, Data Engineering
+[2026-09-10 17:13:45]   [284] Software Engineering Senior Manager - Data Enginee -> skills: OK, keywords: Python, Java, Angular, Azure, GCP, SQL, Redis, Data Engineering, Kafka, Airflow, Distributed Systems, Microservices, Agile, Scrum
+[2026-09-10 17:13:47]   [285] Staff Security Engineer, Product Security Engineer -> skills: OK, keywords: Google Cloud
+[2026-09-10 17:13:49]   [286] Career Opportunities: Associate Director, Strategy -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:51]   [287] Career Opportunities: Executive Assistant (49652) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:54]   [288] Facility Manager -> skills: OK, keywords: none
+[2026-09-10 17:13:56]   [289] Career Opportunities: Assistant Manager 2 (47775) -> skills: OK, keywords: Data Science
+[2026-09-10 17:13:56] Page 8: found 10 cards, 10 newly scraped, total saved: 289
+[2026-09-10 17:13:56]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/director-engineering-fleet-obtainability-management-and-efficiency-google-united-states-of-america-usa-1-4-years-jobid-8GRy6aGLxIZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:13:57]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/developer-l4-wipro-bengaluru-5-8-years-jobid-HpNK8R1YB6ZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:02]   [290] DEVELOPER L4 -> skills: OK, keywords: R, Data Engineering, Operating Systems
+[2026-09-10 17:14:05]   [291] Officer - Engineering & Maintenance Job Details |  -> skills: OK, keywords: none
+[2026-09-10 17:14:07]   [292] Network Dev Engineer I(Security), Corporate Networ -> skills: OK, keywords: Python, Perl, AWS, Bash, Blueprint, Operating Systems, Networking
+[2026-09-10 17:14:09]   [293] ITS Systems Engineer, Corporate Infrastructure Ser -> skills: OK, keywords: Python, Java, PHP, Ruby, Perl, AWS, Lambda, Linux, Bash, DynamoDB, Operating Systems, Networking
+[2026-09-10 17:14:11]   [294] ANALYST L3 -> skills: OK, keywords: none
+[2026-09-10 17:14:14]   [295] Career Opportunities: Senior Engineer (50512) -> skills: OK, keywords: Data Science
+[2026-09-10 17:14:16]   [296] SME - Program & Project Management -> skills: OK, keywords: AWS, Azure, CI/CD
+[2026-09-10 17:14:18]   [297] TECHNICAL LEAD L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:14:20]   [298] SENIOR APPLICATION ENGINEER -> skills: OK, keywords: none
+[2026-09-10 17:14:22]   [299] Technical Specialist -> skills: OK, keywords: Python, Android, Agile
+[2026-09-10 17:14:22] Page 9: found 10 cards, 10 newly scraped, total saved: 299
+[2026-09-10 17:14:22]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/developer-l4-wipro-bengaluru-5-8-years-jobid-HpNK8R1YB6ZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:23]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/designer-l2-wipro-bengaluru-1-3-years-jobid-bimc271bNOdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:28]   [300] DESIGNER L2 -> skills: OK, keywords: none
+[2026-09-10 17:14:30]   [301] Career Opportunities: Assistant Manager 2 (47775) -> skills: OK, keywords: Data Science
+[2026-09-10 17:14:32]   [302] Career Opportunities: Lead Data Engineer (50630) -> skills: OK, keywords: Data Science
+[2026-09-10 17:14:35]   [303] Solution Manager Cockpit CCS2 -> skills: OK, keywords: none
+[2026-09-10 17:14:37]   [304] Utilities & Piping Design -> skills: OK, keywords: System Design
+[2026-09-10 17:14:39]   [305] Executive/ Asst. Manager / Manager -> skills: OK, keywords: none
+[2026-09-10 17:14:39] Page 10: found 10 cards, 6 newly scraped, total saved: 305
+[2026-09-10 17:14:39]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/designer-l2-wipro-bengaluru-1-3-years-jobid-bimc271bNOdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:40]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/developer-l3-wipro-hyderabadsecunderabad-3-5-years-jobid-LpIfhAt7kQ1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:45]   [306] Track Lead - Wireless Networking -> skills: OK, keywords: none
+[2026-09-10 17:14:47]   [307] 5. Associate Software Test Engineer (Automation) -> skills: OK, keywords: none
+[2026-09-10 17:14:47] Page 11: found 10 cards, 2 newly scraped, total saved: 307
+[2026-09-10 17:14:47]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/developer-l3-wipro-hyderabadsecunderabad-3-5-years-jobid-LpIfhAt7kQ1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:48]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/incident-analyst-change-manager-in-office-wipro-philadelphia-3-5-years-jobid-syUKkZyX9lhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:50] Page 12: found 10 cards, 0 newly scraped, total saved: 307
+[2026-09-10 17:14:50]   (no new jobs on this page - 1/3 stalled pages in a row)
+[2026-09-10 17:14:50]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/incident-analyst-change-manager-in-office-wipro-philadelphia-3-5-years-jobid-syUKkZyX9lhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:51]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-group-technical-architect-hcl-technologies-remote-5-10-years-jobid-tA+6sdYa4jNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:14:56]   [308] Senior Group Technical Architect -> skills: OK, keywords: Data Science
+[2026-09-10 17:14:58]   [309] TECHNO FUNCTIONAL CONSULTANT L1 -> skills: OK, keywords: none
+[2026-09-10 17:15:00]   [310] AI LEAD L1(CONTRACT) -> skills: OK, keywords: Python, Docker, Machine Learning, TensorFlow, PyTorch, Hugging Face, Generative AI, Git
+[2026-09-10 17:15:03]   [311] RPA Developer - Core -> skills: OK, keywords: Python, React, Node.js, Flask, FastAPI, AWS, Azure, Data Science, NLP, LLM, Generative AI, Git, Agile, Data Structures
+[2026-09-10 17:15:05]   [312] Software Quality Engineer - Automation - Local To  -> skills: OK, keywords: Agile
+[2026-09-10 17:15:07]   [313] Career Opportunities: Senior Data Scientist (50631 -> skills: OK, keywords: Data Science
+[2026-09-10 17:15:09]   [314] Structural Engineer II -> skills: OK, keywords: none
+[2026-09-10 17:15:11]   [315] Job Openings For Design Engineer In Liluah Howrah -> skills: OK, keywords: none
+[2026-09-10 17:15:14]   [316] Practice Specialist - CISS -> skills: OK, keywords: none
+[2026-09-10 17:15:16]   [317] Project Executive -> skills: OK, keywords: none
+[2026-09-10 17:15:16] Page 13: found 10 cards, 10 newly scraped, total saved: 317
+[2026-09-10 17:15:16]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-group-technical-architect-hcl-technologies-remote-5-10-years-jobid-tA+6sdYa4jNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:15:17]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/director-engineering-fleet-obtainability-management-and-efficiency-google-united-states-of-america-usa-1-4-years-jobid-8GRy6aGLxIZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:15:21]   [318] Network Development Engineer, Capacity Restoration -> skills: OK, keywords: Python, AWS, Linux, Distributed Systems, Networking, System Design
+[2026-09-10 17:15:24]   [319] Software Development Manager, Product & Offers Exp -> skills: OK, keywords: Distributed Systems
+[2026-09-10 17:15:26]   [320] Career Opportunities: Senior Data Scientist (50631 -> skills: OK, keywords: Data Science
+[2026-09-10 17:15:28]   [321] Career Opportunities: Director (50615) -> skills: OK, keywords: Data Science
+[2026-09-10 17:15:30]   [322] Snowflake Senior Technical Lead -> skills: OK, keywords: Python, JavaScript, AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD, SQL, Data Engineering, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:15:30] Page 14: found 10 cards, 5 newly scraped, total saved: 322
+[2026-09-10 17:15:30]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/director-engineering-fleet-obtainability-management-and-efficiency-google-united-states-of-america-usa-1-4-years-jobid-8GRy6aGLxIZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:15:31]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/photometro-equipment-engineering-intern-summer-2027-nxp-semiconductors-united-states-of-america-usa-0-1-years-jobid-UmjW4DH6rOVzpSvf+uAgZw==&source=srp
+[2026-09-10 17:15:36]   [323] Lead Engineer -> skills: OK, keywords: Python, JavaScript, TypeScript, React, FastAPI, CI/CD, NoSQL, Agile
+[2026-09-10 17:15:38]   [324] Custom Software Engineering Lead -> skills: OK, keywords: GCP, Google Cloud, Unity
+[2026-09-10 17:15:40]   [325] Track Lead - Extract Transform Load (ETL), Data La -> skills: OK, keywords: none
+[2026-09-10 17:15:43]   [326] Site Engineer - PHE - HYD123 -> skills: OK, keywords: none
+[2026-09-10 17:15:45]   [327] Career Opportunities: Data Engineer (50642) -> skills: OK, keywords: Data Science
+[2026-09-10 17:15:45] Page 15: found 10 cards, 5 newly scraped, total saved: 327
+[2026-09-10 17:15:45]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/photometro-equipment-engineering-intern-summer-2027-nxp-semiconductors-united-states-of-america-usa-0-1-years-jobid-UmjW4DH6rOVzpSvf+uAgZw==&source=srp
+[2026-09-10 17:15:46]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/analyst-l3-wipro-hyderabadsecunderabad-3-5-years-jobid-zOsdCUORFUNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:15:50]   [328] ANALYST L3 -> skills: OK, keywords: none
+[2026-09-10 17:15:53]   [329] LEAD LINUX ADMINISTRATOR -> skills: OK, keywords: Go, Linux
+[2026-09-10 17:15:55]   [330] Career Opportunities: UI Developer (50446) -> skills: OK, keywords: Java, JavaScript, TypeScript, React, CSS, Data Science
+[2026-09-10 17:15:57]   [331] Career Opportunities: Senior Engineer (50420) -> skills: OK, keywords: Data Science
+[2026-09-10 17:15:59]   [332] Project Engineer -> skills: OK, keywords: none
+[2026-09-10 17:16:01]   [333] Hardware Developer Intern 2027 -Poughkeepsie -> skills: OK, keywords: Python, Java, Embedded Systems
+[2026-09-10 17:16:04]   [334] Track Manager (Tools & Automation) -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:16:06]   [335] Network Development Manager, Capacity Restoration  -> skills: OK, keywords: AWS, Networking
+[2026-09-10 17:16:08]   [336] Engineer - Maintenance -> skills: OK, keywords: none
+[2026-09-10 17:16:08] Page 16: found 10 cards, 9 newly scraped, total saved: 336
+[2026-09-10 17:16:08]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/analyst-l3-wipro-hyderabadsecunderabad-3-5-years-jobid-zOsdCUORFUNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:16:09]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/customer-engineer-iii-platform-south-google-cloud-google-houston-atlanta-raleigh-1-4-years-jobid-rDw54w8SsdhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:16:14]   [337] Customer Engineer III, Platform, South, Google Clo -> skills: OK, keywords: Google Cloud, Networking, Encryption
+[2026-09-10 17:16:16]   [338] Staff Manufacturing Engineer, Platforms Infrastruc -> skills: OK, keywords: Go, Assembly, Google Cloud, Machine Learning
+[2026-09-10 17:16:18]   [339] Senior Software Engineering Manager, GCBP Engineer -> skills: OK, keywords: Google Cloud, CI/CD, Networking, System Design
+[2026-09-10 17:16:20]   [340] TEST ARCHITECT L1 -> skills: OK, keywords: none
+[2026-09-10 17:16:22]   [341] Career Opportunities: Senior Data Engineer (50423) -> skills: OK, keywords: Data Science
+[2026-09-10 17:16:25]   [342] Staff Software Engineer, Site Reliability Engineer -> skills: OK, keywords: Go, Google Cloud, Distributed Systems, Networking, Algorithms, System Design
+[2026-09-10 17:16:27]   [343] Project Engineer, OPSENG -> skills: OK, keywords: none
+[2026-09-10 17:16:29]   [344] ANALYST L3 -> skills: OK, keywords: none
+[2026-09-10 17:16:31]   [345] Career Opportunities: Associate Director (50263) -> skills: OK, keywords: Data Science
+[2026-09-10 17:16:31] Page 17: found 10 cards, 9 newly scraped, total saved: 345
+[2026-09-10 17:16:31]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/customer-engineer-iii-platform-south-google-cloud-google-houston-atlanta-raleigh-1-4-years-jobid-rDw54w8SsdhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:16:32]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/functional-consultant-l2-wipro-hyderabadsecunderabad-8-10-years-jobid-3arllL__SLASH__GSlBzpSvf+uAgZw==&source=srp
+[2026-09-10 17:16:37]   [346] FUNCTIONAL CONSULTANT L2 -> skills: OK, keywords: none
+[2026-09-10 17:16:39]   [347] Senior Site Reliability Engineer Lead -> skills: OK, keywords: Jira
+[2026-09-10 17:16:41]   [348] Career Opportunities: Director. (50239) -> skills: OK, keywords: Data Science
+[2026-09-10 17:16:43]   [349] Palantir Foundry Data Engineer -> skills: OK, keywords: Python, React, SQL, Data Engineering, Apache Spark, Airflow
+[2026-09-10 17:16:46]   [350] Sales & Application Engineer -> skills: OK, keywords: none
+[2026-09-10 17:16:48]   [351] Career Opportunities: Lead Data Engineer (50630) -> skills: OK, keywords: Data Science
+[2026-09-10 17:16:50]   [352] DEVELOPER L3 -> skills: OK, keywords: none
+[2026-09-10 17:16:52]   [353] Career Opportunities: Associate Director (47289) -> skills: OK, keywords: Data Science
+[2026-09-10 17:16:52] Page 18: found 10 cards, 8 newly scraped, total saved: 353
+[2026-09-10 17:16:52]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/functional-consultant-l2-wipro-hyderabadsecunderabad-8-10-years-jobid-3arllL__SLASH__GSlBzpSvf+uAgZw==&source=srp
+[2026-09-10 17:16:53]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/solution-architect-l1-wipro-bengaluru-8-10-years-jobid-rBWpgabEZqlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:16:58]   [354] SOLUTION ARCHITECT L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:17:00]   [355] Lead Systems Engineer -> skills: OK, keywords: System Design
+[2026-09-10 17:17:02]   [356] Sr. Project Construction Manager , AWS Data Center -> skills: OK, keywords: AWS, Networking
+[2026-09-10 17:17:04]   [357] Associate Application Developer IBM Tech & Red Hat -> skills: OK, keywords: Python, Java, JavaScript, Docker, Kubernetes, Linux, SQL, Git
+[2026-09-10 17:17:06]   [358] Intern Data Engineer - Data Services - 2027 -> skills: OK, keywords: Python, Java, SQL, Machine Learning, Data Science, Generative AI, Data Engineering, ETL, Data Structures
+[2026-09-10 17:17:09]   [359] ANALYST L3 -> skills: OK, keywords: none
+[2026-09-10 17:17:11]   [360] DESIGN ENGINEER -> skills: OK, keywords: none
+[2026-09-10 17:17:11] Page 19: found 10 cards, 7 newly scraped, total saved: 360
+[2026-09-10 17:17:11]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/solution-architect-l1-wipro-bengaluru-8-10-years-jobid-rBWpgabEZqlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:17:12]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-dev-engineer-ii-infra-supply-chain-automation-amazon-bengaluru-3-7-years-jobid-__SLASH__FztdQuMPfxzpSvf+uAgZw==&source=srp
+[2026-09-10 17:17:16]   [361] Software Dev Engineer-II, Infra Supply Chain Autom -> skills: OK, keywords: AWS, Serverless, NoSQL, Microservices, Networking, Design Patterns, Algorithms, System Design
+[2026-09-10 17:17:19]   [362] Career Opportunities: Senior Director & Delivery L -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:21]   [363] Career Opportunities: Strategy & Practice Manager  -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:23]   [364] Career Opportunities: Assistant Manager (50260) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:25]   [365] Career Opportunities: Assistant Manager (50086) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:29]   [366] Career Opportunities: Senior Manager (50030) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:32]   [367] Career Opportunities: Data Engineer (50195) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:32] Page 20: found 10 cards, 7 newly scraped, total saved: 367
+[2026-09-10 17:17:32]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-dev-engineer-ii-infra-supply-chain-automation-amazon-bengaluru-3-7-years-jobid-__SLASH__FztdQuMPfxzpSvf+uAgZw==&source=srp
+[2026-09-10 17:17:33]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/data-engineer-data-platforms-snowflake-ibm-pune-6-8-years-jobid-92O6jAxkzRBzpSvf+uAgZw==&source=srp
+[2026-09-10 17:17:37]   [368] Technical Program Manager III, Fiber Capacity And  -> skills: OK, keywords: Google Cloud, Networking
+[2026-09-10 17:17:40]   [369] Head Of Research And Development Engineering, Debu -> skills: OK, keywords: R
+[2026-09-10 17:17:42]   [370] Data Center Services Electrical Engineer -> skills: OK, keywords: none
+[2026-09-10 17:17:44]   [371] Career Opportunities: Lead Data Scientist (50573) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:46]   [372] Career Opportunities: Associate Director (47289) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:48]   [373] Career Opportunities: Intern (50370) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:51]   [374] Platform Engineer III -> skills: OK, keywords: Python, Java, Scala, AWS, Azure, GCP, Docker, Kubernetes, SQL, Machine Learning, TensorFlow, PyTorch, Data Science, LLM, Generative AI, Data Engineering, ETL, Airflow
+[2026-09-10 17:17:53]   [375] PRODUCT ENGINEER L1 -> skills: OK, keywords: none
+[2026-09-10 17:17:55]   [376] Career Opportunities: Senior Manager (49341) -> skills: OK, keywords: Data Science
+[2026-09-10 17:17:55] Page 21: found 10 cards, 9 newly scraped, total saved: 376
+[2026-09-10 17:17:55]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/data-engineer-data-platforms-snowflake-ibm-pune-6-8-years-jobid-92O6jAxkzRBzpSvf+uAgZw==&source=srp
+[2026-09-10 17:17:56]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-google-germany-5-8-years-jobid-F815xTUT3HlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:18:01]   [377] Network Implementation Engineer, AutoCAD Drafter -> skills: OK, keywords: Networking
+[2026-09-10 17:18:03]   [378] FUNCTIONAL CONSULTANT L2 -> skills: OK, keywords: none
+[2026-09-10 17:18:06]   [379] Platform Customer Engineer, Google Cloud -> skills: OK, keywords: Google Cloud, Networking, Encryption
+[2026-09-10 17:18:08]   [380] ENTERPRISE ARCHITECT L0 -> skills: OK, keywords: none
+[2026-09-10 17:18:10]   [381] AWS Cloud Fullstack Developer -> skills: OK, keywords: Python, Java, React, Express, Django, AWS, Docker, Kubernetes, Microservices
+[2026-09-10 17:18:12]   [382] FORWARD DEPLOYED ENGINEER L1 -> skills: OK, keywords: none
+[2026-09-10 17:18:14]   [383] Execution- MEP- Mechanical -> skills: OK, keywords: none
+[2026-09-10 17:18:16]   [384] Execution- Structural Steel -> skills: OK, keywords: none
+[2026-09-10 17:18:19]   [385] QAQC- Civil -> skills: OK, keywords: none
+[2026-09-10 17:18:19] Page 22: found 10 cards, 9 newly scraped, total saved: 385
+[2026-09-10 17:18:19]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-google-germany-5-8-years-jobid-F815xTUT3HlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:18:20]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-engineering-manager-confluent-ibm-bengaluru-1-2-years-jobid-HCxLHx87aiZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:18:24]   [386] Senior Engineering Manager - Confluent -> skills: OK, keywords: AWS, Azure, GCP, Kubernetes, Machine Learning, Generative AI, Kafka, Distributed Systems
+[2026-09-10 17:18:27]   [387] Back End Developer Intern 2027 - Poughkeepsie -> skills: OK, keywords: Python, Java, JavaScript, Ruby, Perl, Assembly, Docker, Kubernetes, Jenkins, CI/CD, GitHub Actions, Shell Scripting, SQL, Operating Systems, Agile
+[2026-09-10 17:18:29]   [388] Performance Tester -> skills: OK, keywords: none
+[2026-09-10 17:18:31]   [389] Advanced Mechanical Manufacturing Engineer -> skills: OK, keywords: Go, Assembly, Google Cloud, Machine Learning
+[2026-09-10 17:18:33]   [390] Career Opportunities: Senior Manager (49341) -> skills: OK, keywords: Data Science
+[2026-09-10 17:18:35]   [391] Technical Consultant-AI Integration -> skills: OK, keywords: Python, PyTorch, Pandas, Hugging Face, LLM, Design Patterns
+[2026-09-10 17:18:38]   [392] TECHNICAL LEAD L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:18:40]   [393] 2027 SUMMER CORPORATE INTERN - AUTONOMY & INTELLIG -> skills: OK, keywords: MATLAB, Machine Learning, Deep Learning, Computer Vision, Networking
+[2026-09-10 17:18:42]   [394] Staff Software Engineer, Site Reliability Engineer -> skills: OK, keywords: Go, Google Cloud, Distributed Systems, Networking, Algorithms, System Design
+[2026-09-10 17:18:44]   [395] Sr Tower Lead (Tools & Automation) -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:18:44] Page 23: found 10 cards, 10 newly scraped, total saved: 395
+[2026-09-10 17:18:44]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-engineering-manager-confluent-ibm-bengaluru-1-2-years-jobid-HCxLHx87aiZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:18:45]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/facility-engineer-git-hcl-technologies-remote-3-5-years-jobid-k+cca__SLASH__deGaNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:18:50]   [396] Facility Engineer GIT -> skills: OK, keywords: Azure
+[2026-09-10 17:18:52]   [397] Senior Staff Software Engineer, Data Engineering,  -> skills: OK, keywords: Python, Java, Go, Google Cloud, Data Science, Data Engineering, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:18:54]   [398] Data Engineer-Data Platforms-SnowFlake -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:18:56]   [399] Director, Product Engineering Practice Specialist  -> skills: OK, keywords: R, Linux, Networking, Embedded Systems
+[2026-09-10 17:18:59]   [400] Career Opportunities: Senior Data Scientist 1 (506 -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:01]   [401] Career Opportunities: Full Stack Developer (50594) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:03]   [402] Career Opportunities: Senior Engineer (50512) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:05]   [403] Career Opportunities: Business System Analyst (504 -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:07]   [404] Career Opportunities: Intern (50392) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:10]   [405] Career Opportunities: Director. (50239) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:10] Page 24: found 10 cards, 10 newly scraped, total saved: 405
+[2026-09-10 17:19:10]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/facility-engineer-git-hcl-technologies-remote-3-5-years-jobid-k+cca__SLASH__deGaNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:19:11]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/databricks-data-engineering-wipro-pune-5-8-years-jobid-EuaCjWT1FfNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:19:16]   [406] DataBricks - Data Engineering -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:18]   [407] DataBricks - Data Engineering -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:20]   [408] Group Product Manager, AI Infra Hardware -> skills: OK, keywords: Google Cloud, Operating Systems, Networking
+[2026-09-10 17:19:23]   [409] Data Architect -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:25]   [410] Career Opportunities: Deputy Manager (49729) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:27]   [411] Career Opportunities: Consultant (50287) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:29]   [412] Career Opportunities: Technical Architect (50237) -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:31]   [413] Career Opportunities: Strategy & Practice Manager  -> skills: OK, keywords: Data Science
+[2026-09-10 17:19:33]   [414] TECHNO FUNCTIONAL CONSULTANT L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:36]   [415] Data Engineer-Data Platforms-SnowFlake -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:36] Page 25: found 10 cards, 10 newly scraped, total saved: 415
+[2026-09-10 17:19:36]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/databricks-data-engineering-wipro-pune-5-8-years-jobid-EuaCjWT1FfNzpSvf+uAgZw==&source=srp
+[2026-09-10 17:19:37]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/track-lead-wireless-networking-hcl-technologies-remote-8-11-years-jobid-dQRwZoF3aL1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:19:41]   [416] Track Lead - Wireless Networking -> skills: OK, keywords: none
+[2026-09-10 17:19:44]   [417] TECHNICAL LEAD L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:46]   [418] DEVELOPER L4 -> skills: OK, keywords: React, GraphQL, SQL
+[2026-09-10 17:19:48]   [419] DEVELOPER L3 -> skills: OK, keywords: none
+[2026-09-10 17:19:50]   [420] TECHNICAL LEAD L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:19:52]   [421] Senior Administrator - AWS Security, Cloud Securit -> skills: OK, keywords: Azure
+[2026-09-10 17:19:55]   [422] DATA ANALYST L4 -> skills: OK, keywords: GCP, Data Engineering
+[2026-09-10 17:19:57]   [423] Future Leaders Event R&D Devices - Internship (m/f -> skills: OK, keywords: R, Data Science
+[2026-09-10 17:19:59]   [424] Career Opportunities: Lead Data Scientist (50573) -> skills: OK, keywords: Data Science
+[2026-09-10 17:20:01]   [425] Senior Technical Specialist -> skills: OK, keywords: Python, GCP, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions, TensorFlow, PyTorch, Scikit-learn, Data Engineering, Networking, Encryption
+[2026-09-10 17:20:01] Page 26: found 10 cards, 10 newly scraped, total saved: 425
+[2026-09-10 17:20:01]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/track-lead-wireless-networking-hcl-technologies-remote-8-11-years-jobid-dQRwZoF3aL1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:20:02]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technical-lead-l1-wipro-pune-5-8-years-jobid-u4a16gifEStzpSvf+uAgZw==&source=srp
+[2026-09-10 17:20:07]   [426] TECHNICAL LEAD L1 -> skills: OK, keywords: Data Engineering
+[2026-09-10 17:20:09]   [427] Career Opportunities: Engineer (50541) -> skills: OK, keywords: React, AWS, Azure, CI/CD, Data Science
+[2026-09-10 17:20:12]   [428] Career Opportunities: Associate Director - Office  -> skills: OK, keywords: Data Science
+[2026-09-10 17:20:14]   [429] Career Opportunities: Associate Director (50353) -> skills: OK, keywords: Data Science
+[2026-09-10 17:20:16]   [430] DATA ANALYST L4 -> skills: OK, keywords: GCP, Data Engineering
+[2026-09-10 17:20:18]   [431] Technical Specialist -> skills: OK, keywords: AWS, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions, Lambda, Linux, Shell Scripting, PostgreSQL, Networking
+[2026-09-10 17:20:20]   [432] Project Manager - Scrum Master -> skills: OK, keywords: Data Engineering, ETL, Agile, Scrum
+[2026-09-10 17:20:23]   [433] Senior Project Lead -> skills: OK, keywords: Java
+[2026-09-10 17:20:25]   [434] Senior Software Engineer- Java, Kafka, Python And  -> skills: OK, keywords: Python, Java, CI/CD, Kafka, Distributed Systems, Agile, Design Patterns
+[2026-09-10 17:20:33]   [435] Career Opportunities: Architect (50638) -> skills: OK, keywords: Data Science
+[2026-09-10 17:20:33] Page 27: found 10 cards, 10 newly scraped, total saved: 435
+[2026-09-10 17:20:34]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technical-lead-l1-wipro-pune-5-8-years-jobid-u4a16gifEStzpSvf+uAgZw==&source=srp
+[2026-09-10 17:20:44]   [debug] After click, first card URL still: https://www.timesjobs.com/job-detail/technical-lead-l1-wipro-pune-5-8-years-jobid-u4a16gifEStzpSvf+uAgZw==&source=srp (unchanged after 10s)
+[2026-09-10 17:20:44] Could not advance to the next page (no button, disabled, or content didn't change) - assuming end of results. Stopping.
+[2026-09-10 17:20:45] Scrape finished. Total jobs saved: 435
+[2026-09-10 17:39:08] === Running in FULL mode ===
+[2026-09-10 17:39:10] Resuming with 435 jobs already fully saved
+[2026-09-10 17:39:16]   [436] Senior QA Automation & AI Testing Engineer -> skills: OK, keywords: Python, Java, JavaScript, TypeScript, AWS, Azure, GCP, Docker, Kubernetes, Jenkins, CI/CD, GitHub Actions, SQL, LLM, Microservices, Git, Agile, Scrum, Unit Testing, Postman
+[2026-09-10 17:39:18]   [437] Product Sales Engineer, Reality Modelling -> skills: OK, keywords: Go
+[2026-09-10 17:39:20]   [438] ELECTRICAL TECHNICIAN -> skills: OK, keywords: none
+[2026-09-10 17:39:22]   [439] BOWLING TECHNICIAN -> skills: OK, keywords: none
+[2026-09-10 17:39:25]   [440] HANDYMAN -> skills: OK, keywords: none
+[2026-09-10 17:39:25] Page 1: found 10 cards, 5 newly scraped, total saved: 440
+[2026-09-10 17:39:25]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-qa-automation-ai-testing-engineer-armia-systems-inc-india-6-9-years-jobid-04xjOHksgi5zpSvf+uAgZw==&source=srp
+[2026-09-10 17:39:26]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/business-systems-analyst-google-united-states-of-america-usa-5-6-years-jobid-0OGcAY5baMpzpSvf+uAgZw==&source=srp
+[2026-09-10 17:39:30]   [441] Business Systems Analyst -> skills: OK, keywords: Google Cloud, Agile
+[2026-09-10 17:39:32]   [442] Staff System Power Engineer, Pixel System Power -> skills: OK, keywords: Android, Operating Systems, Embedded Systems, System Design
+[2026-09-10 17:39:35]   [443] Business Systems Analyst -> skills: OK, keywords: Google Cloud, Agile
+[2026-09-10 17:39:37]   [444] Systems Analyst -> skills: OK, keywords: none
+[2026-09-10 17:39:39]   [445] Systems Development Engineer -> skills: OK, keywords: Python, Go, Linux, Operating Systems, Networking
+[2026-09-10 17:39:41]   [446] Systems Engineer -> skills: OK, keywords: none
+[2026-09-10 17:39:43]   [447] Systems Administrator - II -> skills: OK, keywords: Python, AWS, Azure, SQL
+[2026-09-10 17:39:46]   [448] Systems Operations Manager -> skills: OK, keywords: Python, Java, AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, CI/CD, Linux, Distributed Systems, Jira
+[2026-09-10 17:39:48]   [449] Business Systems Analyst -> skills: OK, keywords: Express
+[2026-09-10 17:39:50]   [450] Staff System Power Engineer, Pixel System Power -> skills: OK, keywords: Android, Operating Systems, Embedded Systems, System Design
+[2026-09-10 17:39:50] Page 2: found 10 cards, 10 newly scraped, total saved: 450
+[2026-09-10 17:39:50]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/business-systems-analyst-google-united-states-of-america-usa-5-6-years-jobid-0OGcAY5baMpzpSvf+uAgZw==&source=srp
+[2026-09-10 17:39:51]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/system-support-tech-apprentice-ibm-other-citys-in-new-york-0-1-years-jobid-VdzsR2sbGrpzpSvf+uAgZw==&source=srp
+[2026-09-10 17:39:56]   [451] System Support Tech Apprentice -> skills: OK, keywords: Go, Linux, Operating Systems, Networking
+[2026-09-10 17:39:58]   [452] Systems Engineering Manager, CT -> skills: OK, keywords: System Design
+[2026-09-10 17:40:00]   [453] SYSTEM ENGINEER L2 -> skills: OK, keywords: none
+[2026-09-10 17:40:02]   [454] System Development Engineer, TFS-Onboarding -> skills: OK, keywords: Python, Java, Rust, Ruby, CI/CD, Linux, Networking, Data Structures, Algorithms
+[2026-09-10 17:40:05]   [455] SYSTEM ENGINEER L2 -> skills: OK, keywords: none
+[2026-09-10 17:40:07]   [456] Senior Systems Operations Engineer -> skills: OK, keywords: Python, HTML, Azure, Terraform, Ansible, CI/CD, SQL
+[2026-09-10 17:40:09]   [457] Principal Business Systems Analyst -> skills: OK, keywords: SQL, Agile, Jira, Confluence
+[2026-09-10 17:40:11]   [458] SYSTEM ENGINEER L2 -> skills: OK, keywords: none
+[2026-09-10 17:40:13]   [459] Systems Development Engineer -> skills: OK, keywords: Python, Go, Linux, Operating Systems, Networking
+[2026-09-10 17:40:13] Page 3: found 10 cards, 9 newly scraped, total saved: 459
+[2026-09-10 17:40:13]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/system-support-tech-apprentice-ibm-other-citys-in-new-york-0-1-years-jobid-VdzsR2sbGrpzpSvf+uAgZw==&source=srp
+[2026-09-10 17:40:14]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/quality-management-system-engineer-wipro-united-states-of-america-usa-5-8-years-jobid-rXc5BV1eQhlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:40:19]   [460] Quality Management System Engineer -> skills: OK, keywords: none
+[2026-09-10 17:40:21]   [461] SYSTEM ENGINEER L1 -> skills: OK, keywords: none
+[2026-09-10 17:40:23]   [462] System Test Engineering Manager -> skills: OK, keywords: none
+[2026-09-10 17:40:26]   [463] Sr Analyst Business Systems -> skills: OK, keywords: none
+[2026-09-10 17:40:28]   [464] SYSTEM ENGINEER L4 -> skills: OK, keywords: none
+[2026-09-10 17:40:30]   [465] Analytical Systems Engineer III -> skills: OK, keywords: Cybersecurity
+[2026-09-10 17:40:32]   [466] ANALYTICAL SYSTEMS ENGINEER IV -> skills: OK, keywords: Cybersecurity
+[2026-09-10 17:40:34]   [467] Finance Systems Manager- Crypto -> skills: OK, keywords: Python, SQL
+[2026-09-10 17:40:37]   [468] Technology Business Systems Manager -> skills: OK, keywords: Distributed Systems, Cybersecurity
+[2026-09-10 17:40:37] Page 4: found 10 cards, 9 newly scraped, total saved: 468
+[2026-09-10 17:40:37]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/quality-management-system-engineer-wipro-united-states-of-america-usa-5-8-years-jobid-rXc5BV1eQhlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:40:37]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/sr-analyst-business-systems-empower-remote-5-9-years-jobid-aKk5gA4BbtBzpSvf+uAgZw==&source=srp
+[2026-09-10 17:40:42]   [469] Sr Analyst Business Systems -> skills: OK, keywords: Agile, Scrum
+[2026-09-10 17:40:44]   [470] Field Application Engineer Radar System -> skills: OK, keywords: R
+[2026-09-10 17:40:47]   [471] IT Warehouse Systems Solution Expert -> skills: OK, keywords: Java, Go, CI/CD, Networking, Agile
+[2026-09-10 17:40:49]   [472] Junior System Engineer For Automotive Innovations -> skills: OK, keywords: Python, R, MATLAB, Embedded Systems, System Design
+[2026-09-10 17:40:51]   [473] SYSTEM ENGINEER L2(CONTRACT) -> skills: OK, keywords: none
+[2026-09-10 17:40:53]   [474] Systems Engineer Intern - Summer 2027 -> skills: OK, keywords: Python, R
+[2026-09-10 17:40:55]   [475] Electronic Integrated Systems Technician -> skills: OK, keywords: none
+[2026-09-10 17:40:58]   [476] SYSTEM ENGINEER L4(CONTRACT) -> skills: OK, keywords: none
+[2026-09-10 17:41:00]   [477] .NET Senior System Developer TS/SCI -> skills: OK, keywords: React, Angular, jQuery, AWS, Azure, SQL, MySQL, Agile
+[2026-09-10 17:41:02]   [478] System Service Representative - Columbus OH -> skills: OK, keywords: Networking
+[2026-09-10 17:41:02] Page 5: found 10 cards, 10 newly scraped, total saved: 478
+[2026-09-10 17:41:02]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/sr-analyst-business-systems-empower-remote-5-9-years-jobid-aKk5gA4BbtBzpSvf+uAgZw==&source=srp
+[2026-09-10 17:41:03]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technical-program-manager-ai-systems-google-germany-5-8-years-jobid-m0p2kqxzdgZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:41:08]   [479] Technical Program Manager, AI Systems -> skills: OK, keywords: Python, Java, JavaScript, Google Cloud, SQL, MySQL, Machine Learning, Data Science
+[2026-09-10 17:41:10]   [480] Test Specialist - System Testing (Storage) -> skills: OK, keywords: Linux
+[2026-09-10 17:41:12]   [481] Principal Technical Business Systems Analyst -> skills: OK, keywords: SQL, Agile, Jira, Confluence
+[2026-09-10 17:41:14]   [482] UX Engineer, Search Design System -> skills: OK, keywords: JavaScript, HTML, CSS, Firebase
+[2026-09-10 17:41:17]   [483] Principal Technical Business Systems Analyst -> skills: OK, keywords: SQL, Agile, Jira, Confluence
+[2026-09-10 17:41:19]   [484] Senior System Performance Engineer, XR -> skills: OK, keywords: Java, AR, Operating Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:41:21]   [485] Technical Program Manager, AI Systems -> skills: OK, keywords: Python, Java, JavaScript, Google Cloud, SQL, MySQL, Machine Learning, Data Science
+[2026-09-10 17:41:23]   [486] System Service Representative - Ashburn VA -> skills: OK, keywords: Operating Systems, Networking
+[2026-09-10 17:41:25]   [487] Senior Systems Quality Assurance Analyst -> skills: OK, keywords: Java, Swift, Jenkins, CI/CD, Jira, Confluence
+[2026-09-10 17:41:28]   [488] Systems Yield Engineer, Quantum AI -> skills: OK, keywords: Python, Assembly
+[2026-09-10 17:41:28] Page 6: found 10 cards, 10 newly scraped, total saved: 488
+[2026-09-10 17:41:28]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technical-program-manager-ai-systems-google-germany-5-8-years-jobid-m0p2kqxzdgZzpSvf+uAgZw==&source=srp
+[2026-09-10 17:41:29]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-ux-engineer-design-systems-google-san-francisco-6-7-years-jobid-KAtNih1p7G1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:41:33]   [489] Senior UX Engineer, Design Systems -> skills: OK, keywords: Android, iOS
+[2026-09-10 17:41:35]   [490] Camera Control Systems Calibration Engineer -> skills: OK, keywords: Python, Assembly, Git, Algorithms
+[2026-09-10 17:41:38]   [491] Junior System Engineer For Automotive Innovations -> skills: OK, keywords: Python, R, MATLAB, Embedded Systems, System Design
+[2026-09-10 17:41:40]   [492] EMS / IT SYSTEMS ARCHITECT (INTEGRATION LEAD) -> skills: OK, keywords: none
+[2026-09-10 17:41:42]   [493] Principle System Engineer - Automotive MCU -> skills: OK, keywords: R, Networking, Embedded Systems
+[2026-09-10 17:41:44]   [494] System Service Representative Boston South -> skills: OK, keywords: Operating Systems, Networking
+[2026-09-10 17:41:46]   [495] Program Manager-I, Japan Transportation Systems -> skills: OK, keywords: SQL
+[2026-09-10 17:41:49]   [496] Systems Development Engineer, Engineering Labs -> skills: OK, keywords: Python, R, Linux, Bash, Shell Scripting, Networking
+[2026-09-10 17:41:51]   [497] Senior Technology Business Systems Consultant -> skills: OK, keywords: Agile
+[2026-09-10 17:41:51] Page 7: found 10 cards, 9 newly scraped, total saved: 497
+[2026-09-10 17:41:51]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-ux-engineer-design-systems-google-san-francisco-6-7-years-jobid-KAtNih1p7G1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:41:52]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/logistics-and-systems-support-program-manager-google-ireland-1-4-years-jobid-MAFAMTPZaJ5zpSvf+uAgZw==&source=srp
+[2026-09-10 17:41:57]   [498] Logistics And Systems Support Program Manager -> skills: OK, keywords: Agile, Jira
+[2026-09-10 17:41:59]   [499] Task Lead And Systems Security Manager (TS/SCI) -> skills: OK, keywords: Operating Systems, Cybersecurity
+[2026-09-10 17:42:01]   [500] Software Development Manager, Transportation Finan -> skills: OK, keywords: AWS, Machine Learning, Design Patterns
+[2026-09-10 17:42:03]   [501] IBM Z Engineering System Test Back-End Developer - -> skills: OK, keywords: AWS, Azure, Docker, Networking
+[2026-09-10 17:42:05]   [502] Staff Software Engineer, Pixel System Security -> skills: OK, keywords: Rust, Networking, Embedded Systems, System Design
+[2026-09-10 17:42:08]   [503] Senior Linux Systems Engineer - EDA Infrastructure -> skills: OK, keywords: Python, Go, AWS, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, GitHub Actions, Linux, Bash, Operating Systems, Networking
+[2026-09-10 17:42:10]   [504] Senior Operations Research/ System Analyst (ORSA) -> skills: OK, keywords: Python, R, Docker, Jenkins, CI/CD, Shell Scripting, SQL, PostgreSQL, MySQL, MongoDB, Cassandra, Machine Learning, Pandas, NumPy, Git
+[2026-09-10 17:42:12]   [505] Senior Software Engineer, AI/ML System Infrastruct -> skills: OK, keywords: Go, Google Cloud, CI/CD, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:42:14]   [506] Career Opportunities: Business System Analyst (504 -> skills: OK, keywords: Data Science
+[2026-09-10 17:42:14] Page 8: found 10 cards, 9 newly scraped, total saved: 506
+[2026-09-10 17:42:14]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/logistics-and-systems-support-program-manager-google-ireland-1-4-years-jobid-MAFAMTPZaJ5zpSvf+uAgZw==&source=srp
+[2026-09-10 17:42:15]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-software-engineer-embedded-systems-and-firmware-google-san-francisco-5-8-years-jobid-Jov63SkNmphzpSvf+uAgZw==&source=srp
+[2026-09-10 17:42:20]   [507] Senior Software Engineer, Embedded Systems And Fir -> skills: OK, keywords: Linux, Android, Operating Systems, Networking, Embedded Systems, Algorithms, System Design
+[2026-09-10 17:42:22]   [508] Staff Hardware System Architect, Pixel Watch -> skills: OK, keywords: Machine Learning, Android, Algorithms, System Design
+[2026-09-10 17:42:24]   [509] Test Engineer, Android And Pixel System Test -> skills: OK, keywords: Machine Learning, Android
+[2026-09-10 17:42:26]   [510] Software Engineer, Embedded Systems, Pixel Touch -> skills: OK, keywords: Rust, Linux, Android, Operating Systems, Networking, Embedded Systems, Data Structures, Algorithms, System Design
+[2026-09-10 17:42:29]   [511] Software Developer, XR System Interaction Framewor -> skills: OK, keywords: Unity, Android, Operating Systems, Networking, System Design
+[2026-09-10 17:42:31]   [512] Technical Program Manager, Security Systems Operat -> skills: OK, keywords: Networking
+[2026-09-10 17:42:33]   [513] Career Opportunities: Business Systems Analyst (50 -> skills: OK, keywords: Data Science, Agile
+[2026-09-10 17:42:35]   [514] Microcontrollers System Engineering Intern - Summe -> skills: OK, keywords: R, Machine Learning, Operating Systems, Embedded Systems
+[2026-09-10 17:42:37]   [515] Career Opportunities: Business Systems Analyst (50 -> skills: OK, keywords: Data Science, Agile
+[2026-09-10 17:42:40]   [516] Senior Engineering Manager, AutoCloud Agentic Syst -> skills: OK, keywords: Google Cloud, Generative AI, Networking, System Design
+[2026-09-10 17:42:40] Page 9: found 10 cards, 10 newly scraped, total saved: 516
+[2026-09-10 17:42:40]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-software-engineer-embedded-systems-and-firmware-google-san-francisco-5-8-years-jobid-Jov63SkNmphzpSvf+uAgZw==&source=srp
+[2026-09-10 17:42:41]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/software-engineer-embedded-systems-pixel-touch-google-united-states-of-america-usa-5-8-years-jobid-BeCHt1P7jEdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:42:45]   [517] Silicon Software Engineering Manager, Embedded Sys -> skills: OK, keywords: Networking, Embedded Systems, System Design
+[2026-09-10 17:42:48]   [518] System Development Engineer, Emerging Device Softw -> skills: OK, keywords: Python, Java, Rust, Ruby, CI/CD, Linux, Android, Distributed Systems
+[2026-09-10 17:42:50]   [519] Career Opportunities: Business Systems Analyst (50 -> skills: OK, keywords: Data Science, Agile
+[2026-09-10 17:42:52]   [520] Senior Software Engineer, Embedded Systems And Fir -> skills: OK, keywords: Linux, Android, Operating Systems, Networking, Embedded Systems, Algorithms, System Design
+[2026-09-10 17:42:54]   [521] Senior Software Engineer, AI/ML System Infrastruct -> skills: OK, keywords: Go, Google Cloud, CI/CD, Distributed Systems, Networking, Data Structures, Algorithms, System Design
+[2026-09-10 17:42:56]   [522] Senior Software Engineer, Embedded Systems And Fir -> skills: OK, keywords: Linux, Android, Operating Systems, Networking, Embedded Systems, Algorithms, System Design
+[2026-09-10 17:42:59]   [523] System Development Engineer II, Amazon WWR&R -> skills: OK, keywords: Python, Java, Rust, Ruby, R, Perl, CI/CD, Linux, SQL, Machine Learning, Distributed Systems, Agile, Design Patterns
+[2026-09-10 17:42:59] Page 10: found 10 cards, 7 newly scraped, total saved: 523
+[2026-09-10 17:42:59]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-embedded-systems-pixel-touch-google-united-states-of-america-usa-5-8-years-jobid-BeCHt1P7jEdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:43:00]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/ibm-research-intern-2027-ai-systems-ibm-other-citys-in-new-york-0-1-years-jobid-AxW__SLASH__BqnJkktzpSvf+uAgZw==&source=srp
+[2026-09-10 17:43:04]   [524] IBM Research Intern 2027: AI Systems -> skills: OK, keywords: Python, Linux, Machine Learning, Deep Learning, TensorFlow, PyTorch, Hugging Face, Distributed Systems, Algorithms
+[2026-09-10 17:43:06]   [525] Software Engineer, Systems Research, PhD, Early Ca -> skills: OK, keywords: Python, Java, JavaScript, Google Cloud, Machine Learning, Distributed Systems, Networking, Algorithms, System Design
+[2026-09-10 17:43:09]   [526] Technical Program Manager, Warehouse And Logistics -> skills: OK, keywords: none
+[2026-09-10 17:43:11]   [527] Administrator - MS System Center Configuration Man -> skills: OK, keywords: Azure
+[2026-09-10 17:43:13]   [528] Hardware And Systems Developer Intern 2027 -New Yo -> skills: OK, keywords: Python, MATLAB, Bash, Networking, System Design
+[2026-09-10 17:43:15]   [529] Technical Project Lead (SOC-QNX - Hypervisor Syste -> skills: OK, keywords: Linux, Android, Operating Systems
+[2026-09-10 17:43:18]   [530] Senior Test Lead - System Testing (Storage) -> skills: OK, keywords: Linux, Operating Systems, Agile
+[2026-09-10 17:43:21]   [531] Systems Development Engineer, Edge Infrastructure  -> skills: OK, keywords: Python, Go, Google Cloud, Linux, Operating Systems, Networking
+[2026-09-10 17:43:23]   [532] SME - MS System Center Configuration Manager (SCCM -> skills: OK, keywords: none
+[2026-09-10 17:43:25]   [533] Lead System Designer & Product Security Representa -> skills: OK, keywords: Agile, Design Patterns, Penetration Testing
+[2026-09-10 17:43:25] Page 11: found 10 cards, 10 newly scraped, total saved: 533
+[2026-09-10 17:43:25]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/ibm-research-intern-2027-ai-systems-ibm-other-citys-in-new-york-0-1-years-jobid-AxW__SLASH__BqnJkktzpSvf+uAgZw==&source=srp
+[2026-09-10 17:43:26]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-hardware-systems-design-engineer-platforms-infrastructure-google-united-states-of-america-usa-4-6-years-jobid-YqCWOLHdWGlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:43:31]   [534] Senior Hardware Systems Design Engineer, Platforms -> skills: OK, keywords: Networking, System Design
+[2026-09-10 17:43:33]   [535] Project Manager II - Advanced Analytical Systems I -> skills: OK, keywords: Networking, System Design, Cybersecurity
+[2026-09-10 17:43:35]   [536] Senior Technical Lead - CAN, Embedded Systems, C++ -> skills: OK, keywords: Operating Systems, Embedded Systems
+[2026-09-10 17:43:37]   [537] Software Engineer, Embedded Systems, XR, Platforms -> skills: OK, keywords: Operating Systems, Networking, Embedded Systems, Git, Data Structures, Algorithms, System Design
+[2026-09-10 17:43:40]   [538] Sr Technical Program Manager, Transportation Finan -> skills: OK, keywords: none
+[2026-09-10 17:43:42]   [539] Administrator - MS System Center Configuration Man -> skills: OK, keywords: Azure
+[2026-09-10 17:43:44]   [540] Senior Business Systems Analyst - SAP IBP Planning -> skills: OK, keywords: Python, R, Machine Learning, Data Science, LLM
+[2026-09-10 17:43:46]   [541] Career Opportunities: Senior Business Systems Anal -> skills: OK, keywords: Data Science, Agile
+[2026-09-10 17:43:46] Page 12: found 10 cards, 8 newly scraped, total saved: 541
+[2026-09-10 17:43:46]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-hardware-systems-design-engineer-platforms-infrastructure-google-united-states-of-america-usa-4-6-years-jobid-YqCWOLHdWGlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:43:47]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-administrator-ms-system-center-configuration-manager-sccm-hcl-technologies-remote-5-7-years-jobid-zWQudezaz8VzpSvf+uAgZw==&source=srp
+[2026-09-10 17:43:52]   [542] Senior Administrator - MS System Center Configurat -> skills: OK, keywords: none
+[2026-09-10 17:43:54]   [543] Firmware And Systems Developer Intern 2027 -Poughk -> skills: OK, keywords: Python, MATLAB, Bash, Embedded Systems, System Design
+[2026-09-10 17:43:56]   [544] Senior Engineer - MS System Center Configuration M -> skills: OK, keywords: none
+[2026-09-10 17:43:59]   [545] Image Signal Processor System Modeling Engineer, S -> skills: OK, keywords: Python, Computer Vision, Algorithms
+[2026-09-10 17:44:01]   [546] Staff Technical Solutions Consultant, GSRS Securit -> skills: OK, keywords: Python, Go, SQL, Machine Learning, LLM
+[2026-09-10 17:44:03]   [547] Systems Development Engineer, Selling Partner Solu -> skills: OK, keywords: Python, Java, Rust, Ruby, Scala, AWS, CI/CD, Lambda, DynamoDB, Level Design, Operating Systems, Design Patterns, Data Structures, Algorithms
+[2026-09-10 17:44:07]   [548] Senior Administrator - MS System Center Configurat -> skills: OK, keywords: none
+[2026-09-10 17:44:09]   [549] Senior Technical Lead - CAN, Embedded Systems, C++ -> skills: OK, keywords: Operating Systems, Embedded Systems
+[2026-09-10 17:44:11]   [550] Senior Technical Lead - CAN, Embedded Systems, C++ -> skills: OK, keywords: Operating Systems, Embedded Systems
+[2026-09-10 17:44:13]   [551] MECHANICAL DESIGN ENGINEER - INVERTER & CHARGER CA -> skills: OK, keywords: Assembly, System Design
+[2026-09-10 17:44:13] Page 13: found 10 cards, 10 newly scraped, total saved: 551
+[2026-09-10 17:44:13]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-administrator-ms-system-center-configuration-manager-sccm-hcl-technologies-remote-5-7-years-jobid-zWQudezaz8VzpSvf+uAgZw==&source=srp
+[2026-09-10 17:44:14]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-engineer-ms-system-center-configuration-manager-sccm-hcl-technologies-remote-5-7-years-jobid-Bp9A7RUnQcFzpSvf+uAgZw==&source=srp
+[2026-09-10 17:44:19]   [552] Senior Engineer - MS System Center Configuration M -> skills: OK, keywords: none
+[2026-09-10 17:44:21]   [553] Track Manager - MS System Center Configuration Man -> skills: OK, keywords: Azure, Agile
+[2026-09-10 17:44:23]   [554] Hardware Development Engineer System & Card Logic  -> skills: OK, keywords: Python, R, Agile
+[2026-09-10 17:44:26]   [555] QA/Test Developer Intern: Systems Assurance - Poug -> skills: OK, keywords: Python, Java, Ruby, Perl, SQL, LLM, Agile
+[2026-09-10 17:44:28]   [556] Senior Administrator - MS System Center Configurat -> skills: OK, keywords: none
+[2026-09-10 17:44:30]   [557] HW Developer Intern: Systems Assurance - Rochester -> skills: OK, keywords: LLM, Networking, Agile
+[2026-09-10 17:44:32]   [558] Senior Engineer - MS System Center Configuration M -> skills: OK, keywords: none
+[2026-09-10 17:44:34]   [559] Senior Administrator - MS System Center Configurat -> skills: OK, keywords: none
+[2026-09-10 17:44:36]   [560] Senior Administrator - MS System Center Configurat -> skills: OK, keywords: none
+[2026-09-10 17:44:39]   [561] Senior Administrator - MS System Center Configurat -> skills: OK, keywords: none
+[2026-09-10 17:44:39] Page 14: found 10 cards, 10 newly scraped, total saved: 561
+[2026-09-10 17:44:39]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-engineer-ms-system-center-configuration-manager-sccm-hcl-technologies-remote-5-7-years-jobid-Bp9A7RUnQcFzpSvf+uAgZw==&source=srp
+[2026-09-10 17:44:40]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-engineer-ms-system-center-configuration-manager-sccm-hcl-technologies-remote-5-7-years-jobid-J2NdQffGJAdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:44:44]   [562] Senior Engineer - MS System Center Configuration M -> skills: OK, keywords: none
+[2026-09-10 17:44:47]   [563] System Development Engineer II, Customer Experienc -> skills: OK, keywords: Python, Java, JavaScript, Ruby, React, HTML, CSS, AWS, CI/CD, SQL, Machine Learning, Distributed Systems, Operating Systems, Networking, Agile
+[2026-09-10 17:44:49]   [564] Track Manager - MS System Center Configuration Man -> skills: OK, keywords: none
+[2026-09-10 17:44:51]   [565] Track Lead - MS System Center Configuration Manage -> skills: OK, keywords: Azure, Android, Networking
+[2026-09-10 17:53:17] === Running in FULL mode ===
+[2026-09-10 17:53:20] Resuming with 565 jobs already fully saved
+[2026-09-10 17:53:28]   [566] Principal Engineer - Digital Workplace Job Details -> skills: OK, keywords: Azure, Cybersecurity
+[2026-09-10 17:53:31]   [567] Business Analyst Sr Job Details | Insight Enterpri -> skills: OK, keywords: Python, Go, SQL, Generative AI, Cybersecurity
+[2026-09-10 17:53:33]   [568] Technology Director -> skills: OK, keywords: Agile
+[2026-09-10 17:53:35]   [569] Technology Educator -> skills: OK, keywords: none
+[2026-09-10 17:53:37]   [570] Enterprise Technology Architect -> skills: OK, keywords: Python, AWS, Azure, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:53:40]   [571] Technology Architect -> skills: OK, keywords: none
+[2026-09-10 17:53:42]   [572] Architect II Job Details | Insight Enterprises, In -> skills: OK, keywords: Networking, Cybersecurity
+[2026-09-10 17:53:44]   [573] Security Engineer III Job Details | Insight Enterp -> skills: OK, keywords: Azure, Cybersecurity
+[2026-09-10 17:53:48]   [574] Compliance Officer- Travel Industry -> skills: OK, keywords: none
+[2026-09-10 17:53:51]   [575] Compliance Officer -> skills: OK, keywords: none
+[2026-09-10 17:53:51] Page 1: found 10 cards, 10 newly scraped, total saved: 575
+[2026-09-10 17:53:51]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/principal-engineer-digital-workplace-job-details-insight-enterprises-inc-insight-technology-partners-gurugram-delhi-bengaluru-hyderabadsecunderabad-pune-8-14-years-jobid-Nke2SgmXl35zpSvf+uAgZw==&source=srp
+[2026-09-10 17:53:51]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/principal-fraud-technology-northern-trust-corp-ltd-chicago-5-7-years-jobid-d2NgSQX__SLASH__nGtzpSvf+uAgZw==&source=srp
+[2026-09-10 17:53:56]   [576] Principal, Fraud Technology -> skills: OK, keywords: Java, Spring, Spring Boot, Azure, Terraform, CI/CD, SQL, Microservices, Git, JWT
+[2026-09-10 17:53:58]   [577] Director, Technology Risk -> skills: OK, keywords: none
+[2026-09-10 17:54:01]   [578] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:03]   [579] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:05]   [580] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:07]   [581] Enterprise Technology Architect -> skills: OK, keywords: Python, AWS, Azure, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:09]   [582] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:12]   [583] Technology Support Engineer -> skills: OK, keywords: none
+[2026-09-10 17:54:14]   [584] Enterprise Technology Architect -> skills: OK, keywords: Python, AWS, Azure, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:14] Page 2: found 10 cards, 9 newly scraped, total saved: 584
+[2026-09-10 17:54:14]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/principal-fraud-technology-northern-trust-corp-ltd-chicago-5-7-years-jobid-d2NgSQX__SLASH__nGtzpSvf+uAgZw==&source=srp
+[2026-09-10 17:54:15]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-hyderabadsecunderabad-8-10-years-jobid-H+KWZVz5__SLASH__h1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:54:19]   [585] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:22]   [586] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:24]   [587] Technology Auditor, Internal Audit -> skills: OK, keywords: Python, Java, SQL, Generative AI
+[2026-09-10 17:54:26]   [588] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Java, Level Design
+[2026-09-10 17:54:28]   [589] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:30]   [590] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:54:30] Page 3: found 10 cards, 6 newly scraped, total saved: 590
+[2026-09-10 17:54:30]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-hyderabadsecunderabad-8-10-years-jobid-H+KWZVz5__SLASH__h1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:54:31]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-united-states-of-america-usa-8-10-years-jobid-eSBI7L4wmrhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:54:36]   [591] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: .NET, ASP.NET, Azure, CI/CD, Data Engineering, Microservices, Git, Agile
+[2026-09-10 17:54:38]   [592] Master@IBM - Technology Sales (f/m/x) -> skills: OK, keywords: Go
+[2026-09-10 17:54:40]   [593] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Java, Level Design
+[2026-09-10 17:54:43]   [594] TECHNOLOGY ARCHITECT L2 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:45]   [595] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: .NET, ASP.NET, Azure, CI/CD, Data Engineering, Microservices, Git, Agile
+[2026-09-10 17:54:47]   [596] TECHNOLOGY ARCHITECT L2 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:49]   [597] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:52]   [598] QUARRY SITE TECHNOLOGY CONSULTANT -> skills: OK, keywords: Go
+[2026-09-10 17:54:55]   [599] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:54:55] Page 4: found 10 cards, 9 newly scraped, total saved: 599
+[2026-09-10 17:54:55]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-united-states-of-america-usa-8-10-years-jobid-eSBI7L4wmrhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:06]   [debug] After click, first card URL still: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-united-states-of-america-usa-8-10-years-jobid-eSBI7L4wmrhzpSvf+uAgZw==&source=srp (unchanged after 10s)
+[2026-09-10 17:55:06] Could not advance to the next page (no button, disabled, or content didn't change) - assuming end of results. Stopping.
+[2026-09-10 17:55:06] Scrape finished. Total jobs saved: 599
+[2026-09-10 17:55:18] === Running in FULL mode ===
+[2026-09-10 17:55:20] Resuming with 599 jobs already fully saved
+[2026-09-10 17:55:25] Page 1: found 10 cards, 0 newly scraped, total saved: 599
+[2026-09-10 17:55:25]   (no new jobs on this page - 1/3 stalled pages in a row)
+[2026-09-10 17:55:25]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/principal-engineer-digital-workplace-job-details-insight-enterprises-inc-insight-technology-partners-gurugram-delhi-bengaluru-hyderabadsecunderabad-pune-8-14-years-jobid-Nke2SgmXl35zpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:26]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/director-technology-risk-master-card-ireland-6-10-years-jobid-LbtQWw+kYzhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:31]   [600] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:55:33]   [601] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:55:35]   [602] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:55:37]   [603] Technology Sales Support -> skills: OK, keywords: none
+[2026-09-10 17:55:40]   [604] Enterprise Technology Architect -> skills: OK, keywords: Python, Terraform, Ansible, CI/CD, Networking, Git
+[2026-09-10 17:55:40] Page 2: found 10 cards, 5 newly scraped, total saved: 604
+[2026-09-10 17:55:40]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/director-technology-risk-master-card-ireland-6-10-years-jobid-LbtQWw+kYzhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:41]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-hyderabadsecunderabad-8-10-years-jobid-H+KWZVz5__SLASH__h1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:43] Page 3: found 10 cards, 0 newly scraped, total saved: 604
+[2026-09-10 17:55:43]   (no new jobs on this page - 1/3 stalled pages in a row)
+[2026-09-10 17:55:43]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-hyderabadsecunderabad-8-10-years-jobid-H+KWZVz5__SLASH__h1zpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:44]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-chennai-8-10-years-jobid-keBt733xrq9zpSvf+uAgZw==&source=srp
+[2026-09-10 17:55:49]   [605] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Operating Systems, Networking
+[2026-09-10 17:55:51]   [606] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Java, Level Design
+[2026-09-10 17:55:53]   [607] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:55:55]   [608] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:55:58]   [609] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:00]   [610] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:02]   [611] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:04]   [612] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:06]   [613] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:09]   [614] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:09] Page 4: found 10 cards, 10 newly scraped, total saved: 614
+[2026-09-10 17:56:09]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-chennai-8-10-years-jobid-keBt733xrq9zpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:10]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-united-states-of-america-usa-8-10-years-jobid-eSBI7L4wmrhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:14]   [615] TECHNOLOGY ARCHITECT L1 -> skills: OK, keywords: Level Design
+[2026-09-10 17:56:14] Page 5: found 10 cards, 1 newly scraped, total saved: 615
+[2026-09-10 17:56:14]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/technology-architect-l1-wipro-united-states-of-america-usa-8-10-years-jobid-eSBI7L4wmrhzpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:15]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/associate-sap-technology-specialist-2027-ibm-united-states-of-america-usa-0-1-years-jobid-gi9YUVVMRRFzpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:20]   [616] Associate SAP Technology Specialist 2027 -> skills: OK, keywords: Linux, SQL, Data Science, ETL, Operating Systems, Networking, Cybersecurity
+[2026-09-10 17:56:22]   [617] Information Technology Apprenticeship, February 20 -> skills: OK, keywords: Operating Systems, Networking
+[2026-09-10 17:56:24]   [618] Senior Technology Business Services Consultant -> skills: OK, keywords: none
+[2026-09-10 17:56:27]   [619] Technology Operations Senior Manager (Service Desk -> skills: OK, keywords: Generative AI
+[2026-09-10 17:56:29]   [620] Bus & Technology Delivery Senior Manager -> skills: OK, keywords: none
+[2026-09-10 17:56:29] Page 6: found 10 cards, 5 newly scraped, total saved: 620
+[2026-09-10 17:56:29]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/associate-sap-technology-specialist-2027-ibm-united-states-of-america-usa-0-1-years-jobid-gi9YUVVMRRFzpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:30]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/information-technology-apprenticeship-february-2027-start-google-other-citys-in-new-york-0-3-years-jobid-2pUAixKw9UlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:34]   [621] Digital Technology Manager, Data Center Operations -> skills: OK, keywords: none
+[2026-09-10 17:56:37]   [622] Product Technology Manager, Universal Commerce Pro -> skills: OK, keywords: Python, Java, JavaScript, HTML, CSS, Linux, SQL, NoSQL, Machine Learning
+[2026-09-10 17:56:39]   [623] Software Development Engineer, Alexa Customers & T -> skills: OK, keywords: Linux, Generative AI, Android, Networking, Embedded Systems, Design Patterns
+[2026-09-10 17:56:41]   [624] Lead Technology Risk And Controls - Metrics & Auto -> skills: OK, keywords: Operating Systems
+[2026-09-10 17:56:43]   [625] Technology Operations Associate Manager (Service D -> skills: OK, keywords: none
+[2026-09-10 17:56:45]   [626] SDE2 Mobile, Transporter Experience And Technology -> skills: OK, keywords: Android, iOS, Design Patterns, Algorithms
+[2026-09-10 17:56:48]   [627] Technology Business Partner - Finance L2 -> skills: OK, keywords: AR, Agile
+[2026-09-10 17:56:50]   [628] Senior Technology Engagement Business Services Con -> skills: OK, keywords: Agile, Jira, Cybersecurity
+[2026-09-10 17:56:50] Page 7: found 10 cards, 8 newly scraped, total saved: 628
+[2026-09-10 17:56:50]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/information-technology-apprenticeship-february-2027-start-google-other-citys-in-new-york-0-3-years-jobid-2pUAixKw9UlzpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:51]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/senior-technical-program-manager-advanced-energy-technologies-google-other-citys-in-new-york-san-francisco-8-11-years-jobid-ztaRoXJhCT5zpSvf+uAgZw==&source=srp
+[2026-09-10 17:56:55]   [629] Senior Technical Program Manager, Advanced Energy  -> skills: OK, keywords: R, Google Cloud, Networking
+[2026-09-10 17:56:58]   [630] Support Engineer III, Benefits Experience & Techno -> skills: OK, keywords: Python, JavaScript, Ruby, AWS, CI/CD, Linux, SQL, Data Engineering, ETL, Operating Systems
+[2026-09-10 17:57:00]   [631] Program Manager, Vendor Management, Delivery Netwo -> skills: OK, keywords: SQL, Machine Learning, Computer Vision
+[2026-09-10 17:57:02]   [632] Sr Technical Program Manager, Global Procurement T -> skills: OK, keywords: AWS, Machine Learning
+[2026-09-10 17:57:04]   [633] Solutions Architect II, Direct Tax Technology -> skills: OK, keywords: Python, AWS, Generative AI, Networking
+[2026-09-10 17:57:07]   [634] Senior Product Manager - Tech, Amazon Finance Tech -> skills: OK, keywords: none
+[2026-09-10 17:57:09]   [635] Technology Seller Entry Level Sales Program 2027 -> skills: OK, keywords: Cybersecurity
+[2026-09-10 17:57:11]   [636] Sr. Software Dev Engineer, Finance Technology -> skills: OK, keywords: AWS, Machine Learning, Design Patterns
+[2026-09-10 17:57:13]   [637] Tower Lead - Juniper Network Technologies, Infoblo -> skills: OK, keywords: Networking
+[2026-09-10 17:57:15]   [638] Technology Seller - Spring Co-op Sales Program 202 -> skills: OK, keywords: none
+[2026-09-10 17:57:15] Page 8: found 10 cards, 10 newly scraped, total saved: 638
+[2026-09-10 17:57:15]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/senior-technical-program-manager-advanced-energy-technologies-google-other-citys-in-new-york-san-francisco-8-11-years-jobid-ztaRoXJhCT5zpSvf+uAgZw==&source=srp
+[2026-09-10 17:57:16]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/staff-technical-solutions-consultant-gsrs-security-systems-and-technology-google-chicago-other-citys-in-new-york-7-10-years-jobid-GY0Lf0hoXAdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:57:21]   [639] Senior Contract & Compliance Job Details | Gainwel -> skills: OK, keywords: none
+[2026-09-10 17:57:23]   [640] Software Development Manager, Tax And Account Comp -> skills: OK, keywords: Distributed Systems
+[2026-09-10 17:57:25]   [641] Software Dev Engineer II, Business Data Technology -> skills: OK, keywords: AWS, Machine Learning, Distributed Systems, Agile, Design Patterns, Data Structures, Algorithms
+[2026-09-10 17:57:28]   [642] Contract Management Specialist Job Details | Gainw -> skills: OK, keywords: none
+[2026-09-10 17:57:30]   [643] Career Opportunities: Technical Lead (49269) -> skills: OK, keywords: Python, Java, JavaScript, React, Angular, HTML, CSS, Node.js, Spring, Spring Boot, CI/CD, Data Science
+[2026-09-10 17:57:32]   [644] Data Engineer - IICS Job Job Details | Yash Techno -> skills: OK, keywords: Go, AWS, SQL, Data Engineering, Agile
+[2026-09-10 17:57:34]   [645] Module Lead - Spotfire Job Job Details | Yash Tech -> skills: OK, keywords: Go, React, Agile
+[2026-09-10 17:57:36]   [646] Consultant - Linux Job Job Details | Yash Technolo -> skills: OK, keywords: Python, Linux, Shell Scripting
+[2026-09-10 17:57:36] Page 9: found 10 cards, 8 newly scraped, total saved: 646
+[2026-09-10 17:57:36]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/staff-technical-solutions-consultant-gsrs-security-systems-and-technology-google-chicago-other-citys-in-new-york-7-10-years-jobid-GY0Lf0hoXAdzpSvf+uAgZw==&source=srp
+[2026-09-10 17:57:37]   [debug] After click, first card URL changed to: https://www.timesjobs.com/job-detail/data-science-ai-job-details-gainwell-technologies-llc-gainwell-technologies-bengaluru-chennai-6-9-years-jobid-gLAhGebM7ohzpSvf+uAgZw==&source=srp
+[2026-09-10 17:57:42]   [647] Data Science AI Job Details | Gainwell Technologie -> skills: OK, keywords: Python, React, Angular, Vue, AWS, Azure, GCP, SQL, NoSQL, Machine Learning, Deep Learning, TensorFlow, PyTorch, Data Science, LLM, Generative AI
+[2026-09-10 17:57:44]   [648] Contract Management And Negotiation Job Details |  -> skills: OK, keywords: none
+[2026-09-10 17:57:47]   [649] Senior Executive - Manufacturing, Science, And Tec -> skills: OK, keywords: none
+[2026-09-10 17:57:49]   [650] Sr. Workforce Manager, CXQO, Just Walk Out Technol -> skills: OK, keywords: Python, AWS, SQL, Machine Learning, Computer Vision
+[2026-09-10 17:57:51]   [651] Data Engineer - AWS+Glue Job Job Details | Yash Te -> skills: OK, keywords: Go, AWS, Data Engineering, Airflow, Agile
+[2026-09-10 17:57:53]   [652] Tech Lead - SnowFlake Job Job Details | Yash Techn -> skills: OK, keywords: Python, Go, AWS, Azure, CI/CD, SQL, ETL, Git, Agile
+[2026-09-10 17:57:55]   [653] Senior Solutions Architect, ITS And GSI Sales Tech -> skills: OK, keywords: AWS, Serverless, Generative AI, Networking
+[2026-09-10 17:58:04]   [654] IT Technology Services Senior Specialist- SDS Job  -> skills: OK, keywords: Linux, Operating Systems
+[2026-09-10 17:58:06]   [655] Principal Digital Product Manager Workplace Techno -> skills: OK, keywords: Networking
+[2026-09-10 17:58:08]   [656] Senior Solutions Architect - Emerging Technologies -> skills: OK, keywords: Python, Java, Scala, Node.js, AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, CI/CD, Serverless, SQL, NoSQL, Machine Learning, LLM, Generative AI, Distributed Systems, Microservices, Networking, Agile, Design Patterns, Encryption
+[2026-09-10 17:58:08] Page 10: found 10 cards, 10 newly scraped, total saved: 656
+[2026-09-10 17:58:08]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/data-science-ai-job-details-gainwell-technologies-llc-gainwell-technologies-bengaluru-chennai-6-9-years-jobid-gLAhGebM7ohzpSvf+uAgZw==&source=srp
+[2026-09-10 17:58:19]   [debug] After click, first card URL still: https://www.timesjobs.com/job-detail/data-science-ai-job-details-gainwell-technologies-llc-gainwell-technologies-bengaluru-chennai-6-9-years-jobid-gLAhGebM7ohzpSvf+uAgZw==&source=srp (unchanged after 10s)
+[2026-09-10 17:58:19] Could not advance to the next page (no button, disabled, or content didn't change) - assuming end of results. Stopping.
+[2026-09-10 17:58:20] Scrape finished. Total jobs saved: 656
+[2026-09-10 18:03:57] === Running in FULL mode ===
+[2026-09-10 18:03:59] Resuming with 656 jobs already fully saved
+[2026-09-10 18:04:06]   [657] HR Recruiter -> skills: OK, keywords: none
+[2026-09-10 18:04:06] Page 1: found 10 cards, 1 newly scraped, total saved: 657
+[2026-09-10 18:04:06]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-google-pittsburgh-2-5-years-jobid-Lps1l0mxFRJzpSvf+uAgZw==&source=srp
+[2026-09-10 18:04:06]   [debug] Next-page click attempt 1/4
+[2026-09-10 18:04:07]     [debug] Content changed after 0.5s.
+[2026-09-10 18:04:09] Page 2: found 10 cards, 0 newly scraped, total saved: 657
+[2026-09-10 18:04:09]   (no new jobs on this page - 1/3 stalled pages in a row)
+[2026-09-10 18:04:09]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/software-engineer-it-infrastructure-google-united-states-of-america-usa-5-8-years-jobid-zteD8rMAcMtzpSvf+uAgZw==&source=srp
+[2026-09-10 18:04:09]   [debug] Next-page click attempt 1/4
+[2026-09-10 18:04:10]     [debug] Content changed after 0.5s.
+[2026-09-10 18:04:13] Page 3: found 10 cards, 0 newly scraped, total saved: 657
+[2026-09-10 18:04:13]   (no new jobs on this page - 2/3 stalled pages in a row)
+[2026-09-10 18:04:13]   [debug] Before click, first card URL: https://www.timesjobs.com/job-detail/lead-software-engineer-empower-remote-5-8-years-jobid-XdLKBYYyoSlzpSvf+uAgZw==&source=srp
+[2026-09-10 18:04:13]   [debug] Next-page click attempt 1/4
+[2026-09-10 18:04:14]     [debug] Content changed after 0.5s.
+[2026-09-10 18:04:16] Page 4: found 10 cards, 0 newly scraped, total saved: 657
+[2026-09-10 18:04:16]   (no new jobs on this page - 3/3 stalled pages in a row)
+[2026-09-10 18:04:16] Hit stall limit - pagination may be stuck, or we've reached the end of real results. Stopping.
+[2026-09-10 18:04:16] Scrape finished. Total jobs saved: 657

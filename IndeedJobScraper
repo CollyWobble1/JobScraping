@@ -1,0 +1,386 @@
+"""
+TimesJobs scraper - single-file version.
+"""
+
+import csv
+import os
+import re
+import time
+from datetime import datetime
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+
+# =============================================================================
+# CONFIG
+# =============================================================================
+
+RUN_MODE = "full"
+TRIAL_MAX_PAGES = 2
+
+SEARCH_KEYWORD = "software engineer"
+MAX_PAGES = 500
+
+FINAL_CSV = "timesjobs_final.csv"
+LOG_FILE = "scrape_log.txt"
+
+PAGE_LOAD_WAIT_SECONDS = 10
+BETWEEN_PAGE_DELAY = 2
+BETWEEN_DETAIL_DELAY = 2
+
+NO_NEW_JOBS_PAGE_LIMIT = 3
+CONSECUTIVE_SKILL_FAILURE_LIMIT = 15
+
+# How many times to retry clicking "next" before truly giving up.
+# A single failed/stalled click is no longer treated as "end of results" -
+# only NEXT_CLICK_RETRIES consecutive failures in a row are.
+NEXT_CLICK_RETRIES = 4
+NEXT_CLICK_RETRY_BACKOFF = 3   # seconds to wait between retry attempts
+
+FINAL_FIELDS = [
+    "Job_Title", "Company_Name", "URL", "Location", "Experience", "Salary",
+    "Skills_Required", "Matched_Keywords",
+]
+
+KEYWORDS_TO_FLAG = [
+    "C++", "C#", "Python", "Java", "JavaScript", "TypeScript", "Go", "Rust",
+    "Kotlin", "Swift", "PHP", "Ruby", "Scala", "R", "MATLAB", "Perl",
+    "Objective-C", "Dart", "Lua", "Haskell", "Assembly",
+    "React", "Angular", "Vue", "Next.js", "HTML", "CSS", "Tailwind",
+    "Node.js", "Express", "GraphQL", "REST API", "WebSocket", "jQuery",
+    "Django", "Flask", "FastAPI", "Spring", "Spring Boot", ".NET", "ASP.NET",
+    "Ruby on Rails", "Laravel",
+    "AWS", "Azure", "GCP", "Google Cloud", "Docker", "Kubernetes",
+    "Terraform", "Ansible", "Jenkins", "CI/CD", "GitHub Actions",
+    "Serverless", "Lambda", "Nginx", "Linux", "Bash", "Shell Scripting",
+    "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite",
+    "Cassandra", "DynamoDB", "Elasticsearch", "Firebase", "NoSQL",
+    "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch",
+    "Scikit-learn", "Pandas", "NumPy", "Data Science", "NLP",
+    "Computer Vision", "OpenCV", "Hugging Face", "LLM", "Generative AI",
+    "Data Engineering", "ETL", "Apache Spark", "Kafka", "Airflow",
+    "Unity", "Unreal Engine", "Godot", "Blueprint",
+    "OpenGL", "DirectX", "Vulkan", "Shader", "HLSL", "GLSL",
+    "Blender", "Maya", "3D Modeling", "Game Physics", "Multiplayer Networking",
+    "Photon", "Mirror Networking", "AR", "VR", "Augmented Reality",
+    "Virtual Reality", "Game Design", "Level Design", "Animation Programming",
+    "Android", "iOS", "Flutter", "React Native", "Xcode", "Android Studio",
+    "Distributed Systems", "Microservices", "Multithreading", "Concurrency",
+    "Operating Systems", "Networking", "Embedded Systems", "Real-Time Systems",
+    "Git", "Agile", "Scrum", "Unit Testing", "TDD", "Design Patterns",
+    "Data Structures", "Algorithms", "System Design", "OOP",
+    "Jira", "Confluence", "Postman",
+    "Cybersecurity", "OAuth", "JWT", "Encryption", "Penetration Testing",
+]
+
+
+# =============================================================================
+# Small utilities
+# =============================================================================
+
+def log(msg: str) -> None:
+    line = f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}"
+    print(line)
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(line + "\n")
+
+
+def load_existing_urls(csv_path: str, url_field: str = "URL") -> set:
+    if not os.path.exists(csv_path):
+        return set()
+    with open(csv_path, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        return {row[url_field] for row in reader if row.get(url_field)}
+
+
+def append_row(csv_path: str, fieldnames: list, row: dict) -> None:
+    file_exists = os.path.exists(csv_path)
+    with open(csv_path, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row)
+
+
+def find_matched_keywords(text: str, keyword_list: list) -> str:
+    text_lower = text.lower()
+    matched = []
+    for kw in keyword_list:
+        pattern = r'\b' + re.escape(kw.lower()) + r'\b'
+        if re.search(pattern, text_lower):
+            matched.append(kw)
+    return ", ".join(matched)
+
+
+def new_driver() -> webdriver.Chrome:
+    options = Options()
+    options.add_argument("--start-maximized")
+    return webdriver.Chrome(options=options)
+
+
+# =============================================================================
+# Extraction
+# =============================================================================
+
+def extract_card_fields(card) -> dict:
+    item = {}
+    try:
+        item["URL"] = card.find_element(By.CSS_SELECTOR, 'a[target="_blank"]').get_attribute("href")
+    except Exception:
+        item["URL"] = ""
+    try:
+        item["Job_Title"] = card.find_element(By.TAG_NAME, "h2").text.strip()
+    except Exception:
+        item["Job_Title"] = ""
+    try:
+        item["Company_Name"] = card.find_element(
+            By.CSS_SELECTOR, "div.text-xs.text-gray-400 span"
+        ).text.strip()
+    except Exception:
+        item["Company_Name"] = ""
+    try:
+        item["Location"] = card.find_element(
+            By.XPATH, './/span[.//i[contains(@class,"locations-icon")]]'
+        ).text.strip()
+    except Exception:
+        item["Location"] = ""
+    try:
+        item["Experience"] = card.find_element(
+            By.XPATH, './/span[.//i[contains(@class,"years-icon")]]'
+        ).text.strip()
+    except Exception:
+        item["Experience"] = ""
+    try:
+        item["Salary"] = card.find_element(
+            By.XPATH, './/span[.//i[contains(@class,"salary-icon")]]/following-sibling::span'
+        ).text.strip()
+    except Exception:
+        item["Salary"] = ""
+    return item
+
+
+def extract_detail_fields(driver) -> dict:
+    try:
+        skill_elements = driver.find_elements(
+            By.CSS_SELECTOR,
+            "span.border.mr-1.rounded-full.px-3.py-1.text-xs.mb-2.inline-block"
+        )
+        skills = ", ".join(el.text.strip() for el in skill_elements if el.text.strip())
+    except Exception:
+        skills = ""
+    try:
+        desc_elements = driver.find_elements(By.CSS_SELECTOR, "div.rtd-content")
+        description_text = " ".join(el.text for el in desc_elements)
+        if not description_text.strip():
+            raise ValueError("empty description container")
+    except Exception:
+        description_text = driver.find_element(By.TAG_NAME, "body").text
+    keywords = find_matched_keywords(description_text, KEYWORDS_TO_FLAG)
+    return {"Skills_Required": skills, "Matched_Keywords": keywords}
+
+
+def scrape_detail_in_new_tab(driver, job_url: str) -> dict:
+    original_window = driver.current_window_handle
+    driver.execute_script("window.open(arguments[0], '_blank');", job_url)
+    new_window = [w for w in driver.window_handles if w != original_window][-1]
+    driver.switch_to.window(new_window)
+    time.sleep(BETWEEN_DETAIL_DELAY)
+    detail_fields = extract_detail_fields(driver)
+    driver.close()
+    driver.switch_to.window(original_window)
+    return detail_fields
+
+
+def get_first_card_signature(driver) -> str:
+    try:
+        first_card = driver.find_element(By.CSS_SELECTOR, "div.srp-card")
+        return first_card.find_element(By.CSS_SELECTOR, 'a[target="_blank"]').get_attribute("href")
+    except Exception:
+        return ""
+
+
+def try_dismiss_overlays(driver) -> None:
+    """
+    Best-effort attempt to close any popup/modal/cookie-banner that might be
+    covering the pagination button. Silently does nothing if none exists.
+    """
+    close_button_selectors = [
+        "button[aria-label='Close']",
+        "button.close",
+        ".modal-close",
+        ".popup-close",
+        "[class*='close-btn']",
+    ]
+    for selector in close_button_selectors:
+        try:
+            btn = driver.find_element(By.CSS_SELECTOR, selector)
+            if btn.is_displayed():
+                driver.execute_script("arguments[0].click();", btn)
+                time.sleep(0.5)
+        except Exception:
+            pass
+
+
+def attempt_single_click(driver, before_signature: str) -> bool:
+    """One attempt at clicking 'next' and waiting for content to change."""
+    try:
+        next_button = driver.find_element(By.CSS_SELECTOR, "button.pagination-next")
+    except Exception:
+        log("    [debug] pagination-next button not found in DOM.")
+        return False
+
+    if not next_button.is_enabled():
+        log("    [debug] pagination-next button found but disabled.")
+        return False
+
+    try:
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", next_button)
+        time.sleep(0.3)
+        driver.execute_script("arguments[0].click();", next_button)
+    except Exception as e:
+        log(f"    [debug] Click raised an exception: {e}")
+        return False
+
+    max_wait = PAGE_LOAD_WAIT_SECONDS
+    poll_interval = 0.5
+    waited = 0.0
+    while waited < max_wait:
+        time.sleep(poll_interval)
+        waited += poll_interval
+        after_signature = get_first_card_signature(driver)
+        if after_signature and after_signature != before_signature:
+            log(f"    [debug] Content changed after {waited:.1f}s.")
+            return True
+
+    log(f"    [debug] Content unchanged after {max_wait}s wait.")
+    return False
+
+
+def click_next_page(driver) -> bool:
+    """
+    Click 'next page', retrying up to NEXT_CLICK_RETRIES times with backoff
+    before concluding there really is no next page.
+    """
+    before_signature = get_first_card_signature(driver)
+    log(f"  [debug] Before click, first card URL: {before_signature}")
+
+    for attempt in range(1, NEXT_CLICK_RETRIES + 1):
+        log(f"  [debug] Next-page click attempt {attempt}/{NEXT_CLICK_RETRIES}")
+
+        try_dismiss_overlays(driver)
+
+        if attempt_single_click(driver, before_signature):
+            return True
+
+        if attempt < NEXT_CLICK_RETRIES:
+            log(f"  [debug] Retry {attempt} failed, waiting {NEXT_CLICK_RETRY_BACKOFF}s before next attempt...")
+            time.sleep(NEXT_CLICK_RETRY_BACKOFF)
+
+    log(f"  [debug] All {NEXT_CLICK_RETRIES} click attempts failed - treating as genuine end of results.")
+    return False
+
+
+# =============================================================================
+# Main scrape
+# =============================================================================
+
+def scrape_all(keyword: str, max_pages: int) -> None:
+    driver = new_driver()
+    already_done = load_existing_urls(FINAL_CSV)
+    log(f"Resuming with {len(already_done)} jobs already fully saved" if already_done
+        else "Starting fresh scrape")
+
+    consecutive_no_new_pages = 0
+    consecutive_skill_failures = 0
+
+    try:
+        search_url = (
+            "https://www.timesjobs.com/job-search"
+            f"?searchType=personalizedSearch&from=submit&txtKeywords={keyword.replace(' ', '+')}"
+        )
+        driver.get(search_url)
+
+        try:
+            WebDriverWait(driver, PAGE_LOAD_WAIT_SECONDS).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, "div.srp-card"))
+            )
+        except Exception:
+            log("No cards found on the initial search page - check the search URL or your connection.")
+            return
+
+        for page_num in range(1, max_pages + 1):
+            cards = driver.find_elements(By.CSS_SELECTOR, "div.srp-card")
+            card_items = [extract_card_fields(card) for card in cards]
+
+            new_on_this_page = 0
+
+            for item in card_items:
+                job_url = item.get("URL")
+                if not job_url or job_url in already_done:
+                    continue
+
+                detail_fields = scrape_detail_in_new_tab(driver, job_url)
+                item.update(detail_fields)
+
+                append_row(FINAL_CSV, FINAL_FIELDS, item)
+                already_done.add(job_url)
+                new_on_this_page += 1
+
+                if detail_fields["Skills_Required"]:
+                    consecutive_skill_failures = 0
+                else:
+                    consecutive_skill_failures += 1
+
+                status = "OK" if detail_fields["Skills_Required"] else "EMPTY"
+                log(f"  [{len(already_done)}] {item['Job_Title'][:50]} -> "
+                    f"skills: {status}, keywords: {detail_fields['Matched_Keywords'] or 'none'}")
+
+                if consecutive_skill_failures >= CONSECUTIVE_SKILL_FAILURE_LIMIT:
+                    log(f"{CONSECUTIVE_SKILL_FAILURE_LIMIT} consecutive empty skill results - "
+                        "likely blocked or page layout changed. Stopping.")
+                    return
+
+            log(f"Page {page_num}: found {len(cards)} cards, {new_on_this_page} newly scraped, "
+                f"total saved: {len(already_done)}")
+
+            if new_on_this_page == 0:
+                consecutive_no_new_pages += 1
+                log(f"  (no new jobs on this page - {consecutive_no_new_pages}/"
+                    f"{NO_NEW_JOBS_PAGE_LIMIT} stalled pages in a row)")
+                if consecutive_no_new_pages >= NO_NEW_JOBS_PAGE_LIMIT:
+                    log("Hit stall limit - pagination may be stuck, or we've reached the end "
+                        "of real results. Stopping.")
+                    break
+            else:
+                consecutive_no_new_pages = 0
+
+            if page_num < max_pages:
+                clicked = click_next_page(driver)
+                if not clicked:
+                    log("Could not advance to the next page after retries - assuming end of results. Stopping.")
+                    break
+
+            time.sleep(BETWEEN_PAGE_DELAY)
+
+    finally:
+        driver.quit()
+
+    log(f"Scrape finished. Total jobs saved: {len(already_done)}")
+
+
+if __name__ == "__main__":
+    try:
+        if RUN_MODE == "trial":
+            log("=== Running in TRIAL mode ===")
+            scrape_all(keyword=SEARCH_KEYWORD, max_pages=TRIAL_MAX_PAGES)
+        elif RUN_MODE == "full":
+            log("=== Running in FULL mode ===")
+            scrape_all(keyword=SEARCH_KEYWORD, max_pages=MAX_PAGES)
+        else:
+            raise ValueError(f"Unknown RUN_MODE: {RUN_MODE!r} (expected 'trial' or 'full')")
+    except KeyboardInterrupt:
+        log("Stopped manually by user (Ctrl+C). Progress up to this point is saved in the CSV.")
