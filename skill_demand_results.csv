@@ -1,0 +1,1672 @@
+Rank,Skill,Job_Count,Demand_Percentage
+1,Software Development,76,11.57
+2,Digital Transformation,66,10.05
+3,Agile Methodologies,54,8.22
+4,Data Engineering,35,5.33
+5,Data Science,35,5.33
+6,Cloud Computing,33,5.02
+7,Technical Leadership,28,4.26
+8,Project Management,28,4.26
+9,Technology Services,25,3.81
+10,Communication Skills,25,3.81
+11,Engineering Capabilities,23,3.5
+12,Problem Solving,20,3.04
+13,Requirement Analysis,20,3.04
+14,Microservices Architecture,16,2.44
+15,Distributed Systems,16,2.44
+16,Software Engineering,15,2.28
+17,Python Programming,15,2.28
+18,Data Analysis,14,2.13
+19,Incident Management,14,2.13
+20,Team Leadership,14,2.13
+21,Root Cause Analysis,14,2.13
+22,Data Science Expertise,14,2.13
+23,System Integration,13,1.98
+24,Low Level Design,13,1.98
+25,Engineering Expertise,13,1.98
+26,Business Impact,12,1.83
+27,Troubleshooting Support,11,1.67
+28,Troubleshooting Skills,11,1.67
+29,Engineering Solutions,11,1.67
+30,Risk Management,11,1.67
+31,Programming Languages,11,1.67
+32,Performance Optimization,11,1.67
+33,Network Engineering,11,1.67
+34,Domain Understanding,10,1.52
+35,Technology Integration,10,1.52
+36,Machine Learning,10,1.52
+37,Data Structures,10,1.52
+38,Team Collaboration,10,1.52
+39,Database Management,10,1.52
+40,Program Management,10,1.52
+41,Technical Troubleshooting,10,1.52
+42,Engineering Skills,10,1.52
+43,Stakeholder Management,10,1.52
+44,Cross Functional Collaboration,10,1.52
+45,Cloud Engineering,10,1.52
+46,Agile Development Practices,10,1.52
+47,Consulting Services,9,1.37
+48,Full Stack Development,9,1.37
+49,Technical Support,9,1.37
+50,Mechanical Engineering,9,1.37
+51,Java Development,9,1.37
+52,DevOps Practices,9,1.37
+53,Customer Engagement,8,1.22
+54,Problem Solving Skills,8,1.22
+55,Solution Architecture,8,1.22
+56,Software Development Life Cycle,8,1.22
+57,Domain Knowledge,7,1.07
+58,C++ Programming,7,1.07
+59,Application Development,7,1.07
+60,Agile Practices,7,1.07
+61,Effective Communication,7,1.07
+62,Embedded Systems,7,1.07
+63,SAP ABAP Cloud,7,1.07
+64,Automation Scripting,6,0.91
+65,Software Development Lifecycle,6,0.91
+66,Cloud Technologies,6,0.91
+67,Solution Design,6,0.91
+68,Technical Program Management,6,0.91
+69,Spring Boot,6,0.91
+70,Debugging Techniques,6,0.91
+71,Client Engagement,6,0.91
+72,Electrical Engineering,6,0.91
+73,Cloud Platforms,6,0.91
+74,Python Development,6,0.91
+75,Code Review,6,0.91
+76,Quality Assurance,6,0.91
+77,AWS Services,6,0.91
+78,Domain Expertise,6,0.91
+79,Client Management,6,0.91
+80,Security Best Practices,6,0.91
+81,Prompt Engineering,6,0.91
+82,Stakeholder Engagement,6,0.91
+83,Requirement Gathering,6,0.91
+84,Integration Assessment,6,0.91
+85,Systems Engineering,6,0.91
+86,Automation Solutions,6,0.91
+87,Java Full Stack,5,0.76
+88,Object Oriented Programming,5,0.76
+89,Technology Consulting,5,0.76
+90,Network Protocols,5,0.76
+91,Infrastructure Design,5,0.76
+92,Continuous Integration,5,0.76
+93,Network Automation,5,0.76
+94,Customer Communication,5,0.76
+95,Business Process Analysis,5,0.76
+96,Backend Development,5,0.76
+97,Workflow Automation,5,0.76
+98,Reliability Engineering,5,0.76
+99,Regulatory Compliance,5,0.76
+100,Security Engineering,5,0.76
+101,Algorithm Design,5,0.76
+102,Software Architecture,5,0.76
+103,AI Integration,5,0.76
+104,System Design,5,0.76
+105,Team Management,5,0.76
+106,Integration Techniques,5,0.76
+107,Troubleshooting,4,0.61
+108,Change Management,4,0.61
+109,Code Optimization,4,0.61
+110,Digital transformation,4,0.61
+111,Technical Documentation,4,0.61
+112,Performance Tuning,4,0.61
+113,Test Automation,4,0.61
+114,Go Programming,4,0.61
+115,Technical Architecture,4,0.61
+116,RESTful APIs,4,0.61
+117,Data Management,4,0.61
+118,Data Science Techniques,4,0.61
+119,Data Visualization,4,0.61
+120,Consulting Solutions,4,0.61
+121,SD Access Operations,4,0.61
+122,Excellent Communication,4,0.61
+123,Microsoft Azure,4,0.61
+124,Generative AI,4,0.61
+125,API Development,4,0.61
+126,Performance Engineering,4,0.61
+127,Fullstack Development,4,0.61
+128,ITIL Practices,4,0.61
+129,SCCM Management,4,0.61
+130,Requirements Gathering,4,0.61
+131,Embedded Systems Expertise,4,0.61
+132,Risk Assessment,4,0.61
+133,Process Improvement,4,0.61
+134,Quality Control,4,0.61
+135,Project Coordination,4,0.61
+136,API Integration,4,0.61
+137,API Testing,3,0.46
+138,Integration Support,3,0.46
+139,SD WAN Operations,3,0.46
+140,Complaint Management,3,0.46
+141,Real Time Operating Systems,3,0.46
+142,Data Analysis Tools,3,0.46
+143,People Management,3,0.46
+144,Quality Management Systems,3,0.46
+145,Routing & Switching,3,0.46
+146,Unit Testing,3,0.46
+147,PowerShell Scripting,3,0.46
+148,Technical Mentorship,3,0.46
+149,Distributed systems,3,0.46
+150,Cross functional collaboration,3,0.46
+151,SCCM Application Management,3,0.46
+152,Hardware Integration,3,0.46
+153,CI/CD Pipelines,3,0.46
+154,Camunda BPM,3,0.46
+155,Java EE,3,0.46
+156,Python Scripting,3,0.46
+157,Technology services,3,0.46
+158,Stakeholder Influence,3,0.46
+159,Linux Administration,3,0.46
+160,Cloud Deployment,3,0.46
+161,Safety Compliance,3,0.46
+162,Vendor Management,3,0.46
+163,Consulting Capabilities,3,0.46
+164,Project Leadership,3,0.46
+165,Database Technologies,3,0.46
+166,Automated Testing,3,0.46
+167,Infrastructure as Code,3,0.46
+168,Object oriented Programming,3,0.46
+169,System Troubleshooting,3,0.46
+170,Low Level Debugging,3,0.46
+171,Software Design,3,0.46
+172,Security Compliance,3,0.46
+173,Data science,3,0.46
+174,Cloud Networking,3,0.46
+175,Troubleshooting Expertise,3,0.46
+176,Client Consulting,3,0.46
+177,Front end Technologies,3,0.46
+178,Design Engineering,3,0.46
+179,Engineering Leadership,3,0.46
+180,Technical Presentations,3,0.46
+181,Operations Management,3,0.46
+182,Automation Systems,3,0.46
+183,Azure DevOps,3,0.46
+184,Stakeholder Communication,3,0.46
+185,Java Programming,3,0.46
+186,Contract Negotiation,3,0.46
+187,Technical Consulting,3,0.46
+188,Distributed Computing,3,0.46
+189,AWS Technologies,3,0.46
+190,Snowflake Expertise,3,0.46
+191,Testing & Validation,3,0.46
+192,Hardware Development,3,0.46
+193,Engineering Drawings,3,0.46
+194,Contract Management,3,0.46
+195,Solutions Architecture,3,0.46
+196,Performance Analysis,3,0.46
+197,Version Control Systems,3,0.46
+198,Documentation Preparation,3,0.46
+199,Cloud Infrastructure,3,0.46
+200,Data Processing,3,0.46
+201,Vulnerability Management,3,0.46
+202,Agile Development,3,0.46
+203,Mobile Development,3,0.46
+204,Programming Skills,3,0.46
+205,High Performance Computing,3,0.46
+206,Communication skills,3,0.46
+207,Quantum Computing,3,0.46
+208,Artificial Intelligence,3,0.46
+209,Stakeholder Collaboration,3,0.46
+210,Configuration Management,3,0.46
+211,Firmware Development,3,0.46
+212,Infrastructure Automation,3,0.46
+213,CI/CD Integration,3,0.46
+214,Cloud Architecture,3,0.46
+215,Data Modeling,3,0.46
+216,Software Testing,3,0.46
+217,Salesforce Development,2,0.3
+218,Frontend Technologies,2,0.3
+219,Technology Design Validation,2,0.3
+220,Strategic Problem Solving,2,0.3
+221,Virtualization Technologies,2,0.3
+222,Network Protocols Understanding,2,0.3
+223,Load Balancer Technologies,2,0.3
+224,AI for Cloud,2,0.3
+225,Programming Proficiency,2,0.3
+226,Cisco ACI,2,0.3
+227,F Load Balancers,2,0.3
+228,Basic Networking Skills,2,0.3
+229,Network Security Principles,2,0.3
+230,Wireless Technologies Operations,2,0.3
+231,Technology Risk Management,2,0.3
+232,Communication,2,0.3
+233,Agile Delivery,2,0.3
+234,Back end Development,2,0.3
+235,Complex Problem Solving,2,0.3
+236,SCCM Configuration,2,0.3
+237,Client Support Experience,2,0.3
+238,Documentation Standards,2,0.3
+239,Technical leadership,2,0.3
+240,Large scale infrastructure,2,0.3
+241,Vulnerability Assessment,2,0.3
+242,Agile Software Development,2,0.3
+243,Software Design Architecture,2,0.3
+244,Technical Demonstrations,2,0.3
+245,Hardware Design,2,0.3
+246,Cross Functional Leadership,2,0.3
+247,Unix/Linux Environments,2,0.3
+248,Business Process Modeling,2,0.3
+249,CI/CD Implementation,2,0.3
+250,Cloud native Solutions,2,0.3
+251,SQL Server Optimization,2,0.3
+252,Agile project management,2,0.3
+253,Analytical problem solving,2,0.3
+254,C/C++ Programming,2,0.3
+255,Embedded Systems Development,2,0.3
+256,AI/ML Application,2,0.3
+257,System Architecture,2,0.3
+258,Programming Proficiency (Python),2,0.3
+259,Data Analysis Expertise,2,0.3
+260,Technical Mentoring,2,0.3
+261,Client Relationship Management,2,0.3
+262,Prototype Development,2,0.3
+263,Problem Resolution,2,0.3
+264,Front end Development,2,0.3
+265,Analytical Problem Solving,2,0.3
+266,Problem Solving Ability,2,0.3
+267,Containerization Knowledge,2,0.3
+268,React Framework,2,0.3
+269,Selenium Automation,2,0.3
+270,Technical Documentation Creation,2,0.3
+271,Hardware/Software Integration,2,0.3
+272,Capacity Management,2,0.3
+273,Chemical Process Analysis,2,0.3
+274,System Architecture Design,2,0.3
+275,Project Management Skills,2,0.3
+276,Remote Support,2,0.3
+277,Automation Development,2,0.3
+278,Problem Solving Abilities,2,0.3
+279,Customer Service Skills,2,0.3
+280,Networking Fundamentals,2,0.3
+281,RESTful Services,2,0.3
+282,Secure Coding Practices,2,0.3
+283,Access Management,2,0.3
+284,Technical Infrastructure,2,0.3
+285,Systems Automation,2,0.3
+286,Remote Support Expertise,2,0.3
+287,Systems Development Lifecycle,2,0.3
+288,NET Development,2,0.3
+289,Systems Integration,2,0.3
+290,Coding Review,2,0.3
+291,GCP Data Engineering,2,0.3
+292,Reporting Tools,2,0.3
+293,System Optimization,2,0.3
+294,Product Development,2,0.3
+295,RESTful API Design,2,0.3
+296,Middleware Experience,2,0.3
+297,SQL Proficiency,2,0.3
+298,Kubernetes Expertise,2,0.3
+299,System Automation,2,0.3
+300,Engineering Principles,2,0.3
+301,Process Development,2,0.3
+302,Scalable Systems,2,0.3
+303,Technical Specifications Translation,2,0.3
+304,Patch Management,2,0.3
+305,Innovative Solutions,2,0.3
+306,AI Cognitive,2,0.3
+307,Systems Design,2,0.3
+308,Business Development,2,0.3
+309,Client Collaboration,2,0.3
+310,Team Mentorship,2,0.3
+311,Engineering capabilities,2,0.3
+312,Troubleshooting Tools,2,0.3
+313,Technical Excellence,2,0.3
+314,Application Solutions,2,0.3
+315,Silicon Validation,2,0.3
+316,Troubleshooting Technical Issues,2,0.3
+317,Application Configuration,2,0.3
+318,Troubleshooting Complex Issues,2,0.3
+319,Security Management,2,0.3
+320,Network Operations,2,0.3
+321,React,2,0.3
+322,Full Stack,2,0.3
+323,AI assisted Development,2,0.3
+324,Container Orchestration,2,0.3
+325,Preventive Maintenance,2,0.3
+326,Client Communication,2,0.3
+327,Electromechanical Systems,2,0.3
+328,Capacity Planning,2,0.3
+329,Engineering Documentation,2,0.3
+330,Troubleshooting Techniques,2,0.3
+331,Engineering Practices,2,0.3
+332,Consulting Expertise,2,0.3
+333,Coding Experience,2,0.3
+334,Threat Modeling,2,0.3
+335,Embedded Software Development,2,0.3
+336,Security Assessments,2,0.3
+337,Problem Management,2,0.3
+338,Product Engineering,2,0.3
+339,Domain understanding,2,0.3
+340,RESTful API,2,0.3
+341,Risk Analysis,2,0.3
+342,GenAI Development,2,0.3
+343,Application Design,2,0.3
+344,Data Analytics,2,0.3
+345,Scalable Architectures,2,0.3
+346,Frontend Development,2,0.3
+347,Snowflake Data Warehouse,2,0.3
+348,Preventive maintenance,2,0.3
+349,Mechanical Engineering Knowledge,2,0.3
+350,Mechanical Design Engineering,2,0.3
+351,Mentoring Engineers,2,0.3
+352,Maintenance Management,2,0.3
+353,Data Center Operations,2,0.3
+354,Structural Engineering,2,0.3
+355,Civil Engineering,2,0.3
+356,Circuit Design,2,0.3
+357,AI Engineering,2,0.3
+358,Engineering Design,2,0.3
+359,Manufacturing Processes,2,0.3
+360,D Modeling,2,0.3
+361,Operating Systems,2,0.3
+362,Electrical Testing,2,0.3
+363,Programming (Python),2,0.3
+364,Cloud Solutions,2,0.3
+365,C++ programming,2,0.3
+366,CI/CD Practices,2,0.3
+367,Mobile Automation Testing,2,0.3
+368,ETL Processes,2,0.3
+369,Data Integration,2,0.3
+370,Workday Core Integrations,2,0.3
+371,RESTful API Development,2,0.3
+372,Customer Service,2,0.3
+373,Scripting Languages,2,0.3
+374,Documentation Skills,2,0.3
+375,Computer Proficiency,2,0.3
+376,Engineering Operations,2,0.3
+377,Account Management,2,0.3
+378,Technical Solutions,2,0.3
+379,Interpersonal Skills,2,0.3
+380,Infrastructure Architecture,2,0.3
+381,Python Proficiency,2,0.3
+382,Computer Vision,2,0.3
+383,Object oriented programming,2,0.3
+384,Agile Methodology,2,0.3
+385,Scalable Software Design,2,0.3
+386,Legal Compliance,2,0.3
+387,Technical Leadership Skills,2,0.3
+388,Software Development Expertise,2,0.3
+389,Custom Software Development,2,0.3
+390,Architecture Design,2,0.3
+391,Model Deployment,2,0.3
+392,CI/CD Automation,2,0.3
+393,Python Engineering,2,0.3
+394,NET Technologies,2,0.3
+395,Scalable Software Architecture,2,0.3
+396,AWS Expertise,2,0.3
+397,REST API Design,2,0.3
+398,API Development Skills,2,0.3
+399,Cloud Technology Expertise,2,0.3
+400,Cloud Security,2,0.3
+401,Customer Advocacy,2,0.3
+402,Incident Response,2,0.3
+403,Cloud native engineering,2,0.3
+404,Testing and Debugging,2,0.3
+405,SAP ABAP Development,2,0.3
+406,Middleware Integration,2,0.3
+407,Spring Framework,2,0.3
+408,Performance Testing,2,0.3
+409,Web Development,2,0.3
+410,API Design,2,0.3
+411,Problem solving,2,0.3
+412,hr recruiter,1,0.15
+413,Rust Language,1,0.15
+414,System Diagnosis,1,0.15
+415,Code Documentation,1,0.15
+416,Automation Engineering,1,0.15
+417,Python programming,1,0.15
+418,Data pipeline development,1,0.15
+419,CI/CD workflows,1,0.15
+420,AI/GenAI Expertise,1,0.15
+421,SAP Technologies Expertise,1,0.15
+422,Incident Management Skills,1,0.15
+423,Linux Server Proficiency,1,0.15
+424,IICS Expertise,1,0.15
+425,Backend Technologies,1,0.15
+426,Agile Environment,1,0.15
+427,Compliance Solutions,1,0.15
+428,Technical Strategy,1,0.15
+429,Contract Lifecycle Management,1,0.15
+430,Customer Satisfaction Frameworks,1,0.15
+431,Operational Management Skills,1,0.15
+432,DDI Infoblox Proficiency,1,0.15
+433,Juniper Networking Expertise,1,0.15
+434,System Design Patterns,1,0.15
+435,Machine Learning Integration,1,0.15
+436,Payment Solutions,1,0.15
+437,Sales Pipeline Management,1,0.15
+438,Customer Engagement Strategies,1,0.15
+439,Consultative Selling Skills,1,0.15
+440,Mobile App Development,1,0.15
+441,AI Automation,1,0.15
+442,Code Refactoring,1,0.15
+443,Problem Analysis,1,0.15
+444,Performance monitoring,1,0.15
+445,Backend service development,1,0.15
+446,Code Review Best Practices,1,0.15
+447,User Interface Design,1,0.15
+448,Full Stack Engineering,1,0.15
+449,Flutter Framework,1,0.15
+450,Database Management Techniques,1,0.15
+451,Application Design Principles,1,0.15
+452,TDD and BDD,1,0.15
+453,Apache Kafka,1,0.15
+454,Java Expertise,1,0.15
+455,SQL Server Proficiency,1,0.15
+456,Data Governance Experience,1,0.15
+457,Cloud Security Practices,1,0.15
+458,Cryptography Expertise,1,0.15
+459,Security Software Engineering,1,0.15
+460,Data Privacy,1,0.15
+461,Full stack Development,1,0.15
+462,Software Maintenance,1,0.15
+463,Java Development Scalable Systems System Design Code Quality Debugging Skills,1,0.15
+464,Talent management skills,1,0.15
+465,Data Lakehouse concepts,1,0.15
+466,Framework Performance Tuning,1,0.15
+467,Generative AI Architectures,1,0.15
+468,On Device Model Optimization,1,0.15
+469,Machine Learning Infrastructure,1,0.15
+470,Master Data Management,1,0.15
+471,Client Side Coding,1,0.15
+472,Technical leadership experience,1,0.15
+473,Data structures knowledge,1,0.15
+474,Software design expertise,1,0.15
+475,Infra Architecture,1,0.15
+476,JavaScript fundamentals,1,0.15
+477,RESTful API development,1,0.15
+478,UI design principles,1,0.15
+479,React framework,1,0.15
+480,Front end development,1,0.15
+481,Business Impact Analysis,1,0.15
+482,Digital Transformation Expertise,1,0.15
+483,Python/C++ Programming,1,0.15
+484,Azure Cloud Services,1,0.15
+485,React Development,1,0.15
+486,Angular Expertise,1,0.15
+487,Cloud Based Integration,1,0.15
+488,Observability Practices,1,0.15
+489,Kubernetes Operations,1,0.15
+490,Observability Platforms,1,0.15
+491,Software Engineering Skills,1,0.15
+492,Software Architecture Knowledge,1,0.15
+493,Artificial Intelligence Models,1,0.15
+494,Machine Learning Design,1,0.15
+495,Informatica Intelligent Cloud,1,0.15
+496,SAP ABAP Cloud Object Oriented Programming Integration Techniques Performance Optimization Agile Development Practices,1,0.15
+497,Cloud Services,1,0.15
+498,Net Full Stack,1,0.15
+499,Leadership Coordination,1,0.15
+500,Strong Debugging,1,0.15
+501,Cloud Platform Familiarity,1,0.15
+502,System Debugging,1,0.15
+503,Testing and maintenance,1,0.15
+504,Performance Analysis Optimization,1,0.15
+505,Distributed Databases Design,1,0.15
+506,Advanced C++ Programming,1,0.15
+507,CI/CD Systems,1,0.15
+508,Developer Tools,1,0.15
+509,AI/ML Techniques,1,0.15
+510,Model Optimization,1,0.15
+511,Back end Architecture,1,0.15
+512,Agile environment,1,0.15
+513,Database technologies,1,0.15
+514,Cloud based applications,1,0.15
+515,AI/Machine Learning,1,0.15
+516,Cloud Systems Design,1,0.15
+517,Machine Learning Infrastructure Generative AI Techniques Computational Geometry Algorithms Software Development Practices Data Structures & Algorithms,1,0.15
+518,AI/ML Expertise,1,0.15
+519,System Performance,1,0.15
+520,Data Analytics Expertise,1,0.15
+521,IoT and Edge Computing,1,0.15
+522,Architectural Guidance,1,0.15
+523,Cloud Solutions Design,1,0.15
+524,Cloud Services Expertise,1,0.15
+525,Big Data Computation,1,0.15
+526,Deep Learning Frameworks,1,0.15
+527,Computer Vision Techniques,1,0.15
+528,Machine Learning Algorithms,1,0.15
+529,Innovation in Technology,1,0.15
+530,Hybrid Cloud Integration,1,0.15
+531,AI Tools Integration,1,0.15
+532,Algorithm Development,1,0.15
+533,Video Processing,1,0.15
+534,Database Internals Diagnostics,1,0.15
+535,Multithreading Synchronization,1,0.15
+536,Instrument installation,1,0.15
+537,Campaign Automation,1,0.15
+538,JavaScript/TypeScript,1,0.15
+539,Stock Maintenance Knowledge,1,0.15
+540,Project Handling Skills,1,0.15
+541,Email Correspondence Skills,1,0.15
+542,Advanced Excel Knowledge,1,0.15
+543,Good Communication Skills,1,0.15
+544,Scientific Computing,1,0.15
+545,Algorithm Benchmarking,1,0.15
+546,Numerical Methods,1,0.15
+547,Security and Compliance,1,0.15
+548,Distributed Computing Concepts,1,0.15
+549,Data Processing Frameworks,1,0.15
+550,Cloud Computing Platforms,1,0.15
+551,Big Data Technologies,1,0.15
+552,Android Developer,1,0.15
+553,IT Executive,1,0.15
+554,accounts,1,0.15
+555,finance,1,0.15
+556,tally,1,0.15
+557,bank reconciliation,1,0.15
+558,accounting,1,0.15
+559,balance sheet,1,0.15
+560,cash,1,0.15
+561,accountant,1,0.15
+562,microsoft office,1,0.15
+563,python,1,0.15
+564,Android Development,1,0.15
+565,Java Developer,1,0.15
+566,Software Developer,1,0.15
+567,Instrument calibration,1,0.15
+568,Functional Programming,1,0.15
+569,Spark Framework,1,0.15
+570,Scala Programming,1,0.15
+571,Complex Technical Problem solving,1,0.15
+572,Icertis Contract Intelligence,1,0.15
+573,Commercial Agreements,1,0.15
+574,ms excel,1,0.15
+575,tally erp,1,0.15
+576,accounts executive,1,0.15
+577,account executive,1,0.15
+578,back office,1,0.15
+579,front office executive,1,0.15
+580,computer operator,1,0.15
+581,account assistant,1,0.15
+582,data entry operator,1,0.15
+583,Data Entry,1,0.15
+584,Android Application Development,1,0.15
+585,SQL Database Management,1,0.15
+586,OOPS Concepts,1,0.15
+587,MVC Architecture,1,0.15
+588,NET Framework,1,0.15
+589,C# Development,1,0.15
+590,Problem solving skills,1,0.15
+591,ServiceNow ITSM,1,0.15
+592,Incident management,1,0.15
+593,Generative AI frameworks,1,0.15
+594,AI driven solutions,1,0.15
+595,Software Lifecycle Management,1,0.15
+596,Agentforce Expertise,1,0.15
+597,AI Technologies,1,0.15
+598,AI Tool Exposure,1,0.15
+599,SQL Experience,1,0.15
+600,Sales Strategy,1,0.15
+601,Implementation Skills,1,0.15
+602,Version Control,1,0.15
+603,Parallel Computing Techniques,1,0.15
+604,GPU Architecture Understanding,1,0.15
+605,Neural Networks Expertise,1,0.15
+606,AI Inference Optimization,1,0.15
+607,Integration Development,1,0.15
+608,Technical Optimization,1,0.15
+609,Implementation Solutions,1,0.15
+610,IoT Solutions,1,0.15
+611,Observability and monitoring,1,0.15
+612,API development experience,1,0.15
+613,Go and Python proficiency,1,0.15
+614,Data Structures Knowledge,1,0.15
+615,Prototyping Experience,1,0.15
+616,Oracle Procurement Cloud,1,0.15
+617,SQL Knowledge,1,0.15
+618,Informatica Administration,1,0.15
+619,Analytical Skills,1,0.15
+620,Data Integration Techniques,1,0.15
+621,RESTful Web Services,1,0.15
+622,Spring Boot Proficiency,1,0.15
+623,Configuration Expertise,1,0.15
+624,Kubernetes Proficiency,1,0.15
+625,DevOps Principles,1,0.15
+626,Recruitment Practices,1,0.15
+627,Relationship Building,1,0.15
+628,Candidate Screening,1,0.15
+629,Solutions Architecture AI Integration Cloud Computing Executive Engagement Software Development,1,0.15
+630,Tax Calculation,1,0.15
+631,Italian Fluency,1,0.15
+632,Software development,1,0.15
+633,Debugging and testing skills,1,0.15
+634,Application performance optimization,1,0.15
+635,Dagger /Hilt expertise,1,0.15
+636,Kotlin/Core Java,1,0.15
+637,Android development SDK,1,0.15
+638,Angular Framework,1,0.15
+639,Open Source Projects,1,0.15
+640,Debugging hardware interactions,1,0.15
+641,Campaign Management,1,0.15
+642,Documentation Management,1,0.15
+643,Data Technologies,1,0.15
+644,Sales Skills,1,0.15
+645,Computer Operations,1,0.15
+646,Test Script Design,1,0.15
+647,Cloud Integration Solutions,1,0.15
+648,Engineering Detailing,1,0.15
+649,AI Concepts,1,0.15
+650,System Management,1,0.15
+651,Programming Experience,1,0.15
+652,Technical Selling,1,0.15
+653,Data Implementation,1,0.15
+654,Snowflake Platforms,1,0.15
+655,Computer Architecture,1,0.15
+656,Firmware Expertise,1,0.15
+657,Device Physics,1,0.15
+658,Device Characterization,1,0.15
+659,Target Achievement,1,0.15
+660,Team Mentoring,1,0.15
+661,Algorithm Expertise,1,0.15
+662,AI Agent Programming,1,0.15
+663,Data structures,1,0.15
+664,Automotive electrical system diagnosis,1,0.15
+665,Maintenance planning and scheduling,1,0.15
+666,Instrumentation team supervision,1,0.15
+667,Staff scheduling and shift management,1,0.15
+668,Team leadership and supervision,1,0.15
+669,Operating hand tools and power tools,1,0.15
+670,Reading and interpreting engineering drawings and blueprints,1,0.15
+671,Signal Integrity,1,0.15
+672,Firmware Engineering,1,0.15
+673,Developer Experience,1,0.15
+674,Platform Engineering,1,0.15
+675,Quality Automation,1,0.15
+676,Solutions Analysis,1,0.15
+677,Engineering Inspections,1,0.15
+678,Engineering Testing,1,0.15
+679,Advanced SQL,1,0.15
+680,Agent Development Kits,1,0.15
+681,Fault Tolerance,1,0.15
+682,Storage Engine Development,1,0.15
+683,Data Solutions Design,1,0.15
+684,Implementation Efficiency,1,0.15
+685,Mentoring Junior Engineers,1,0.15
+686,Data Analysis Proficiency,1,0.15
+687,Data Engineering Expertise,1,0.15
+688,Substation Design,1,0.15
+689,AutoCAD Drafting,1,0.15
+690,Data Center Infrastructure,1,0.15
+691,Data Modelling,1,0.15
+692,SQL & Python,1,0.15
+693,Data Pipeline Engineering,1,0.15
+694,Microsoft Fabric,1,0.15
+695,Vehicle wiring,1,0.15
+696,Team mentoring & development,1,0.15
+697,Software delivery strategies,1,0.15
+698,AI first engineering,1,0.15
+699,Continuous Improvement,1,0.15
+700,GD&T Knowledge,1,0.15
+701,D Modeling Proficiency,1,0.15
+702,Aero Engine Expertise,1,0.15
+703,Software Development (Java/Python),1,0.15
+704,Customer Requirements Analysis,1,0.15
+705,AI Solutions Engineering,1,0.15
+706,Design for Manufacturing,1,0.15
+707,Engineering Change Orders,1,0.15
+708,Geometric Dimensioning Tolerancing,1,0.15
+709,SolidWorks CAD Proficiency,1,0.15
+710,Client Stakeholder Engagement,1,0.15
+711,DevSecOps Practices,1,0.15
+712,Design Principles Expertise,1,0.15
+713,D Modeling Skills,1,0.15
+714,Programming in Python,1,0.15
+715,Build Automation Systems,1,0.15
+716,Release Engineering,1,0.15
+717,Software Tools Engineering,1,0.15
+718,Mentoring QA Engineers,1,0.15
+719,QA Best Practices,1,0.15
+720,Test Strategy Development,1,0.15
+721,Automation Test Engineering,1,0.15
+722,Prompt Engineering Techniques,1,0.15
+723,Cloud Architecture Solutions,1,0.15
+724,LLM Development,1,0.15
+725,ML Engineering Pipelines,1,0.15
+726,Generative AI Applications,1,0.15
+727,Architecture governance,1,0.15
+728,Team Management & Mentoring,1,0.15
+729,AI Native Engineering Practices,1,0.15
+730,Distributed Systems Development,1,0.15
+731,Software Engineering Leadership,1,0.15
+732,Solution Frameworks,1,0.15
+733,Integration Strategies,1,0.15
+734,Vendor Coordination,1,0.15
+735,Code Development,1,0.15
+736,Engine servicing and repair,1,0.15
+737,diagnosis and troubleshooting,1,0.15
+738,Engine diagnosis and repai,1,0.15
+739,Database Design & Tuning,1,0.15
+740,Cloud Architecture Expertise,1,0.15
+741,Scalable SaaS Architecture,1,0.15
+742,Manufacturing Process Knowledge,1,0.15
+743,Troubleshooting Engineering Issues,1,0.15
+744,Embedded software development,1,0.15
+745,Open Source Contribution,1,0.15
+746,Container Virtualization,1,0.15
+747,UIKit Framework,1,0.15
+748,Async/Await Code,1,0.15
+749,iOS Development,1,0.15
+750,Swift Programming,1,0.15
+751,Cloud native Development,1,0.15
+752,Security Concepts,1,0.15
+753,TypeScript Proficiency,1,0.15
+754,React and Redux,1,0.15
+755,Device Interface Protocols,1,0.15
+756,Programming in C/C++,1,0.15
+757,SAP Cloud Migration,1,0.15
+758,Data Modeling Concepts,1,0.15
+759,Technical Strategy & Planning,1,0.15
+760,Business Process Re engineering,1,0.15
+761,Risk Management Leadership,1,0.15
+762,Cloud Strategy Implementation,1,0.15
+763,Solution Architecture Design,1,0.15
+764,Testing Principles & Methodologies,1,0.15
+765,Microwave Circuit Engineering,1,0.15
+766,Microelectronics Process Development,1,0.15
+767,Quantum Hardware Development,1,0.15
+768,SAP Commerce Cloud,1,0.15
+769,Cloud Integration,1,0.15
+770,Web Content Management,1,0.15
+771,Adobe Experience Manager,1,0.15
+772,Automation Tools,1,0.15
+773,GCP Expertise,1,0.15
+774,Linux kernel proficiency,1,0.15
+775,Low level programming,1,0.15
+776,Data Connectivity,1,0.15
+777,Security Operations,1,0.15
+778,Threat Hunting,1,0.15
+779,REST APIs,1,0.15
+780,Azure / AWS,1,0.15
+781,NET,1,0.15
+782,C# /,1,0.15
+783,Document management,1,0.15
+784,Software engineering,1,0.15
+785,RAG Architecture,1,0.15
+786,Process Simulation Experience,1,0.15
+787,Vendor Engineering Coordination,1,0.15
+788,Equipment Sizing & Selection,1,0.15
+789,Process Design Expertise,1,0.15
+790,Java Application Development AI Enabled Engineering Software Engineering Leadership Backend Services Development Problem Solving & Analysis,1,0.15
+791,Infrastructure Engineering Expertise,1,0.15
+792,Coding and Debugging,1,0.15
+793,Oracle HCM Cloud,1,0.15
+794,AI/ML Integration,1,0.15
+795,ETL Development,1,0.15
+796,Google Cloud Platform,1,0.15
+797,Business Transformation,1,0.15
+798,Appian Development,1,0.15
+799,Wireless Security,1,0.15
+800,Unix Systems,1,0.15
+801,Kubernetes Management,1,0.15
+802,Terraform Automation,1,0.15
+803,MLflow Deployment,1,0.15
+804,DevOps Automation,1,0.15
+805,Data Governance,1,0.15
+806,Databricks SQL,1,0.15
+807,ETL Pipelines,1,0.15
+808,Large Scale Infrastructure,1,0.15
+809,Functional Documentation Experience,1,0.15
+810,Data Migration Strategy,1,0.15
+811,Lease Accounting Knowledge,1,0.15
+812,SAP RE FX Management,1,0.15
+813,Lease accounting knowledge,1,0.15
+814,Integration with SAP FI,1,0.15
+815,Data migration strategies,1,0.15
+816,Electrical Design,1,0.15
+817,Client engagement,1,0.15
+818,Engineering expertise,1,0.15
+819,Software Design Patterns,1,0.15
+820,Performance Optimization Techniques,1,0.15
+821,Custom Software Solutions,1,0.15
+822,Software Design Principles,1,0.15
+823,Oracle Financial Consolidation,1,0.15
+824,Lab Testing,1,0.15
+825,Power Management,1,0.15
+826,Process Control,1,0.15
+827,Siebel Architecture,1,0.15
+828,Compliance Standards,1,0.15
+829,DevOps Implementation,1,0.15
+830,Terraform Expertise,1,0.15
+831,Business Technology,1,0.15
+832,Identity Management,1,0.15
+833,Optical Line Systems,1,0.15
+834,AI Evaluation Frameworks,1,0.15
+835,Problem solving Skills,1,0.15
+836,ServiceNow ITSM Proficiency,1,0.15
+837,Generative AI Design,1,0.15
+838,Generative AI Integration,1,0.15
+839,Real time Communication,1,0.15
+840,Backend Programming,1,0.15
+841,Frontend Frameworks,1,0.15
+842,Application Performance Optimization,1,0.15
+843,Red Hat OpenShift,1,0.15
+844,Problem Investigation,1,0.15
+845,Energy conservation,1,0.15
+846,Technical audits,1,0.15
+847,Vendor coordination,1,0.15
+848,Engineering oversight,1,0.15
+849,Enterprise Applications,1,0.15
+850,AI Development,1,0.15
+851,Technical Reporting,1,0.15
+852,Equipment Engineering,1,0.15
+853,Security Technologies,1,0.15
+854,Cisco Certifications,1,0.15
+855,Technical Management,1,0.15
+856,S/HANA Order Fulfillment,1,0.15
+857,SAP Sales Distribution,1,0.15
+858,Java/JavaScript Proficiency,1,0.15
+859,Test Automation Development,1,0.15
+860,Selenium Expertise,1,0.15
+861,SAP Utilities CRM,1,0.15
+862,Backup and Recovery,1,0.15
+863,Database Performance Tuning,1,0.15
+864,Inventory Governance,1,0.15
+865,Fleet Management,1,0.15
+866,Quality Compliance,1,0.15
+867,Engineering Standards,1,0.15
+868,SAP Documentation,1,0.15
+869,Equipment Calibration,1,0.15
+870,js,1,0.15
+871,Cloud Native Development,1,0.15
+872,Cockpit Solutions,1,0.15
+873,Strategy Development,1,0.15
+874,Vision Definition,1,0.15
+875,Innovation Solutions,1,0.15
+876,Service Design,1,0.15
+877,Code Analysis,1,0.15
+878,Workflow Management,1,0.15
+879,Engine Performance,1,0.15
+880,Collaboration,1,0.15
+881,Service Delivery,1,0.15
+882,Application Monitoring,1,0.15
+883,Operations Improvement,1,0.15
+884,SAP RE FX configuration,1,0.15
+885,AMS Governance,1,0.15
+886,Sales Order Processing,1,0.15
+887,Advanced Available to Promise,1,0.15
+888,Data Preprocessing,1,0.15
+889,Security Standards,1,0.15
+890,Scalability Solutions,1,0.15
+891,Platform Modernization,1,0.15
+892,Portfolio Management,1,0.15
+893,AI Strategy,1,0.15
+894,Application Engineering,1,0.15
+895,Traffic Management,1,0.15
+896,Wireless Technologies,1,0.15
+897,Routing Protocols,1,0.15
+898,Team Coordination,1,0.15
+899,Hydraulic Calculations,1,0.15
+900,Utility Systems,1,0.15
+901,Equipment Selection,1,0.15
+902,Piping Design,1,0.15
+903,Process Engineering,1,0.15
+904,Monitoring Metrics,1,0.15
+905,Technical Design,1,0.15
+906,Engineering Oversight,1,0.15
+907,Business Innovation,1,0.15
+908,Product Design,1,0.15
+909,D Modelling,1,0.15
+910,SolidWorks Expertise,1,0.15
+911,Machine Design,1,0.15
+912,Design Review,1,0.15
+913,Subsea Engineering,1,0.15
+914,Structural Design,1,0.15
+915,Business impact,1,0.15
+916,Scalable Frameworks,1,0.15
+917,Quality Engineering,1,0.15
+918,Workflow Orchestration,1,0.15
+919,LLM Integration,1,0.15
+920,Network Configuration,1,0.15
+921,Enterprise Solutions,1,0.15
+922,Event Management,1,0.15
+923,Video Engineering,1,0.15
+924,GCP Experience,1,0.15
+925,Data Transformations,1,0.15
+926,Databricks Platform,1,0.15
+927,Agile Collaboration,1,0.15
+928,Database Optimization,1,0.15
+929,FastAPI Expertise,1,0.15
+930,API Engineering,1,0.15
+931,Account Administration,1,0.15
+932,Query Tuning,1,0.15
+933,Snowflake Optimization,1,0.15
+934,Engineering solutions,1,0.15
+935,Client management,1,0.15
+936,Hardware Validation,1,0.15
+937,Client Requirements,1,0.15
+938,Agile Development Methodologies,1,0.15
+939,SAP Integrated Business Planning (IBP),1,0.15
+940,Materials Management,1,0.15
+941,SAP MM Expertise,1,0.15
+942,Data Transformation Processes,1,0.15
+943,SAP S/HANA Expertise,1,0.15
+944,JavaScript Expertise,1,0.15
+945,HTML & CSS,1,0.15
+946,Backup Technologies,1,0.15
+947,Technical Coordination,1,0.15
+948,System Commissioning,1,0.15
+949,Water Engineering,1,0.15
+950,Sewage Treatment,1,0.15
+951,Plumbing Operation,1,0.15
+952,Construction Engineering,1,0.15
+953,GenAI Consulting,1,0.15
+954,Automation Expertise,1,0.15
+955,Software Solutions,1,0.15
+956,Playwright Testing,1,0.15
+957,Engineering Productivity,1,0.15
+958,Manufacturing Engineering,1,0.15
+959,Project Execution,1,0.15
+960,Facility Management,1,0.15
+961,Operational Excellence,1,0.15
+962,Capacity Restoration,1,0.15
+963,Collaboration Design,1,0.15
+964,Troubleshooting Protocols,1,0.15
+965,NetDevOps Automation,1,0.15
+966,Core Networking,1,0.15
+967,Test Engineering,1,0.15
+968,Infrastructure Development,1,0.15
+969,Troubleshooting Application Issues,1,0.15
+970,Integration Tools Knowledge,1,0.15
+971,Integration Methodologies,1,0.15
+972,Workday Advanced Reporting,1,0.15
+973,Java EE Development,1,0.15
+974,Camunda BPM Expertise,1,0.15
+975,Problem Solving Techniques,1,0.15
+976,SAP Analytics Cloud,1,0.15
+977,Software Lifecycle,1,0.15
+978,ServiceNow Development,1,0.15
+979,Micro services Architecture,1,0.15
+980,Fraud Rule Engines,1,0.15
+981,Vendor Evaluation,1,0.15
+982,Site Inspection,1,0.15
+983,Budget Adherence,1,0.15
+984,Programming Concepts,1,0.15
+985,Construction Management,1,0.15
+986,Customer Requirements,1,0.15
+987,Design Verification,1,0.15
+988,Digital Applications,1,0.15
+989,CSharp Programming Digital Transformation Solution Design Engineering Practices Team Collaboration,1,0.15
+990,Engine Design,1,0.15
+991,Customer Training,1,0.15
+992,Service Monitoring,1,0.15
+993,Automation Strategy,1,0.15
+994,Operational Leadership,1,0.15
+995,SAP PM,1,0.15
+996,Innovation Focus,1,0.15
+997,IBM BAW,1,0.15
+998,Oracle Database Administration,1,0.15
+999,Cost Modeling,1,0.15
+1000,SAP GTS,1,0.15
+1001,AutoCAD Proficiency,1,0.15
+1002,Business Strategy,1,0.15
+1003,Innovation Engineering,1,0.15
+1004,Strategic Execution,1,0.15
+1005,Facility Systems,1,0.15
+1006,CAD Modeling,1,0.15
+1007,Optical Transmission,1,0.15
+1008,Linux Containers,1,0.15
+1009,Large scale Systems,1,0.15
+1010,AI native Development,1,0.15
+1011,Java Full Stack Frontend Technologies Backend Development REST API Design Cloud Platform Knowledge,1,0.15
+1012,Fiber Infrastructure,1,0.15
+1013,Code Quality,1,0.15
+1014,Team Supervision,1,0.15
+1015,SolidWorks Proficiency,1,0.15
+1016,AI design patterns,1,0.15
+1017,Supply Chain Management,1,0.15
+1018,Dynatrace Tool,1,0.15
+1019,JMeter Expertise,1,0.15
+1020,Technical Execution,1,0.15
+1021,Coaching & Feedback,1,0.15
+1022,Distributed Systems Depth,1,0.15
+1023,Construction Standards,1,0.15
+1024,Inspection Procedures,1,0.15
+1025,Fabrication Supervision,1,0.15
+1026,Equipment Erection,1,0.15
+1027,HVAC Systems,1,0.15
+1028,Service Coordination,1,0.15
+1029,Fullstack Maintenance,1,0.15
+1030,Client Ambitions,1,0.15
+1031,Enterprise Architecting,1,0.15
+1032,Technical Solutions Delivery,1,0.15
+1033,Implementation Experience,1,0.15
+1034,Cloud AI Solutions,1,0.15
+1035,Pipeline Development,1,0.15
+1036,IT Asset Management,1,0.15
+1037,RPA Implementation,1,0.15
+1038,IIS Management,1,0.15
+1039,Middleware Engineering,1,0.15
+1040,Monitoring Tools,1,0.15
+1041,Python & Ansible,1,0.15
+1042,Robotics Engineering,1,0.15
+1043,Application Implementation,1,0.15
+1044,Workflow automation,1,0.15
+1045,Prompt engineering,1,0.15
+1046,LLM development,1,0.15
+1047,Python microservices,1,0.15
+1048,Configuration Customisation,1,0.15
+1049,Snowflake Data Engineering,1,0.15
+1050,Consulting Abilities,1,0.15
+1051,Business Value Solutions,1,0.15
+1052,Data Architecture,1,0.15
+1053,Technical Partnerships,1,0.15
+1054,Infrastructure Systems,1,0.15
+1055,Hardware Engineering,1,0.15
+1056,Product Management,1,0.15
+1057,Coding Standards,1,0.15
+1058,Client Consultation,1,0.15
+1059,Predictive Modeling,1,0.15
+1060,Business Technology Alignment,1,0.15
+1061,Technical Advisory,1,0.15
+1062,ASIC/SoC Design,1,0.15
+1063,Semiconductor Engineering,1,0.15
+1064,Configuration Changes,1,0.15
+1065,Troubleshooting Connectivity,1,0.15
+1066,Security Policies,1,0.15
+1067,Zscaler Support Engineer,1,0.15
+1068,Innovation Strategy,1,0.15
+1069,AI Native Development,1,0.15
+1070,Investment Management,1,0.15
+1071,Charles River API,1,0.15
+1072,SQL Databricks,1,0.15
+1073,WLAN Technologies,1,0.15
+1074,Protocol Knowledge,1,0.15
+1075,High end Switches,1,0.15
+1076,Technical Solution Delivery,1,0.15
+1077,Implementation Expertise,1,0.15
+1078,Snowflake Platform,1,0.15
+1079,Troubleshooting Optimisation,1,0.15
+1080,GitHub Configuration,1,0.15
+1081,IBM ELM Integration,1,0.15
+1082,Data Engineering Skills,1,0.15
+1083,CI/CD Management,1,0.15
+1084,Kubernetes Administration,1,0.15
+1085,AWS Engineering,1,0.15
+1086,Performance Metrics,1,0.15
+1087,Data science expertise,1,0.15
+1088,Document Management,1,0.15
+1089,C#,1,0.15
+1090,OpenText Capture,1,0.15
+1091,Application Deployment,1,0.15
+1092,MLOps Management,1,0.15
+1093,Vertex AI Expertise,1,0.15
+1094,Electronic Design,1,0.15
+1095,Technical Project Management,1,0.15
+1096,Bowling pinsetter installation,1,0.15
+1097,Bowling lane machine installation,1,0.15
+1098,maintenance,1,0.15
+1099,Electrical installation,1,0.15
+1100,Business Value Translation,1,0.15
+1101,Digital Twin Solutions,1,0.15
+1102,Strong Communication Skills,1,0.15
+1103,Reality Capture Technologies,1,0.15
+1104,AI Assisted Testing,1,0.15
+1105,API Automation Testing,1,0.15
+1106,Test Automation Architecture,1,0.15
+1107,QA Process Transformation,1,0.15
+1108,Client Interaction,1,0.15
+1109,Business Understanding,1,0.15
+1110,AI Assisted Tools,1,0.15
+1111,Engineering Automation,1,0.15
+1112,Strategic Support,1,0.15
+1113,Technical Specifications,1,0.15
+1114,Data Analysis Skills,1,0.15
+1115,Software Performance Tuning,1,0.15
+1116,Technical Leadership Experience,1,0.15
+1117,Power Optimization Techniques,1,0.15
+1118,Technical Knowledge,1,0.15
+1119,Exceptional Communication,1,0.15
+1120,Customer Complaint Management,1,0.15
+1121,Troubleshooting Windows,1,0.15
+1122,Technical solution design,1,0.15
+1123,Agile methodology,1,0.15
+1124,Data analysis techniques,1,0.15
+1125,Business process analysis,1,0.15
+1126,Plumbing repair,1,0.15
+1127,Electrical repair,1,0.15
+1128,Core Systems Programming,1,0.15
+1129,Distributed Systems Engineering,1,0.15
+1130,Perl Scripting,1,0.15
+1131,PostgreSQL Proficiency,1,0.15
+1132,Unix Desktop Management,1,0.15
+1133,Linux Desktop Management,1,0.15
+1134,Middleware Integration Techniques,1,0.15
+1135,RESTful API Integration,1,0.15
+1136,js Development,1,0.15
+1137,Business Analysis,1,0.15
+1138,Version Control (Git),1,0.15
+1139,SAP Downstream Expertise,1,0.15
+1140,Device Emulation Tools,1,0.15
+1141,Acquisition Processes,1,0.15
+1142,Functional Analysis,1,0.15
+1143,Technical IT Services,1,0.15
+1144,Incident Management Expertise,1,0.15
+1145,Site Reliability Engineering,1,0.15
+1146,SAN Management,1,0.15
+1147,Windows Server,1,0.15
+1148,Azure Administration,1,0.15
+1149,Workflow Development,1,0.15
+1150,Java Technologies,1,0.15
+1151,IBM FileNet ECM,1,0.15
+1152,OutSystems Development,1,0.15
+1153,Test Driven Development,1,0.15
+1154,Real time Streaming,1,0.15
+1155,Code Review Expertise,1,0.15
+1156,VMware Administration,1,0.15
+1157,Customer Relationship Management Technical Solution Design Sales Collaboration Cloud Technology Expertise Presentation Skills Development,1,0.15
+1158,ML Model Deployment,1,0.15
+1159,Data Ingestion Strategies,1,0.15
+1160,ISO Compliance,1,0.15
+1161,User Story Creation,1,0.15
+1162,Endpoint Management,1,0.15
+1163,Systems Infrastructure Management,1,0.15
+1164,Communication Proficiency,1,0.15
+1165,Metric Generation,1,0.15
+1166,Linux Systems,1,0.15
+1167,System Engineering,1,0.15
+1168,Financial Data Processing,1,0.15
+1169,Quality Management,1,0.15
+1170,Hardware Knowledge,1,0.15
+1171,Power Optimization,1,0.15
+1172,Business Analysis Requirements Gathering Process Mapping Cross Functional Collaboration Data Analysis,1,0.15
+1173,Monitoring & Observability Tools,1,0.15
+1174,Automation Strategies Development,1,0.15
+1175,Cloud Platforms Proficiency,1,0.15
+1176,Control Systems Integration,1,0.15
+1177,Analytical Instrumentation,1,0.15
+1178,Safety Compliance Standards,1,0.15
+1179,Control System Integration,1,0.15
+1180,Analytical System Design,1,0.15
+1181,Technical problem solving,1,0.15
+1182,Remote support expertise,1,0.15
+1183,Customer complaint management,1,0.15
+1184,Troubleshooting operating systems,1,0.15
+1185,Excellent communication,1,0.15
+1186,Interpersonal Communication Skills,1,0.15
+1187,Insurance Industry Knowledge,1,0.15
+1188,Business Requirements Analysis,1,0.15
+1189,VLSI Board Design,1,0.15
+1190,Hardware Program Execution,1,0.15
+1191,Supplier PCN Management,1,0.15
+1192,Hands on Production Environment,1,0.15
+1193,Technical Documentation Interpretation,1,0.15
+1194,Electronic System Maintenance,1,0.15
+1195,Laboratory Validation,1,0.15
+1196,System Requirements Development,1,0.15
+1197,Coding Languages,1,0.15
+1198,CI/CD Tooling,1,0.15
+1199,Customer Troubleshooting,1,0.15
+1200,Technical Training Delivery,1,0.15
+1201,Embedded C Development,1,0.15
+1202,Radar Systems Architecture,1,0.15
+1203,Cross functional Collaboration,1,0.15
+1204,Change Operations,1,0.15
+1205,Data Automation,1,0.15
+1206,Engineering Tools Application,1,0.15
+1207,Data Acquisition Systems,1,0.15
+1208,Database Design,1,0.15
+1209,System Performance Monitoring,1,0.15
+1210,DevOps Expertise,1,0.15
+1211,PostgreSQL Database,1,0.15
+1212,Go/Golang Programming,1,0.15
+1213,Cross Functional Coordination,1,0.15
+1214,Resource Allocation,1,0.15
+1215,Project Planning,1,0.15
+1216,Workday Recruiting,1,0.15
+1217,Test Development,1,0.15
+1218,Server Repair Expertise,1,0.15
+1219,Agile Development Methods,1,0.15
+1220,Cloud Services Integration,1,0.15
+1221,Web Application Design,1,0.15
+1222,NET Stack Development,1,0.15
+1223,Remote Assistance,1,0.15
+1224,Technical Solutions Implementation,1,0.15
+1225,Cross functional Team Leadership,1,0.15
+1226,User Story Documentation,1,0.15
+1227,Agile Methodology Proficiency,1,0.15
+1228,Collaboration and Communication,1,0.15
+1229,Storage Architectures Knowledge,1,0.15
+1230,Automation Tools (Selenium/Junit),1,0.15
+1231,System Testing Methodologies,1,0.15
+1232,SAP Deployment,1,0.15
+1233,Software Development Skills,1,0.15
+1234,AI/ML Project Experience,1,0.15
+1235,Mechanical Aptitude,1,0.15
+1236,Data Center Experience,1,0.15
+1237,Native UI Testing,1,0.15
+1238,Appium Framework,1,0.15
+1239,Query Performance,1,0.15
+1240,Defect Tracking Solutions,1,0.15
+1241,Payments Testing,1,0.15
+1242,Test Management Tools,1,0.15
+1243,Quality Assurance Testing,1,0.15
+1244,Hybrid Cloud Services,1,0.15
+1245,IBM Storage Equipment,1,0.15
+1246,On Site Installation,1,0.15
+1247,AI/ML Project Leadership,1,0.15
+1248,C++/Java Proficiency,1,0.15
+1249,System Documentation,1,0.15
+1250,User Story Development,1,0.15
+1251,Prototyping Techniques,1,0.15
+1252,JavaScript,1,0.15
+1253,CSS,1,0.15
+1254,HTML,1,0.15
+1255,UX Engineering,1,0.15
+1256,Platform Architecture,1,0.15
+1257,AUTOSAR Development,1,0.15
+1258,Interoperability Solutions,1,0.15
+1259,Data Security,1,0.15
+1260,Exam Management,1,0.15
+1261,System Requirements Definition,1,0.15
+1262,Calibration and Validation,1,0.15
+1263,C/C++ Software Development,1,0.15
+1264,Real time Control Implementation,1,0.15
+1265,Mechatronic System Design,1,0.15
+1266,User Research Insights,1,0.15
+1267,Responsive Web Design,1,0.15
+1268,Technical UX Design,1,0.15
+1269,Cryogenic Testing,1,0.15
+1270,PCB Design Knowledge,1,0.15
+1271,Statistical Methods,1,0.15
+1272,Financial Systems,1,0.15
+1273,Compliance Assessment Knowledge,1,0.15
+1274,Service Performance Strategy,1,0.15
+1275,Team Leadership Skills,1,0.15
+1276,Risk Management Framework,1,0.15
+1277,Cybersecurity Services Management,1,0.15
+1278,Release Management,1,0.15
+1279,Infrastructure Modernization,1,0.15
+1280,Linux Scripting,1,0.15
+1281,Network Administration,1,0.15
+1282,Systems Administration,1,0.15
+1283,Process Optimization,1,0.15
+1284,Collaboration Tools Experience,1,0.15
+1285,Service Delivery Management,1,0.15
+1286,Technical Problem Solving,1,0.15
+1287,Mainframe Equipment Knowledge,1,0.15
+1288,Hardware Architecture,1,0.15
+1289,Software Testing Experience,1,0.15
+1290,C++ Programming Skills,1,0.15
+1291,Business Technology Bridge,1,0.15
+1292,Engineering Proficiency,1,0.15
+1293,Data Visualization Tools,1,0.15
+1294,Mathematical Optimization Tools,1,0.15
+1295,Predictive Modeling Techniques,1,0.15
+1296,Virtualization Management,1,0.15
+1297,Scripting Proficiency,1,0.15
+1298,Linux Systems Administration,1,0.15
+1299,Cryptographic Techniques,1,0.15
+1300,System Security Design,1,0.15
+1301,AI Development Enthusiasm,1,0.15
+1302,Programming Languages Proficiency,1,0.15
+1303,Software Architecture Verification,1,0.15
+1304,Effective communication skills,1,0.15
+1305,Business intelligence tools,1,0.15
+1306,Requirements gathering expertise,1,0.15
+1307,System Maintenance Knowledge,1,0.15
+1308,Embedded development,1,0.15
+1309,Game engine experience,1,0.15
+1310,Graphics development,1,0.15
+1311,D user experience,1,0.15
+1312,Device Driver Writing,1,0.15
+1313,Firmware Debugging,1,0.15
+1314,Performance Evaluation,1,0.15
+1315,Debugging Scripts,1,0.15
+1316,Test Methodologies,1,0.15
+1317,Ambient Computing,1,0.15
+1318,Machine Learning Expertise,1,0.15
+1319,System on Chip Design,1,0.15
+1320,Full Stack Development API Development Cloud Technologies Data Processing Agile Methodologies,1,0.15
+1321,Solution Design Principles,1,0.15
+1322,Event driven Architecture,1,0.15
+1323,Requirements Analysis,1,0.15
+1324,Application Design Skills,1,0.15
+1325,ServiceNow CSM Expertise,1,0.15
+1326,Git Version Control,1,0.15
+1327,Docker & Kubernetes,1,0.15
+1328,NET Full Stack Development,1,0.15
+1329,Data structures algorithms,1,0.15
+1330,Code review feedback,1,0.15
+1331,Testing software products,1,0.15
+1332,Machine Learning Applications,1,0.15
+1333,Technical Writing Skills,1,0.15
+1334,Embedded Systems Design,1,0.15
+1335,C Language Proficiency,1,0.15
+1336,Ticketing System Proficiency,1,0.15
+1337,SCCM Configuration Management,1,0.15
+1338,Security System Design,1,0.15
+1339,Machine Learning Systems,1,0.15
+1340,Research Experience,1,0.15
+1341,Machine Learning Research Python Programming AI Systems Engineering Experiment Design Natural Language Processing,1,0.15
+1342,Linux/Unix Expertise,1,0.15
+1343,Health Management Systems,1,0.15
+1344,Project Management Methodologies,1,0.15
+1345,System Software Integration,1,0.15
+1346,Interface Protocols,1,0.15
+1347,Decision Making,1,0.15
+1348,Business process modeling,1,0.15
+1349,Requirements documentation,1,0.15
+1350,Debugging Skills,1,0.15
+1351,Selenium Testing,1,0.15
+1352,Networking Troubleshooting,1,0.15
+1353,Linux/Unix Administration,1,0.15
+1354,Analytical Thinking,1,0.15
+1355,Sales Cycle Management,1,0.15
+1356,Technology Selling,1,0.15
+1357,Process Improvement Insights,1,0.15
+1358,Linux & Windows Familiarity,1,0.15
+1359,Backup & Recovery Knowledge,1,0.15
+1360,Testing Tools Proficiency,1,0.15
+1361,System Testing Principles,1,0.15
+1362,GPU Virtualization Techniques,1,0.15
+1363,Embedded C/C++ Programming,1,0.15
+1364,System Issue Triaging,1,0.15
+1365,QNX Hypervisor Configuration,1,0.15
+1366,CAD Tools,1,0.15
+1367,Customer Service Principles,1,0.15
+1368,Knowledge Base Management,1,0.15
+1369,Customer Satisfaction,1,0.15
+1370,Embedded Operating Systems,1,0.15
+1371,Low Level Programming,1,0.15
+1372,Cross Functional Teamwork,1,0.15
+1373,Financial Management,1,0.15
+1374,Data Center Engineering,1,0.15
+1375,FPGA Design,1,0.15
+1376,System Validation,1,0.15
+1377,Audit Readiness Activities,1,0.15
+1378,Risk Management Processes,1,0.15
+1379,Secure Development Lifecycle,1,0.15
+1380,PowerShell Automation,1,0.15
+1381,Operating System Deployment,1,0.15
+1382,Software Distribution,1,0.15
+1383,SCCM Administration,1,0.15
+1384,Cost performance modeling,1,0.15
+1385,Object Oriented Design,1,0.15
+1386,Cybersecurity Engineering,1,0.15
+1387,System Testing,1,0.15
+1388,JavaScript Design,1,0.15
+1389,Debugging and Root Cause Analysis,1,0.15
+1390,Software Testing Lifecycles,1,0.15
+1391,CAD Tool Experience,1,0.15
+1392,Firmware Development Skills,1,0.15
+1393,Hardware Design Expertise,1,0.15
+1394,ITIL Practices Familiarity,1,0.15
+1395,SCCM Management Skills,1,0.15
+1396,Data Driven Insights,1,0.15
+1397,S&OP Process Knowledge,1,0.15
+1398,Supply Chain Optimization,1,0.15
+1399,SAP IBP Implementation,1,0.15
+1400,Programming Standards,1,0.15
+1401,Data Pipelines,1,0.15
+1402,Software engineering principles,1,0.15
+1403,Machine learning solutions,1,0.15
+1404,Data pipeline management,1,0.15
+1405,Backend language expertise,1,0.15
+1406,Technical troubleshooting,1,0.15
+1407,SoC development environment,1,0.15
+1408,ISP architecture maintenance,1,0.15
+1409,C/C++ programming,1,0.15
+1410,System C model development,1,0.15
+1411,Image processing algorithms,1,0.15
+1412,Ticket Resolution Processes,1,0.15
+1413,Client Support Expertise,1,0.15
+1414,Issue Troubleshooting,1,0.15
+1415,Data Analysis Capabilities,1,0.15
+1416,PCB Technologies,1,0.15
+1417,Digital Logic Design,1,0.15
+1418,Scripting Skills,1,0.15
+1419,Technical Escalation Handling,1,0.15
+1420,SCCM Knowledge,1,0.15
+1421,Windows OS Proficiency,1,0.15
+1422,Imaging Tools Expertise,1,0.15
+1423,Technical Guidance Skills,1,0.15
+1424,Documentation Standards Knowledge,1,0.15
+1425,Troubleshooting Support Issues,1,0.15
+1426,Product development experience,1,0.15
+1427,Structural analysis skills,1,0.15
+1428,Thermal management design,1,0.15
+1429,D CAD proficiency,1,0.15
+1430,Mechanical design expertise,1,0.15
+1431,Embedded Systems Architecture,1,0.15
+1432,Client Life Cycle Management,1,0.15
+1433,Python Expertise,1,0.15
+1434,Mentorship Skills,1,0.15
+1435,Process Documentation,1,0.15
+1436,Client Support,1,0.15
+1437,Training & Support,1,0.15
+1438,SCCM Proficiency,1,0.15
+1439,ITIL Incident Management,1,0.15
+1440,Advanced SCCM Management,1,0.15
+1441,Operational Compliance,1,0.15
+1442,Troubleshooting Issues,1,0.15
+1443,Scalable API Design,1,0.15
+1444,Client Server Architecture,1,0.15
+1445,Defect Analysis Tools,1,0.15
+1446,Firmware Design,1,0.15
+1447,Automation Testing,1,0.15
+1448,AWS AI Services,1,0.15
+1449,Production Workflow,1,0.15
+1450,SAP PP Expertise,1,0.15
+1451,Component Design,1,0.15
+1452,BlueYonder Supply Planning,1,0.15
+1453,Clean Code Practices,1,0.15
+1454,Collaboration with Stakeholders,1,0.15
+1455,Integration Design Principles,1,0.15
+1456,Software Troubleshooting,1,0.15
+1457,Marklogic Proficiency,1,0.15
+1458,Debugging and Troubleshooting,1,0.15
+1459,API Management Techniques,1,0.15
+1460,Salesforce Omnistudio Platform,1,0.15
+1461,Monitoring and Reporting,1,0.15
+1462,Troubleshooting SCCM Issues,1,0.15
+1463,ITIL Operations Understanding,1,0.15
+1464,Strong Communication,1,0.15
+1465,Storytelling Proficiency,1,0.15
+1466,Technology Strategic Leadership,1,0.15
+1467,Data validation,1,0.15
+1468,KPIs management,1,0.15
+1469,ITSM knowledge,1,0.15
+1470,Power BI dashboarding,1,0.15
+1471,ServiceNow data analysis,1,0.15
+1472,Advanced Exchange Configurations,1,0.15
+1473,Incident Response Leadership,1,0.15
+1474,Azure Identity Management,1,0.15
+1475,M Portal Administration,1,0.15
+1476,Windows Deployment,1,0.15
+1477,Intune Integration,1,0.15
+1478,Software design architecture,1,0.15
+1479,Containerization Technologies,1,0.15
+1480,Azure Security Controls,1,0.15
+1481,KQL Threat Hunting,1,0.15
+1482,Incident Response Management,1,0.15
+1483,Security Automation Implementation,1,0.15
+1484,Microsoft Defender Optimization,1,0.15
+1485,Network Automation Implementation,1,0.15
+1486,RF Planning Expertise,1,0.15
+1487,WLAN Troubleshooting,1,0.15
+1488,Cisco Catalyst Installation,1,0.15
+1489,Wireless Network Design,1,0.15
+1490,ServiceNow ITOM Discovery Technology Architecture Design Performance Optimization Scalability Solutions Team Collaboration,1,0.15
+1491,Observability Tools,1,0.15
+1492,Network Management,1,0.15
+1493,Collaboration Skills,1,0.15
+1494,Assessment Tool Development,1,0.15
+1495,Training Content Design,1,0.15
+1496,Control Framework Development,1,0.15
+1497,Risk Assessment Expertise,1,0.15
+1498,Security Measures,1,0.15
+1499,Azure Cloud Technologies,1,0.15
+1500,Compliance,1,0.15
+1501,ticketing,1,0.15
+1502,Iata,1,0.15
+1503,Travel Industry,1,0.15
+1504,Gds,1,0.15
+1505,Bsp,1,0.15
+1506,Air Compliance,1,0.15
+1507,IATA compliance,1,0.15
+1508,Fraud and compliance,1,0.15
+1509,Travel risk Manager,1,0.15
+1510,Travel & Tourism,1,0.15
+1511,Compliance Officer,1,0.15
+1512,Payment Processing,1,0.15
+1513,Firewall Management,1,0.15
+1514,Cisco Viptela,1,0.15
+1515,Networking Skills,1,0.15
+1516,Project Quality Assurance,1,0.15
+1517,Cloud Networking Expertise,1,0.15
+1518,Data Center Networking,1,0.15
+1519,IT Solutions Architecture,1,0.15
+1520,Network Operations Management,1,0.15
+1521,Network Monitoring,1,0.15
+1522,Cisco Technologies,1,0.15
+1523,Basic Networking,1,0.15
+1524,VMWare vSphere,1,0.15
+1525,Troubleshooting Network Issues,1,0.15
+1526,Aruba Wireless Management,1,0.15
+1527,Cisco Wireless Solutions,1,0.15
+1528,Risk Assessment Strategy,1,0.15
+1529,Technology Sales Leadership,1,0.15
+1530,NET Core,1,0.15
+1531,C#/,1,0.15
+1532,Salesforce Platform Development,1,0.15
+1533,Technical Controls Design,1,0.15
+1534,Audit Program Development,1,0.15
+1535,SQL Programming Knowledge,1,0.15
+1536,Risk Mitigation Strategies,1,0.15
+1537,Internal Audit Experience,1,0.15
+1538,Service Management,1,0.15
+1539,C++ Software Development,1,0.15
+1540,Machine Learning Models,1,0.15
+1541,Data Engineering Technologies,1,0.15
+1542,Automation Frameworks,1,0.15
+1543,Agile Frameworks,1,0.15
+1544,Arista Networking,1,0.15
+1545,Networking Skills (Routing & Switching),1,0.15
+1546,Troubleshooting Wireless Issues,1,0.15
+1547,Aruba Wireless Knowledge,1,0.15
+1548,Cisco Wireless Expertise,1,0.15
+1549,Cloud Computing Concepts,1,0.15
+1550,Industry Knowledge,1,0.15
+1551,Effective Communications,1,0.15
+1552,Customer Focus,1,0.15
+1553,Autosar Expertise,1,0.15
+1554,Technology Troubleshooting,1,0.15
+1555,Risk Analysis Assessment,1,0.15
+1556,Architectural Best Practices,1,0.15
+1557,RFP Contribution Input,1,0.15
+1558,Defect Analysis Techniques,1,0.15
+1559,Integration Best Practices,1,0.15
+1560,Salesforce Marketing Cloud,1,0.15
+1561,Salesforce Sales Cloud,1,0.15
+1562,Salesforce Service Cloud,1,0.15
+1563,HANA Database Integration,1,0.15
+1564,Database Knowledge,1,0.15
+1565,CI/CD Pipeline Management,1,0.15
+1566,Data Persistence Technologies,1,0.15
+1567,Microservices Development,1,0.15
+1568,AI and ML Integration,1,0.15
+1569,Cloud Architecture Design,1,0.15
+1570,Portfolio Leadership,1,0.15
+1571,End User Experience,1,0.15
+1572,Workplace Technology Strategy,1,0.15
+1573,AI Utilization Techniques,1,0.15
+1574,Japanese Language Proficiency,1,0.15
+1575,VMware vSphere,1,0.15
+1576,Telecom Protocols,1,0.15
+1577,South Bound Protocol,1,0.15
+1578,Telecom NMS,1,0.15
+1579,Performance Assessment,1,0.15
+1580,Low level Design,1,0.15
+1581,G Integration,1,0.15
+1582,Telecom Analysis,1,0.15
+1583,System Software,1,0.15
+1584,Java Enterprise,1,0.15
+1585,Enterprise Networking,1,0.15
+1586,Technical Documentation Development,1,0.15
+1587,Aruba Wireless Solutions,1,0.15
+1588,Cisco Wireless Management,1,0.15
+1589,Sales Support Activities,1,0.15
+1590,Cloud Integration Techniques,1,0.15
+1591,RESTful APIs Integration,1,0.15
+1592,Web Technologies Expert,1,0.15
+1593,Global Team Leadership,1,0.15
+1594,Financial Acumen,1,0.15
+1595,Google Ad Manager,1,0.15
+1596,Infrastructure Services,1,0.15
+1597,People Development,1,0.15
+1598,Technology Operations Management,1,0.15
+1599,Workforce Solutions,1,0.15
+1600,Team collaboration,1,0.15
+1601,Problem solving abilities,1,0.15
+1602,Hardware/software management,1,0.15
+1603,IT troubleshooting,1,0.15
+1604,Programming Fundamentals,1,0.15
+1605,Cybersecurity Concepts,1,0.15
+1606,Enterprise Systems,1,0.15
+1607,ServiceNow Expertise,1,0.15
+1608,Operational Readiness,1,0.15
+1609,Integration Expertise,1,0.15
+1610,Financial Applications,1,0.15
+1611,Client Relationship,1,0.15
+1612,Delivery Management,1,0.15
+1613,Modern Engineering Practices,1,0.15
+1614,Design Patterns,1,0.15
+1615,IT Service Management,1,0.15
+1616,Operational Oversight,1,0.15
+1617,Leadership Management,1,0.15
+1618,Data Analysis Visualization,1,0.15
+1619,Board Bring up Experience,1,0.15
+1620,API Integration Knowledge,1,0.15
+1621,Data Analytics Experience,1,0.15
+1622,Technical Troubleshooting Skills,1,0.15
+1623,Programming Languages Proficient,1,0.15
+1624,Digital Selling Techniques,1,0.15
+1625,Customer Engagement Management,1,0.15
+1626,Product Development Lifecycle,1,0.15
+1627,Product Strategy Development,1,0.15
+1628,Risk Management Strategies,1,0.15
+1629,AI and Machine Learning,1,0.15
+1630,AWS Services Knowledge,1,0.15
+1631,Automation Processes,1,0.15
+1632,Troubleshooting Systems,1,0.15
+1633,SQL Queries,1,0.15
+1634,Project Financing,1,0.15
+1635,Energy Technology,1,0.15
+1636,Risk Assessments,1,0.15
+1637,Executive Communications,1,0.15
+1638,Governance Processes,1,0.15
+1639,Technology Deployment,1,0.15
+1640,Digital Product Management,1,0.15
+1641,talent acquisition,1,0.15
+1642,recruitment,1,0.15
+1643,Consultancy,1,0.15
+1644,Pharma,1,0.15
+1645,Fmcg,1,0.15
+1646,Cosmic,1,0.15
+1647,DevOps practices,1,0.15
+1648,Snowflake expertise,1,0.15
+1649,AWS Glue Expertise,1,0.15
+1650,Data Engineering Tools,1,0.15
+1651,API Data Ingestion,1,0.15
+1652,Data Pipelines Development,1,0.15
+1653,AWS Cloud Services,1,0.15
+1654,Workforce Planning,1,0.15
+1655,Advanced SQL Proficiency,1,0.15
+1656,Compliance Support,1,0.15
+1657,Process Validation,1,0.15
+1658,Product Lifecycle Management,1,0.15
+1659,Technology Transfer,1,0.15
+1660,Negotiation Expertise,1,0.15
+1661,Compliance Knowledge,1,0.15
+1662,Machine Learning Engineering,1,0.15
+1663,Data Processing Techniques,1,0.15
+1664,AI Model Optimization,1,0.15
+1665,Security Vulnerability Remediation,1,0.15
+1666,Shell Scripting Automation,1,0.15
+1667,Incident Management Support,1,0.15
+1668,Linux Server Administration,1,0.15
+1669,Spotfire Administration,1,0.15
+1670,Data Pipeline Architecture,1,0.15
+1671,Redshift Design Skills,1,0.15
