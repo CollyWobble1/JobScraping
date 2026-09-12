@@ -1,0 +1,16 @@
+{% extends 'dashboard/base.html' %}
+{% block title %}Job Explorer | Skill Atlas{% endblock %}
+{% block content %}
+<section class="page-heading compact-heading"><div><p class="eyebrow">ROLE INDEX / 02</p><h1>Explore the <em>market.</em></h1><p class="lede">Filter the underlying listings and inspect the skills behind each role.</p></div><div class="heading-meta"><span class="signal-line"></span><span>{{ job_count }} results</span></div></section>
+<form class="filter-bar" method="get">
+  <label>Category<select name="category"><option>All</option>{% for item in categories %}<option {% if selected_category == item %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></label>
+  <label>Location<select name="location"><option>All</option>{% for item in locations %}<option {% if selected_location == item %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></label>
+  <label>Experience<select name="experience"><option>All</option>{% for item in experiences %}<option {% if selected_experience == item %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></label>
+  <label class="search-field">Company<input name="company" value="{{ company_query }}" placeholder="Search companies"></label>
+  <button class="filter-button" type="submit">Filter <span>-></span></button>
+</form>
+<section class="table-panel panel">
+  <div class="panel-heading"><div><p class="eyebrow">LISTINGS</p><h2>Open roles in the dataset</h2></div><span class="table-count">{{ job_count }} roles</span></div>
+  <div class="table-scroll"><table><thead><tr><th>Role</th><th>Company</th><th>Category</th><th>Location</th><th>Experience</th><th>Skills</th><th></th></tr></thead><tbody>{% for job in jobs %}<tr><td><strong>{{ job.Job_Title }}</strong></td><td>{{ job.Company_Name }}</td><td><span class="category-tag">{{ job.category }}</span></td><td>{{ job.Location }}</td><td>{{ job.Experience }}</td><td class="skills-cell">{{ job.Skills_Required|truncatechars:85 }}</td><td><a class="row-link" href="{{ job.URL }}" target="_blank" rel="noreferrer">View</a></td></tr>{% empty %}<tr><td colspan="7" class="empty-state">No roles match these filters.</td></tr>{% endfor %}</tbody></table></div>
+</section>
+{% endblock %}

@@ -1,0 +1,59 @@
+{% extends 'dashboard/base.html' %}
+{% block title %}Overview | Skill Atlas{% endblock %}
+{% block content %}
+<section class="page-heading">
+  <div>
+    <p class="eyebrow">MARKET PULSE / 01</p>
+    <h1>Find the signal<br><em>inside the demand.</em></h1>
+    <p class="lede">A live view of the capabilities appearing across your scraped job market.</p>
+  </div>
+  <div class="heading-meta"><span class="signal-line"></span><span>{{ total_jobs }} roles in view</span></div>
+</section>
+
+<form class="filter-bar" method="get">
+  <label>Category<select name="category"><option>All</option>{% for item in categories %}<option {% if selected_category == item %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></label>
+  <label>Location<select name="location"><option>All</option>{% for item in locations %}<option {% if selected_location == item %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></label>
+  <label>Experience<select name="experience"><option>All</option>{% for item in experiences %}<option {% if selected_experience == item %}selected{% endif %}>{{ item }}</option>{% endfor %}</select></label>
+  <label class="search-field">Company<input name="company" value="{{ company_query }}" placeholder="Search companies"></label>
+  <button class="filter-button" type="submit">Apply filters <span>-></span></button>
+  {% if active_filters %}<a class="clear-link" href="/">Clear</a>{% endif %}
+</form>
+
+<section class="metric-grid">
+  <article class="metric-card accent-card"><span class="metric-label">ROLES TRACKED</span><strong>{{ total_jobs }}</strong><small>matching current view</small></article>
+  <article class="metric-card"><span class="metric-label">UNIQUE SKILLS</span><strong>{{ total_skills }}</strong><small>capabilities detected</small></article>
+  <article class="metric-card"><span class="metric-label">LEADING SIGNAL</span><strong class="metric-signal">{{ top_skill.skill }}</strong><small>{{ top_skill.count }} roles mention it</small></article>
+</section>
+
+<section class="content-grid">
+  <article class="panel wide-panel">
+    <div class="panel-heading"><div><p class="eyebrow">DEMAND RANKING</p><h2>What employers ask for</h2></div><a href="/jobs/" class="text-link">Explore roles <span>-></span></a></div>
+    <div class="chart-wrap large-chart"><canvas id="skillsChart"></canvas></div>
+  </article>
+  <article class="panel side-panel">
+    <div class="panel-heading"><div><p class="eyebrow">CATEGORY MIX</p><h2>Where demand sits</h2></div></div>
+    <div class="chart-wrap donut-chart"><canvas id="categoryChart"></canvas></div>
+  </article>
+  <article class="panel wide-panel lower-panel">
+    <div class="panel-heading"><div><p class="eyebrow">GEOGRAPHY</p><h2>Hiring locations</h2></div></div>
+    <div class="chart-wrap"><canvas id="locationChart"></canvas></div>
+  </article>
+  <article class="panel side-panel lower-panel">
+    <div class="panel-heading"><div><p class="eyebrow">SENIORITY</p><h2>Experience signal</h2></div></div>
+    <div class="chart-wrap"><canvas id="experienceChart"></canvas></div>
+  </article>
+</section>
+
+{{ skills|json_script:'skills-data' }}
+{{ categories_chart|json_script:'category-data' }}
+{{ locations_chart|json_script:'location-data' }}
+{{ experiences_chart|json_script:'experience-data' }}
+<script>
+  const palette = ['#ef6a4c', '#f5b84b', '#6ca6a9', '#d9e0d0', '#bf8b72', '#839b8d', '#d96c6c', '#c6b58a'];
+  const chartOptions = { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { grid: { color: '#29312f' }, ticks: { color: '#97a39d', font: { family: 'DM Mono', size: 10 } } }, y: { grid: { display: false }, ticks: { color: '#cdd3c8', font: { family: 'Manrope', size: 11 } } } } };
+  const skillRows = JSON.parse(document.getElementById('skills-data').textContent);
+  new Chart(document.getElementById('skillsChart'), { type: 'bar', data: { labels: skillRows.map(x => x.skill), datasets: [{ data: skillRows.map(x => x.count), backgroundColor: '#ef6a4c', borderRadius: 2, barThickness: 14 }] }, options: { ...chartOptions, indexAxis: 'y', onClick: (_event, elements) => { if (elements.length) window.location = '/skill/?name=' + encodeURIComponent(skillRows[elements[0].index].skill); } } });
+  function loadChart(id, dataId, type) { const data = JSON.parse(document.getElementById(dataId).textContent); new Chart(document.getElementById(id), { type, data: { labels: data.labels, datasets: [{ data: data.values, backgroundColor: palette, borderWidth: 0, borderRadius: 2 }] }, options: chartOptions }); }
+  loadChart('categoryChart', 'category-data', 'doughnut'); loadChart('locationChart', 'location-data', 'bar'); loadChart('experienceChart', 'experience-data', 'bar');
+</script>
+{% endblock %}

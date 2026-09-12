@@ -1,0 +1,46 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Skill Atlas{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'dashboard/styles.css' %}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="/">
+        <span class="brand-mark">SA</span>
+        <span><strong>Skill Atlas</strong><small>job intelligence</small></span>
+      </a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a class="nav-link {% if request.path == '/' %}active{% endif %}" href="/">
+          <span class="nav-icon">/</span>Overview
+        </a>
+        <a class="nav-link {% if '/jobs' in request.path %}active{% endif %}" href="/jobs/">
+          <span class="nav-icon">[]</span>Job explorer
+        </a>
+        <a class="nav-link {% if '/skill' in request.path %}active{% endif %}" href="/skill/?name=Software%20Development">
+          <span class="nav-icon">+</span>Skill profile
+        </a>
+      </nav>
+      <div class="sidebar-note">
+        <span class="live-dot"></span>
+        <div><strong>Analysis snapshot</strong><small>Curated from your job dataset</small></div>
+      </div>
+    </aside>
+    <main class="main-content">
+      <header class="topbar">
+        <div class="crumb">WORKFORCE SIGNALS <span>/</span> 2026 DATASET</div>
+        <div class="topbar-status"><span class="status-dot"></span>Local data source</div>
+      </header>
+      {% block content %}{% endblock %}
+    </main>
+  </div>
+</body>
+</html>
