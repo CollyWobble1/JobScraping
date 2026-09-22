@@ -1,2 +1,12 @@
 venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.env
+.env.*
+
+db.sqlite3
+
 .DS_Store
