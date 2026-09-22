@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ selected_skill }} - Skill Details</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #FAF7FF;
+            color: #2E2347;
+        }
+
+        .header {
+            background: #5B21B6;
+            color: white;
+            padding: 34px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        .header p {
+            margin: 8px 0 0;
+            color: #F3E8FF;
+            font-size: 15px;
+        }
+
+        .container {
+            width: 92%;
+            max-width: 1200px;
+            margin: 30px auto;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 18px;
+            color: #7C3AED;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .back-link:hover {
+            color: #EC4899;
+        }
+
+        .skill-header {
+            background: white;
+            border-radius: 14px;
+            padding: 28px;
+            margin-bottom: 24px;
+            border-top: 5px solid #EC4899;
+            box-shadow: 0 4px 16px rgba(50, 40, 80, 0.08);
+        }
+
+        .skill-header h2 {
+            margin: 0 0 8px;
+            color: #5B21B6;
+            font-size: 28px;
+        }
+
+        .skill-header p {
+            margin: 0;
+            color: #6B6478;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+
+        .stat-card {
+            padding: 24px;
+            border-radius: 14px;
+            color: white;
+        }
+
+        .stat-purple {
+            background: #7C3AED;
+        }
+
+        .stat-pink {
+            background: #EC4899;
+        }
+
+        .stat-label {
+            font-size: 13px;
+            opacity: 0.9;
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            font-size: 30px;
+            font-weight: 700;
+        }
+
+        .section {
+            background: white;
+            border-radius: 14px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 4px 16px rgba(50, 40, 80, 0.08);
+        }
+
+        .section-tools {
+            border-top: 4px solid #EC4899;
+        }
+
+        .section-category {
+            border-top: 4px solid #38BDF8;
+        }
+
+        .section-location {
+            border-top: 4px solid #FACC15;
+        }
+
+        .section-experience {
+            border-top: 4px solid #7C3AED;
+        }
+
+        .section-company {
+            border-top: 4px solid #EC4899;
+        }
+
+        .section-jobs {
+            border-top: 4px solid #38BDF8;
+        }
+
+        .section h2 {
+            margin: 0 0 18px;
+            color: #5B21B6;
+            font-size: 21px;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            padding: 13px 14px;
+            text-align: left;
+            background: #F3E8FF;
+            color: #5B21B6;
+            font-size: 14px;
+        }
+
+        td {
+            padding: 13px 14px;
+            border-bottom: 1px solid #ECE8F3;
+            font-size: 14px;
+        }
+
+        tbody tr:hover {
+            background: #FAF8FF;
+        }
+
+        .job-link {
+            color: #7C3AED;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .job-link:hover {
+            color: #EC4899;
+            text-decoration: underline;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 24px;
+            color: #766D86;
+            font-size: 13px;
+        }
+
+        @media (max-width: 700px) {
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+
+            .container {
+                width: 94%;
+            }
+
+            .header h1 {
+                font-size: 27px;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+    <header class="header">
+
+        <h1>Skill Details</h1>
+
+        <p>Detailed analysis of the selected skill</p>
+
+    </header>
+
+
+    <main class="container">
+
+        <a
+            class="back-link"
+            href="/"
+        >
+            ← Back to Dashboard
+        </a>
+
+
+        <section class="skill-header">
+
+            <h2>
+                {{ selected_skill }}
+            </h2>
+
+            <p>
+                Detailed demand analysis across the job listings
+            </p>
+
+        </section>
+
+
+        <section class="stats">
+
+            <div class="stat-card stat-purple">
+
+                <div class="stat-label">
+                    Jobs Requiring This Skill
+                </div>
+
+                <div class="stat-value">
+                    {{ job_count }}
+                </div>
+
+            </div>
+
+
+            <div class="stat-card stat-pink">
+
+                <div class="stat-label">
+                    Demand Percentage
+                </div>
+
+                <div class="stat-value">
+                    {{ demand_percentage }}%
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <section class="section section-tools">
+
+            <h2>
+                Tools & Technologies
+            </h2>
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Technology / Keyword</th>
+                            <th>Jobs</th>
+                            <th>Demand %</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {% for item in related_keywords %}
+
+                        <tr>
+                            <td>{{ item.Related_Keyword }}</td>
+                            <td>{{ item.Job_Count }}</td>
+                            <td>{{ item.Demand_Percentage }}%</td>
+                        </tr>
+
+                        {% empty %}
+
+                        <tr>
+                            <td colspan="3">
+                                No related technologies found.
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+
+        <section class="section section-category">
+
+            <h2>
+                Job Categories
+            </h2>
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Category</th>
+                            <th>Jobs</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {% for item in categories %}
+
+                        <tr>
+                            <td>{{ item.category }}</td>
+                            <td>{{ item.count }}</td>
+                        </tr>
+
+                        {% empty %}
+
+                        <tr>
+                            <td colspan="2">
+                                No category data available.
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+
+        <section class="section section-location">
+
+            <h2>
+                Top Locations
+            </h2>
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Location</th>
+                            <th>Jobs</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {% for item in locations %}
+
+                        <tr>
+                            <td>{{ item.location }}</td>
+                            <td>{{ item.count }}</td>
+                        </tr>
+
+                        {% empty %}
+
+                        <tr>
+                            <td colspan="2">
+                                No location data available.
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+
+        <section class="section section-experience">
+
+            <h2>
+                Experience Levels
+            </h2>
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Experience</th>
+                            <th>Jobs</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {% for item in experience %}
+
+                        <tr>
+                            <td>{{ item.experience }}</td>
+                            <td>{{ item.count }}</td>
+                        </tr>
+
+                        {% empty %}
+
+                        <tr>
+                            <td colspan="2">
+                                No experience data available.
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+
+        <section class="section section-company">
+
+            <h2>
+                Companies Hiring for This Skill
+            </h2>
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Company</th>
+                            <th>Jobs</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {% for item in companies %}
+
+                        <tr>
+                            <td>{{ item.company }}</td>
+                            <td>{{ item.count }}</td>
+                        </tr>
+
+                        {% empty %}
+
+                        <tr>
+                            <td colspan="2">
+                                No company data available.
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+
+        <section class="section section-jobs">
+
+            <h2>
+                Matching Jobs
+            </h2>
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Job Title</th>
+                            <th>Company</th>
+                            <th>Location</th>
+                            <th>Experience</th>
+                            <th>Job Link</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {% for job in jobs %}
+
+                        <tr>
+
+                            <td>{{ job.job_title }}</td>
+
+                            <td>{{ job.company_name }}</td>
+
+                            <td>{{ job.location }}</td>
+
+                            <td>{{ job.experience }}</td>
+
+                            <td>
+                                <a
+                                    class="job-link"
+                                    href="{{ job.url }}"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    View Job
+                                </a>
+                            </td>
+
+                        </tr>
+
+                        {% empty %}
+
+                        <tr>
+                            <td colspan="5">
+                                No matching jobs found.
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer class="footer">
+
+        Python &nbsp;|&nbsp;
+        Django &nbsp;|&nbsp;
+        PostgreSQL &nbsp;|&nbsp;
+        Plotly
+
+    </footer>
+
+</body>
+
+</html>
