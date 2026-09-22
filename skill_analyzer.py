@@ -1,16 +1,16 @@
 import pandas as pd
 import psycopg
 from category_rules import assign_category
+import os
 
 # Connect to PostgreSQL
 connection = psycopg.connect(
-    host="localhost",
-    port=5432,
-    dbname="job_skill_analyzer",
-    user="postgres",
-    password="9987733381k"
+    host=os.getenv("DB_HOST", "localhost"),
+    port=os.getenv("DB_PORT", "5432"),
+    dbname=os.getenv("DB_NAME", "job_skill_analyzer"),
+    user=os.getenv("DB_USER", "postgres"),
+    password=os.getenv("DB_PASSWORD")
 )
-
 # Get job data from PostgreSQL
 query = """
 SELECT
