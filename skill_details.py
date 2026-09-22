@@ -1,20 +1,34 @@
+import os
+
 import pandas as pd
 import psycopg
+
 from category_rules import assign_category
+
+
+def split_skills(skill_text):
+    if pd.isna(skill_text):
+        return []
+
+    skills = [
+        skill.strip()
+        for skill in str(skill_text).split(",")
+        if skill.strip()
+    ]
+
+    return list(dict.fromkeys(skills))
 
 
 def get_skill_details(selected_skill):
 
-    # Connect to PostgreSQL
     connection = psycopg.connect(
-        host="localhost",
-        port=5432,
-        dbname="job_skill_analyzer",
-        user="postgres",
-        password="9987733381k"
+        host=os.getenv("DB_HOST", "localhost"),
+        port=os.getenv("DB_PORT", "5432"),
+        dbname=os.getenv("DB_NAME", "job_skill_analyzer"),
+        user=os.getenv("DB_USER", "postgres"),
+        password=os.getenv("DB_PASSWORD")
     )
 
-    # Get job data
     query = """
     SELECT
         job_id,
@@ -34,21 +48,16 @@ def get_skill_details(selected_skill):
 
     connection.close()
 
-    # ---------------------------------------------------------
-    # Selected skill
-    # ---------------------------------------------------------
-
     print("\nSelected skill:", selected_skill)
 
-    # ---------------------------------------------------------
-    # Find jobs requiring the selected skill
-    # ---------------------------------------------------------
+    df["skills_list"] = df["skills_required"].apply(split_skills)
 
     matching_jobs = df[
-        df["skills_required"].str.contains(
-            selected_skill,
-            case=False,
-            na=False
+        df["skills_list"].apply(
+            lambda skills: any(
+                skill == selected_skill
+                for skill in skills
+            )
         )
     ].copy()
 
@@ -57,10 +66,6 @@ def get_skill_details(selected_skill):
         selected_skill + ":",
         len(matching_jobs)
     )
-
-    # ---------------------------------------------------------
-    # Skill demand
-    # ---------------------------------------------------------
 
     total_jobs = len(df)
     skill_job_count = len(matching_jobs)
@@ -77,10 +82,6 @@ def get_skill_details(selected_skill):
         round(demand_percentage, 2),
         "%"
     )
-
-    # ---------------------------------------------------------
-    # Related keywords
-    # ---------------------------------------------------------
 
     related_keyword_counts = {}
 
@@ -127,13 +128,7 @@ def get_skill_details(selected_skill):
         selected_skill + ":"
     )
 
-    print(
-        related_results.head(10)
-    )
-
-    # ---------------------------------------------------------
-    # Categories
-    # ---------------------------------------------------------
+    print(related_results.head(10))
 
     matching_jobs["category"] = matching_jobs.apply(
         assign_category,
@@ -153,10 +148,6 @@ def get_skill_details(selected_skill):
 
     print(category_counts)
 
-    # ---------------------------------------------------------
-    # Locations
-    # ---------------------------------------------------------
-
     location_counts = (
         matching_jobs["location"]
         .value_counts()
@@ -169,10 +160,6 @@ def get_skill_details(selected_skill):
     )
 
     print(location_counts.head(10))
-
-    # ---------------------------------------------------------
-    # Experience
-    # ---------------------------------------------------------
 
     experience_counts = (
         matching_jobs["experience"]
@@ -187,10 +174,6 @@ def get_skill_details(selected_skill):
 
     print(experience_counts)
 
-    # ---------------------------------------------------------
-    # Companies
-    # ---------------------------------------------------------
-
     company_counts = (
         matching_jobs["company_name"]
         .value_counts()
@@ -202,10 +185,6 @@ def get_skill_details(selected_skill):
     )
 
     print(company_counts.head(10))
-
-    # ---------------------------------------------------------
-    # Job listings
-    # ---------------------------------------------------------
 
     print(
         "\nJobs requiring",
