@@ -9,7 +9,7 @@ from category_rules import assign_category
 def split_skills(skill_text):
     if pd.isna(skill_text):
         return []
-
+        
     skills = [
         skill.strip()
         for skill in str(skill_text).split(",")
