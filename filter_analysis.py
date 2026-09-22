@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import psycopg
 from category_rules import assign_category
@@ -11,7 +12,7 @@ def filter_jobs(selected_category, selected_location, selected_experience, compa
         port=5432,
         dbname="job_skill_analyzer",
         user="postgres",
-        password="9987733381k"
+        password=os.getenv("DB_PASSWORD")
     )
 
     # Get job data from PostgreSQL
