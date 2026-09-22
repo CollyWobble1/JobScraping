@@ -59,3 +59,25 @@ Skill Details
 
 ```bash
 pip install -r requirements.txt
+
+```markdown
+### Set up PostgreSQL
+
+Create a PostgreSQL database named:
+
+```text
+job_skill_analyzer
+
+### Run database setup
+
+After PostgreSQL is running, execute:
+
+```bash
+python manage.py migrate
+
+### Run the web application
+
+Start the Django development server:
+
+```bash
+python manage.py runserver
